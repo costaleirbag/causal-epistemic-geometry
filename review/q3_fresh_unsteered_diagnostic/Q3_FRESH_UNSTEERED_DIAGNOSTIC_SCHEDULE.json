@@ -1,0 +1,4817 @@
+{
+  "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+  "evidence_level": "POST_HOC_DIAGNOSTIC_ONLY",
+  "families": 300,
+  "historical_seed_collisions": 0,
+  "logical_generations": 600,
+  "rollouts": [
+    0,
+    1
+  ],
+  "rows": [
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-210987b8c150b6c3bb50",
+      "family_order": 0,
+      "prompt_sha256": "175ac939f2e96ca00d025626475e767b402e42ecd9bdadd7737cb82992f01652",
+      "rollout_index": 0,
+      "seed": 1968272277911232846
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-210987b8c150b6c3bb50",
+      "family_order": 0,
+      "prompt_sha256": "175ac939f2e96ca00d025626475e767b402e42ecd9bdadd7737cb82992f01652",
+      "rollout_index": 1,
+      "seed": 346848723638371327
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e107a46fb47a8cc8bd14",
+      "family_order": 1,
+      "prompt_sha256": "d1b47f933e1acf3cdc17de782e3d15f12e7c04df712c08895a31e01cb8844a09",
+      "rollout_index": 0,
+      "seed": 474153742237483322
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e107a46fb47a8cc8bd14",
+      "family_order": 1,
+      "prompt_sha256": "d1b47f933e1acf3cdc17de782e3d15f12e7c04df712c08895a31e01cb8844a09",
+      "rollout_index": 1,
+      "seed": 5589769710552989356
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7eead25a59aa9a536edd",
+      "family_order": 2,
+      "prompt_sha256": "5dfcadae286a8cdfa282f48a45dfff9b0e26671138eece0e4e736fcede1ed60a",
+      "rollout_index": 0,
+      "seed": 4594582166164640602
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7eead25a59aa9a536edd",
+      "family_order": 2,
+      "prompt_sha256": "5dfcadae286a8cdfa282f48a45dfff9b0e26671138eece0e4e736fcede1ed60a",
+      "rollout_index": 1,
+      "seed": 274951012362801899
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d6b41dbdd1470f4e934b",
+      "family_order": 3,
+      "prompt_sha256": "d10a1c84b77c0794873ea72c3159a1819a15c1b864ae8e70fd53e75d1bb06330",
+      "rollout_index": 0,
+      "seed": 5611021533300677511
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d6b41dbdd1470f4e934b",
+      "family_order": 3,
+      "prompt_sha256": "d10a1c84b77c0794873ea72c3159a1819a15c1b864ae8e70fd53e75d1bb06330",
+      "rollout_index": 1,
+      "seed": 2434066224144345376
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-25c8c29c8ff57a77cf96",
+      "family_order": 4,
+      "prompt_sha256": "027691e54dc91c68c4e85d4b35a03e7ba70a0612c44d16c6186b73c8b26d17a5",
+      "rollout_index": 0,
+      "seed": 3785322908583696311
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-25c8c29c8ff57a77cf96",
+      "family_order": 4,
+      "prompt_sha256": "027691e54dc91c68c4e85d4b35a03e7ba70a0612c44d16c6186b73c8b26d17a5",
+      "rollout_index": 1,
+      "seed": 3760782280143278580
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-277a4c8b7c1a8039d7d2",
+      "family_order": 5,
+      "prompt_sha256": "98c9b6f024d7169b3de52b4ee980ed2b11f805859985fdfaaf006bf82f2e35c0",
+      "rollout_index": 0,
+      "seed": 8732677877168340617
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-277a4c8b7c1a8039d7d2",
+      "family_order": 5,
+      "prompt_sha256": "98c9b6f024d7169b3de52b4ee980ed2b11f805859985fdfaaf006bf82f2e35c0",
+      "rollout_index": 1,
+      "seed": 4977821032355903195
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7597791a46dd6d936c91",
+      "family_order": 6,
+      "prompt_sha256": "46c2302effa6fe7843c4aa985078cdc0db6b56d53d1718520fbc1ba4dddda889",
+      "rollout_index": 0,
+      "seed": 4087423876734628232
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7597791a46dd6d936c91",
+      "family_order": 6,
+      "prompt_sha256": "46c2302effa6fe7843c4aa985078cdc0db6b56d53d1718520fbc1ba4dddda889",
+      "rollout_index": 1,
+      "seed": 8761831899830204933
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-76db99c7e9003fa73127",
+      "family_order": 7,
+      "prompt_sha256": "c70dc8421d00251f358b1f5354c6b8419fe0223709113b5fbafbef8effe31b65",
+      "rollout_index": 0,
+      "seed": 8423995804902369644
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-76db99c7e9003fa73127",
+      "family_order": 7,
+      "prompt_sha256": "c70dc8421d00251f358b1f5354c6b8419fe0223709113b5fbafbef8effe31b65",
+      "rollout_index": 1,
+      "seed": 5584160719338754804
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bb5fef0a10f6c145cc45",
+      "family_order": 8,
+      "prompt_sha256": "a8edd03b1b9d53eb95046e6ba7f8fcb388d488c222f86d9db6dfde2883cc44cd",
+      "rollout_index": 0,
+      "seed": 2973147938719100260
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bb5fef0a10f6c145cc45",
+      "family_order": 8,
+      "prompt_sha256": "a8edd03b1b9d53eb95046e6ba7f8fcb388d488c222f86d9db6dfde2883cc44cd",
+      "rollout_index": 1,
+      "seed": 4809907561260898139
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3392842384a4b58bc911",
+      "family_order": 9,
+      "prompt_sha256": "c8ec03d8036a035c121dd469a8bf6806f1d4e615cca1dfd7fad19067580559f4",
+      "rollout_index": 0,
+      "seed": 3102061844340690733
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3392842384a4b58bc911",
+      "family_order": 9,
+      "prompt_sha256": "c8ec03d8036a035c121dd469a8bf6806f1d4e615cca1dfd7fad19067580559f4",
+      "rollout_index": 1,
+      "seed": 9077363245247334372
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5658f95ae2ad0966e2b0",
+      "family_order": 10,
+      "prompt_sha256": "c9867677f7de68ac829be1b8e31af8778096c10aaf52232e8ef26d5ff5d8cb09",
+      "rollout_index": 0,
+      "seed": 5844598644938085706
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5658f95ae2ad0966e2b0",
+      "family_order": 10,
+      "prompt_sha256": "c9867677f7de68ac829be1b8e31af8778096c10aaf52232e8ef26d5ff5d8cb09",
+      "rollout_index": 1,
+      "seed": 9046463652626002008
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5613e1b9eae11b70dfe2",
+      "family_order": 11,
+      "prompt_sha256": "cfae8a212d9ae871e8b48b0657364741033337f8b7c321a5ece1c1238a1626d0",
+      "rollout_index": 0,
+      "seed": 8518033659747138814
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5613e1b9eae11b70dfe2",
+      "family_order": 11,
+      "prompt_sha256": "cfae8a212d9ae871e8b48b0657364741033337f8b7c321a5ece1c1238a1626d0",
+      "rollout_index": 1,
+      "seed": 4514222850639922438
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bb1f243f4d015b7961b1",
+      "family_order": 12,
+      "prompt_sha256": "e43b4a98fb3dea9732b5270f29a41903529e3658a8bffaed513417fb6bd24dab",
+      "rollout_index": 0,
+      "seed": 775589716509399857
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bb1f243f4d015b7961b1",
+      "family_order": 12,
+      "prompt_sha256": "e43b4a98fb3dea9732b5270f29a41903529e3658a8bffaed513417fb6bd24dab",
+      "rollout_index": 1,
+      "seed": 5172950941641859791
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8ed441a8e7bbac84e497",
+      "family_order": 13,
+      "prompt_sha256": "7a751f28aaf0166ea5bc6af9950603c26696d22f3e907b41b690217fd6ee1ffa",
+      "rollout_index": 0,
+      "seed": 6101082236275529157
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8ed441a8e7bbac84e497",
+      "family_order": 13,
+      "prompt_sha256": "7a751f28aaf0166ea5bc6af9950603c26696d22f3e907b41b690217fd6ee1ffa",
+      "rollout_index": 1,
+      "seed": 2700423716487297857
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-eed14b263367e53d15c0",
+      "family_order": 14,
+      "prompt_sha256": "1ed87e76e76f61c969c9b300a6aa611550ee4b612c8b2686336f7dbc5f925be1",
+      "rollout_index": 0,
+      "seed": 1829624203411380615
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-eed14b263367e53d15c0",
+      "family_order": 14,
+      "prompt_sha256": "1ed87e76e76f61c969c9b300a6aa611550ee4b612c8b2686336f7dbc5f925be1",
+      "rollout_index": 1,
+      "seed": 7241215959670150501
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fb2316fdbb1186a005a3",
+      "family_order": 15,
+      "prompt_sha256": "167d786398219c2efa4f62a54cfd8d03ced1f6d52f7a70226965ea9222d09f61",
+      "rollout_index": 0,
+      "seed": 7225550543735729670
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fb2316fdbb1186a005a3",
+      "family_order": 15,
+      "prompt_sha256": "167d786398219c2efa4f62a54cfd8d03ced1f6d52f7a70226965ea9222d09f61",
+      "rollout_index": 1,
+      "seed": 2182814815290034052
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3ca62e343e68e103f8ad",
+      "family_order": 16,
+      "prompt_sha256": "da8d934b5f1c6314399d0dd31a6d4acb989a71bf7b64bec145b78e64130d5c8d",
+      "rollout_index": 0,
+      "seed": 2671731958627624233
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3ca62e343e68e103f8ad",
+      "family_order": 16,
+      "prompt_sha256": "da8d934b5f1c6314399d0dd31a6d4acb989a71bf7b64bec145b78e64130d5c8d",
+      "rollout_index": 1,
+      "seed": 8033573379461382652
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-47ddc1d9644bf181e80b",
+      "family_order": 17,
+      "prompt_sha256": "bc72a4c31739c1fa72ff64fd29870922153531e2aca42e3644e0ba3cbc0243d2",
+      "rollout_index": 0,
+      "seed": 5154389404873435181
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-47ddc1d9644bf181e80b",
+      "family_order": 17,
+      "prompt_sha256": "bc72a4c31739c1fa72ff64fd29870922153531e2aca42e3644e0ba3cbc0243d2",
+      "rollout_index": 1,
+      "seed": 1573554953322759608
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bff634e2528a2e61a442",
+      "family_order": 18,
+      "prompt_sha256": "d1c08662eb6c2723cf01d6e66fe72d86bfd9714072e8b11adc3ce14e0464db38",
+      "rollout_index": 0,
+      "seed": 4257435146788612078
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bff634e2528a2e61a442",
+      "family_order": 18,
+      "prompt_sha256": "d1c08662eb6c2723cf01d6e66fe72d86bfd9714072e8b11adc3ce14e0464db38",
+      "rollout_index": 1,
+      "seed": 9014448537536661894
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cbd2ad81bb88fdba2ab1",
+      "family_order": 19,
+      "prompt_sha256": "d2675cf401982c8ee8e5c08e6bfcd2e9b861097f881b307a036f2cddeea70d9f",
+      "rollout_index": 0,
+      "seed": 5948857568775307100
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cbd2ad81bb88fdba2ab1",
+      "family_order": 19,
+      "prompt_sha256": "d2675cf401982c8ee8e5c08e6bfcd2e9b861097f881b307a036f2cddeea70d9f",
+      "rollout_index": 1,
+      "seed": 4282047290451912046
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c75eba15d3e57d8ce7f7",
+      "family_order": 20,
+      "prompt_sha256": "ac71be944fb531eebb634adab5de474c9a0ce32034c75cffa95fafb95dca0ae5",
+      "rollout_index": 0,
+      "seed": 3684914574859525272
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c75eba15d3e57d8ce7f7",
+      "family_order": 20,
+      "prompt_sha256": "ac71be944fb531eebb634adab5de474c9a0ce32034c75cffa95fafb95dca0ae5",
+      "rollout_index": 1,
+      "seed": 7512876049560487194
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-88c2ae24f7b90f5fd13a",
+      "family_order": 21,
+      "prompt_sha256": "d43e1c5eabb43ca5c74456855b2def64531d0a81e0c7c668d97a59276d3e7906",
+      "rollout_index": 0,
+      "seed": 4526514568956316102
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-88c2ae24f7b90f5fd13a",
+      "family_order": 21,
+      "prompt_sha256": "d43e1c5eabb43ca5c74456855b2def64531d0a81e0c7c668d97a59276d3e7906",
+      "rollout_index": 1,
+      "seed": 4136223373485073429
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cb98fd7dbd3ae6cfb8d9",
+      "family_order": 22,
+      "prompt_sha256": "dcee2b112997008fe0f20fbcbdfd80f5c6a3c81909c5f23db36262938a2ebdbf",
+      "rollout_index": 0,
+      "seed": 6146135657466701711
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cb98fd7dbd3ae6cfb8d9",
+      "family_order": 22,
+      "prompt_sha256": "dcee2b112997008fe0f20fbcbdfd80f5c6a3c81909c5f23db36262938a2ebdbf",
+      "rollout_index": 1,
+      "seed": 5612265199996824292
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6798a7666567b7893bc1",
+      "family_order": 23,
+      "prompt_sha256": "546bcc807d4af8c133974a4675c59f8794f0ac4cb5f1f15acecedfa634b08b15",
+      "rollout_index": 0,
+      "seed": 3069162565884135628
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6798a7666567b7893bc1",
+      "family_order": 23,
+      "prompt_sha256": "546bcc807d4af8c133974a4675c59f8794f0ac4cb5f1f15acecedfa634b08b15",
+      "rollout_index": 1,
+      "seed": 7411862392517801452
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cc3e1a034b5067c469da",
+      "family_order": 24,
+      "prompt_sha256": "da13f6e37bb7d1b87eb923215c70e63f58f5b5e11df16a07e75400d35bf36ba0",
+      "rollout_index": 0,
+      "seed": 7932277181931224793
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cc3e1a034b5067c469da",
+      "family_order": 24,
+      "prompt_sha256": "da13f6e37bb7d1b87eb923215c70e63f58f5b5e11df16a07e75400d35bf36ba0",
+      "rollout_index": 1,
+      "seed": 7504804576552874815
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1c58ab9b887e543c59a9",
+      "family_order": 25,
+      "prompt_sha256": "5418d9b4e9e54c60b661c3356a4de949584bc7ba3ec048598ffce7eb945dbd96",
+      "rollout_index": 0,
+      "seed": 6794847632290332032
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1c58ab9b887e543c59a9",
+      "family_order": 25,
+      "prompt_sha256": "5418d9b4e9e54c60b661c3356a4de949584bc7ba3ec048598ffce7eb945dbd96",
+      "rollout_index": 1,
+      "seed": 69861822582421265
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-315345a9e3b0f6a214f7",
+      "family_order": 26,
+      "prompt_sha256": "45e5e2acda728ae8a091ea31134581932b7c09030d965c803ea23d4deb674f92",
+      "rollout_index": 0,
+      "seed": 2135566671038579218
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-315345a9e3b0f6a214f7",
+      "family_order": 26,
+      "prompt_sha256": "45e5e2acda728ae8a091ea31134581932b7c09030d965c803ea23d4deb674f92",
+      "rollout_index": 1,
+      "seed": 9168946112629305565
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e8605cd82639a2d087e3",
+      "family_order": 27,
+      "prompt_sha256": "42ef41c59cac07ce062129270f09e33a49d03e6cf5e3116f0ca266f9f338ed0c",
+      "rollout_index": 0,
+      "seed": 5165064885808207373
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e8605cd82639a2d087e3",
+      "family_order": 27,
+      "prompt_sha256": "42ef41c59cac07ce062129270f09e33a49d03e6cf5e3116f0ca266f9f338ed0c",
+      "rollout_index": 1,
+      "seed": 8156253400335409926
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b4c81b2c14ecebfdc879",
+      "family_order": 28,
+      "prompt_sha256": "6165742fbb0a815cdc95ebf816ab057b243aaaa4243a17a9b2385c372f572075",
+      "rollout_index": 0,
+      "seed": 1829434388099083223
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b4c81b2c14ecebfdc879",
+      "family_order": 28,
+      "prompt_sha256": "6165742fbb0a815cdc95ebf816ab057b243aaaa4243a17a9b2385c372f572075",
+      "rollout_index": 1,
+      "seed": 8798318499498648960
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2f1dffe56865d7d5a0a0",
+      "family_order": 29,
+      "prompt_sha256": "1a22ab77d4d1b92a49dd7b7eb7356d0f811d4b3e5775f4cb304945597fd01c52",
+      "rollout_index": 0,
+      "seed": 8191796617923444287
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2f1dffe56865d7d5a0a0",
+      "family_order": 29,
+      "prompt_sha256": "1a22ab77d4d1b92a49dd7b7eb7356d0f811d4b3e5775f4cb304945597fd01c52",
+      "rollout_index": 1,
+      "seed": 1052405458774777523
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-51c26fc101c00d4631d8",
+      "family_order": 30,
+      "prompt_sha256": "e74f65a9c23dc1252ff111e1619ed647694f23e4050c3dc9cee32367f5072d40",
+      "rollout_index": 0,
+      "seed": 4839933596206086900
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-51c26fc101c00d4631d8",
+      "family_order": 30,
+      "prompt_sha256": "e74f65a9c23dc1252ff111e1619ed647694f23e4050c3dc9cee32367f5072d40",
+      "rollout_index": 1,
+      "seed": 5067992766356326638
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-936b30aaf683d31aee42",
+      "family_order": 31,
+      "prompt_sha256": "abf86a96071a36e3da2aa80c6555c6e1b336d3ae39610a0de960ef429fb8f94c",
+      "rollout_index": 0,
+      "seed": 7239181078932079986
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-936b30aaf683d31aee42",
+      "family_order": 31,
+      "prompt_sha256": "abf86a96071a36e3da2aa80c6555c6e1b336d3ae39610a0de960ef429fb8f94c",
+      "rollout_index": 1,
+      "seed": 7558991301537827780
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-236e00a7d8ea0d31f15f",
+      "family_order": 32,
+      "prompt_sha256": "23d4c73930f2a459bff03f85ccba02f0d91642e02492c0d7c74895510d65c6de",
+      "rollout_index": 0,
+      "seed": 2317580898862227085
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-236e00a7d8ea0d31f15f",
+      "family_order": 32,
+      "prompt_sha256": "23d4c73930f2a459bff03f85ccba02f0d91642e02492c0d7c74895510d65c6de",
+      "rollout_index": 1,
+      "seed": 7011998398026791263
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6fcdad67589ad841f793",
+      "family_order": 33,
+      "prompt_sha256": "732f82e531cb570e0b91ace5eccc61689eb379f039fb3f97fd669b3df96bd30b",
+      "rollout_index": 0,
+      "seed": 2896913500530802776
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6fcdad67589ad841f793",
+      "family_order": 33,
+      "prompt_sha256": "732f82e531cb570e0b91ace5eccc61689eb379f039fb3f97fd669b3df96bd30b",
+      "rollout_index": 1,
+      "seed": 9040820571390645364
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f4905e04c4dac9881af8",
+      "family_order": 34,
+      "prompt_sha256": "11a5747bfc0cbb4e81fa63f0a412dab7f3c4736df7b78b5044675cc54f7305a1",
+      "rollout_index": 0,
+      "seed": 1995620861106218025
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f4905e04c4dac9881af8",
+      "family_order": 34,
+      "prompt_sha256": "11a5747bfc0cbb4e81fa63f0a412dab7f3c4736df7b78b5044675cc54f7305a1",
+      "rollout_index": 1,
+      "seed": 713448300594500746
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8a9c23ac2cfbccf34de8",
+      "family_order": 35,
+      "prompt_sha256": "f9ac8e10c55f5a3b91386eb274a1ddbd92e77c9729d7cea3c38c7e567927c6bb",
+      "rollout_index": 0,
+      "seed": 7205382038391063167
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8a9c23ac2cfbccf34de8",
+      "family_order": 35,
+      "prompt_sha256": "f9ac8e10c55f5a3b91386eb274a1ddbd92e77c9729d7cea3c38c7e567927c6bb",
+      "rollout_index": 1,
+      "seed": 7536495360578750921
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-00127e73a5ed6b74778b",
+      "family_order": 36,
+      "prompt_sha256": "352b8a378c750c7c9c7bf14e3a5abfe74d751c9efe394e09c5cc3abc7f30fd70",
+      "rollout_index": 0,
+      "seed": 8150374987775210327
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-00127e73a5ed6b74778b",
+      "family_order": 36,
+      "prompt_sha256": "352b8a378c750c7c9c7bf14e3a5abfe74d751c9efe394e09c5cc3abc7f30fd70",
+      "rollout_index": 1,
+      "seed": 9071636020313514532
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6c50afb64abfa0b3d2a1",
+      "family_order": 37,
+      "prompt_sha256": "36201492d44890998953adbb9a0e589dbc2044256a07457596466cecc71af4b1",
+      "rollout_index": 0,
+      "seed": 6207389744407584690
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6c50afb64abfa0b3d2a1",
+      "family_order": 37,
+      "prompt_sha256": "36201492d44890998953adbb9a0e589dbc2044256a07457596466cecc71af4b1",
+      "rollout_index": 1,
+      "seed": 2702308101183391237
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af6772286ccefdc1c5f2",
+      "family_order": 38,
+      "prompt_sha256": "28019ba80474c896912808bda3f59cf960323b4ea9d4b8fd87b6521719f17a75",
+      "rollout_index": 0,
+      "seed": 8610718408070870911
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af6772286ccefdc1c5f2",
+      "family_order": 38,
+      "prompt_sha256": "28019ba80474c896912808bda3f59cf960323b4ea9d4b8fd87b6521719f17a75",
+      "rollout_index": 1,
+      "seed": 7107010656025635973
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1049d0cd24ae796e4e21",
+      "family_order": 39,
+      "prompt_sha256": "aaa76be14fb9012178b8493359409576a943968e7dd8abaef6cd5089a1405147",
+      "rollout_index": 0,
+      "seed": 2591821309821840555
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1049d0cd24ae796e4e21",
+      "family_order": 39,
+      "prompt_sha256": "aaa76be14fb9012178b8493359409576a943968e7dd8abaef6cd5089a1405147",
+      "rollout_index": 1,
+      "seed": 6768176683374605298
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a9c585e66cd1f7b31e6c",
+      "family_order": 40,
+      "prompt_sha256": "d83061b4314db997ee2ff962fef4ad3f16a8cc13082b5c904304a7ae915d68c2",
+      "rollout_index": 0,
+      "seed": 8966053495614636038
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a9c585e66cd1f7b31e6c",
+      "family_order": 40,
+      "prompt_sha256": "d83061b4314db997ee2ff962fef4ad3f16a8cc13082b5c904304a7ae915d68c2",
+      "rollout_index": 1,
+      "seed": 8232098808017343429
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-20395978385808d41ad0",
+      "family_order": 41,
+      "prompt_sha256": "a3a1a99cfd452dd75b54e4839f9aab7973f7d1629fac1553bc84a6203ec0689c",
+      "rollout_index": 0,
+      "seed": 644118541857196070
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-20395978385808d41ad0",
+      "family_order": 41,
+      "prompt_sha256": "a3a1a99cfd452dd75b54e4839f9aab7973f7d1629fac1553bc84a6203ec0689c",
+      "rollout_index": 1,
+      "seed": 1824682267971828904
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b38be704cb12e08bd682",
+      "family_order": 42,
+      "prompt_sha256": "37d90dcd03dac65ab9101750c107d6cdf1c760a59f0779917405d3251168eabc",
+      "rollout_index": 0,
+      "seed": 7957290974781315719
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b38be704cb12e08bd682",
+      "family_order": 42,
+      "prompt_sha256": "37d90dcd03dac65ab9101750c107d6cdf1c760a59f0779917405d3251168eabc",
+      "rollout_index": 1,
+      "seed": 3956380733742380944
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-22bfe8b22a558c3c079a",
+      "family_order": 43,
+      "prompt_sha256": "d415e64444e7e950a4ac24b3463a886f63221a8e2031465b6e9b313f40983ea6",
+      "rollout_index": 0,
+      "seed": 4122595277777880616
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-22bfe8b22a558c3c079a",
+      "family_order": 43,
+      "prompt_sha256": "d415e64444e7e950a4ac24b3463a886f63221a8e2031465b6e9b313f40983ea6",
+      "rollout_index": 1,
+      "seed": 3303539188213313274
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2be6f2227c27c7271d49",
+      "family_order": 44,
+      "prompt_sha256": "c68d7ec205c87b5ae7c6b94e6a1326ce720e85eee5406a4713848341fe59a139",
+      "rollout_index": 0,
+      "seed": 111745598046752493
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2be6f2227c27c7271d49",
+      "family_order": 44,
+      "prompt_sha256": "c68d7ec205c87b5ae7c6b94e6a1326ce720e85eee5406a4713848341fe59a139",
+      "rollout_index": 1,
+      "seed": 1176322069508607529
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0941652532b8522a9483",
+      "family_order": 45,
+      "prompt_sha256": "e561b843a3328e3a3451afade0a13525aa817133c1e84e4d102ecafb7d1e0728",
+      "rollout_index": 0,
+      "seed": 2253798769687356157
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0941652532b8522a9483",
+      "family_order": 45,
+      "prompt_sha256": "e561b843a3328e3a3451afade0a13525aa817133c1e84e4d102ecafb7d1e0728",
+      "rollout_index": 1,
+      "seed": 4702312839327408673
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-033b7905904ffeac81af",
+      "family_order": 46,
+      "prompt_sha256": "11515fd8e9adc2564c0dcf61846b8a89c25c1689187a33f5f39d83c37ab95de1",
+      "rollout_index": 0,
+      "seed": 3467119458726493790
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-033b7905904ffeac81af",
+      "family_order": 46,
+      "prompt_sha256": "11515fd8e9adc2564c0dcf61846b8a89c25c1689187a33f5f39d83c37ab95de1",
+      "rollout_index": 1,
+      "seed": 6534967008231052843
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-00bd728746eee5687709",
+      "family_order": 47,
+      "prompt_sha256": "975de6f748762080f27094d51bd0a9eb9fe6b02b9a533a260bbd27eb9bbeef64",
+      "rollout_index": 0,
+      "seed": 2304085310523470072
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-00bd728746eee5687709",
+      "family_order": 47,
+      "prompt_sha256": "975de6f748762080f27094d51bd0a9eb9fe6b02b9a533a260bbd27eb9bbeef64",
+      "rollout_index": 1,
+      "seed": 1552172910842304844
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-58cdc366995812fa95c1",
+      "family_order": 48,
+      "prompt_sha256": "7e006179d552eeec08702df0665a0e7c6b931c249b53de8bcdeb76c645f29f27",
+      "rollout_index": 0,
+      "seed": 7169768938093270441
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-58cdc366995812fa95c1",
+      "family_order": 48,
+      "prompt_sha256": "7e006179d552eeec08702df0665a0e7c6b931c249b53de8bcdeb76c645f29f27",
+      "rollout_index": 1,
+      "seed": 5064552686446632037
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-389f6d8e359ba64aa1f6",
+      "family_order": 49,
+      "prompt_sha256": "254f2868eb7d021fb0b3b0256d4414f98b0281fd69ad24d99c8c9f53a33c0f20",
+      "rollout_index": 0,
+      "seed": 1407797548482466878
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-389f6d8e359ba64aa1f6",
+      "family_order": 49,
+      "prompt_sha256": "254f2868eb7d021fb0b3b0256d4414f98b0281fd69ad24d99c8c9f53a33c0f20",
+      "rollout_index": 1,
+      "seed": 3742808319133767552
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0f2bab11f67d38e6c2b3",
+      "family_order": 50,
+      "prompt_sha256": "c153a50729773b2e5bee71635d5024e0264e1ebff2fba06bd153b30de71585b9",
+      "rollout_index": 0,
+      "seed": 833738436581559887
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0f2bab11f67d38e6c2b3",
+      "family_order": 50,
+      "prompt_sha256": "c153a50729773b2e5bee71635d5024e0264e1ebff2fba06bd153b30de71585b9",
+      "rollout_index": 1,
+      "seed": 2890402575764902305
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d29cc47ad50ee5308c6e",
+      "family_order": 51,
+      "prompt_sha256": "71e00107eabc3cda20a3b71a91dcc45c493117d299543122a6f3364a24412754",
+      "rollout_index": 0,
+      "seed": 893136500554367944
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d29cc47ad50ee5308c6e",
+      "family_order": 51,
+      "prompt_sha256": "71e00107eabc3cda20a3b71a91dcc45c493117d299543122a6f3364a24412754",
+      "rollout_index": 1,
+      "seed": 9205454223110625970
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1f55e41b6eb38c0fdcdf",
+      "family_order": 52,
+      "prompt_sha256": "334c293b4ac8165ba418d04733ca478305b3869a6a247666fc1ca325fb0cc626",
+      "rollout_index": 0,
+      "seed": 1163602978676358819
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1f55e41b6eb38c0fdcdf",
+      "family_order": 52,
+      "prompt_sha256": "334c293b4ac8165ba418d04733ca478305b3869a6a247666fc1ca325fb0cc626",
+      "rollout_index": 1,
+      "seed": 1612652462048302111
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-68777bde7f9ca8fa5a64",
+      "family_order": 53,
+      "prompt_sha256": "2e194818bc17c860ba267e0b51301a8e0f309881490a31be7cdaa6a09a7d9668",
+      "rollout_index": 0,
+      "seed": 2472214211817311407
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-68777bde7f9ca8fa5a64",
+      "family_order": 53,
+      "prompt_sha256": "2e194818bc17c860ba267e0b51301a8e0f309881490a31be7cdaa6a09a7d9668",
+      "rollout_index": 1,
+      "seed": 4219432333688969177
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0f4cb578f50a3eaaa9be",
+      "family_order": 54,
+      "prompt_sha256": "412ded963e6fd3052d2a580e327c7e7a1fbb3b8a7b3d63d8e19a145485e74e93",
+      "rollout_index": 0,
+      "seed": 388825233283787388
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0f4cb578f50a3eaaa9be",
+      "family_order": 54,
+      "prompt_sha256": "412ded963e6fd3052d2a580e327c7e7a1fbb3b8a7b3d63d8e19a145485e74e93",
+      "rollout_index": 1,
+      "seed": 4686833411124602115
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8351891a4015ea9a5cc8",
+      "family_order": 55,
+      "prompt_sha256": "5ce5761e836be4adc4fd45d20ae3b03da22ad4d839bedb722e384b08385d7492",
+      "rollout_index": 0,
+      "seed": 2522223997785320079
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8351891a4015ea9a5cc8",
+      "family_order": 55,
+      "prompt_sha256": "5ce5761e836be4adc4fd45d20ae3b03da22ad4d839bedb722e384b08385d7492",
+      "rollout_index": 1,
+      "seed": 8058740135017002050
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2408a367aecbf85f9128",
+      "family_order": 56,
+      "prompt_sha256": "fd36de854b78ba5ebf57193468cb3ccb211a9c60d645f5692f41c2703ed8bdcf",
+      "rollout_index": 0,
+      "seed": 624436373843258073
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2408a367aecbf85f9128",
+      "family_order": 56,
+      "prompt_sha256": "fd36de854b78ba5ebf57193468cb3ccb211a9c60d645f5692f41c2703ed8bdcf",
+      "rollout_index": 1,
+      "seed": 7053110102936631205
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b54573c86bdb94105278",
+      "family_order": 57,
+      "prompt_sha256": "f43e6a44d6f55aed7f221cc621d1a11f01b5a964fbd620e5f1eabd8b5e170ff5",
+      "rollout_index": 0,
+      "seed": 3497504287132199310
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b54573c86bdb94105278",
+      "family_order": 57,
+      "prompt_sha256": "f43e6a44d6f55aed7f221cc621d1a11f01b5a964fbd620e5f1eabd8b5e170ff5",
+      "rollout_index": 1,
+      "seed": 7730409816729511436
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-986b61a0da67d655b20a",
+      "family_order": 58,
+      "prompt_sha256": "bcba76e0afdcea3bc79f0b46a70a401bb85fe0c69bea9735f4bf3cf83642e1d0",
+      "rollout_index": 0,
+      "seed": 8695815383757013273
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-986b61a0da67d655b20a",
+      "family_order": 58,
+      "prompt_sha256": "bcba76e0afdcea3bc79f0b46a70a401bb85fe0c69bea9735f4bf3cf83642e1d0",
+      "rollout_index": 1,
+      "seed": 620157612780722887
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8d409b87d42191f582e0",
+      "family_order": 59,
+      "prompt_sha256": "1efe7ddba3bd3d3f453479913f8892e4126faba90c0cc86b25ec36a9d1a70e43",
+      "rollout_index": 0,
+      "seed": 4641887596558260363
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8d409b87d42191f582e0",
+      "family_order": 59,
+      "prompt_sha256": "1efe7ddba3bd3d3f453479913f8892e4126faba90c0cc86b25ec36a9d1a70e43",
+      "rollout_index": 1,
+      "seed": 8691343827309606802
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af4b7aaffb91846ccb95",
+      "family_order": 60,
+      "prompt_sha256": "a973ee3a835ff58c54ee714ac350a90de61ee2716bd78ebb96d0d95feea8eb36",
+      "rollout_index": 0,
+      "seed": 6805728721803650040
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af4b7aaffb91846ccb95",
+      "family_order": 60,
+      "prompt_sha256": "a973ee3a835ff58c54ee714ac350a90de61ee2716bd78ebb96d0d95feea8eb36",
+      "rollout_index": 1,
+      "seed": 5355733917661301465
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4d2f7365d577991f2695",
+      "family_order": 61,
+      "prompt_sha256": "c530f4ae630ecd958a99c36a8dcc01976f3dfc415a1868d5006e9f59e52a1d0c",
+      "rollout_index": 0,
+      "seed": 473422152360677078
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4d2f7365d577991f2695",
+      "family_order": 61,
+      "prompt_sha256": "c530f4ae630ecd958a99c36a8dcc01976f3dfc415a1868d5006e9f59e52a1d0c",
+      "rollout_index": 1,
+      "seed": 1640524816933176016
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-adb7fbe700c89b51b396",
+      "family_order": 62,
+      "prompt_sha256": "8c74cf958a7ce753debc1dcadad1a959616431193fb67c8c9b663dd0ac772cf5",
+      "rollout_index": 0,
+      "seed": 1919456819165220298
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-adb7fbe700c89b51b396",
+      "family_order": 62,
+      "prompt_sha256": "8c74cf958a7ce753debc1dcadad1a959616431193fb67c8c9b663dd0ac772cf5",
+      "rollout_index": 1,
+      "seed": 1557030325196686118
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1f75f4512ee780acbd94",
+      "family_order": 63,
+      "prompt_sha256": "34859886ae41d936e30698e4a7100c799935ff8e83719d91bd5775ee6a26c7d7",
+      "rollout_index": 0,
+      "seed": 2833087182559995834
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1f75f4512ee780acbd94",
+      "family_order": 63,
+      "prompt_sha256": "34859886ae41d936e30698e4a7100c799935ff8e83719d91bd5775ee6a26c7d7",
+      "rollout_index": 1,
+      "seed": 9165843939276426250
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-812a03ef193bdf70a038",
+      "family_order": 64,
+      "prompt_sha256": "92d6622e97b2c698a9738d328e60b4a4f84771c34af5445ecd671838b5621791",
+      "rollout_index": 0,
+      "seed": 4196797051333698983
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-812a03ef193bdf70a038",
+      "family_order": 64,
+      "prompt_sha256": "92d6622e97b2c698a9738d328e60b4a4f84771c34af5445ecd671838b5621791",
+      "rollout_index": 1,
+      "seed": 4854904033821744808
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4db6e74fa3f4efa2cc11",
+      "family_order": 65,
+      "prompt_sha256": "bf34c6e9812b21d255fa30cd64a8966cc1acbcdb40e0239919a265793112f16b",
+      "rollout_index": 0,
+      "seed": 7762814370447814647
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4db6e74fa3f4efa2cc11",
+      "family_order": 65,
+      "prompt_sha256": "bf34c6e9812b21d255fa30cd64a8966cc1acbcdb40e0239919a265793112f16b",
+      "rollout_index": 1,
+      "seed": 2025203322087351674
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d91d0191e9c674e03be0",
+      "family_order": 66,
+      "prompt_sha256": "1b54a67198499b6a7ab795cdab92bbdb0400ae95ff5d3d724af230d5eab1589f",
+      "rollout_index": 0,
+      "seed": 5900336515246078067
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d91d0191e9c674e03be0",
+      "family_order": 66,
+      "prompt_sha256": "1b54a67198499b6a7ab795cdab92bbdb0400ae95ff5d3d724af230d5eab1589f",
+      "rollout_index": 1,
+      "seed": 1946404147558706679
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0d40fe27b12cac9f2601",
+      "family_order": 67,
+      "prompt_sha256": "eff0f43f346d32037aebb383a7afcf06b2ce37cdae2ba416048de409443ea33d",
+      "rollout_index": 0,
+      "seed": 5645164494196672542
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0d40fe27b12cac9f2601",
+      "family_order": 67,
+      "prompt_sha256": "eff0f43f346d32037aebb383a7afcf06b2ce37cdae2ba416048de409443ea33d",
+      "rollout_index": 1,
+      "seed": 6553428870375160310
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-360427f69d96536325f4",
+      "family_order": 68,
+      "prompt_sha256": "7847d51126f7821907da78a9bfcd2ccd2bbdccc9ef12739ab7d559ba85175cd3",
+      "rollout_index": 0,
+      "seed": 4350070018886714053
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-360427f69d96536325f4",
+      "family_order": 68,
+      "prompt_sha256": "7847d51126f7821907da78a9bfcd2ccd2bbdccc9ef12739ab7d559ba85175cd3",
+      "rollout_index": 1,
+      "seed": 2766191661904731369
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7bacb5c3fb464dff2dd7",
+      "family_order": 69,
+      "prompt_sha256": "387f44b033f7a2246fb143748263fb2f05bb3e6f46c9a4b411dc848a1fc692d6",
+      "rollout_index": 0,
+      "seed": 8736872886212282852
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7bacb5c3fb464dff2dd7",
+      "family_order": 69,
+      "prompt_sha256": "387f44b033f7a2246fb143748263fb2f05bb3e6f46c9a4b411dc848a1fc692d6",
+      "rollout_index": 1,
+      "seed": 1268020757430839788
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5f037b85db9af7983f4a",
+      "family_order": 70,
+      "prompt_sha256": "c03c065e08e4dcd44d2b2d89d85b97a21d851de856aa6f96efc9c4f36ccd84ac",
+      "rollout_index": 0,
+      "seed": 2648160547909904505
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5f037b85db9af7983f4a",
+      "family_order": 70,
+      "prompt_sha256": "c03c065e08e4dcd44d2b2d89d85b97a21d851de856aa6f96efc9c4f36ccd84ac",
+      "rollout_index": 1,
+      "seed": 5393600868628826222
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-75214ab5b5329bd0bf7c",
+      "family_order": 71,
+      "prompt_sha256": "bc90f95294f8471e335f5455c404e1ff5f7b6bf5c30572b532f66e207029ec4d",
+      "rollout_index": 0,
+      "seed": 3563414162242480953
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-75214ab5b5329bd0bf7c",
+      "family_order": 71,
+      "prompt_sha256": "bc90f95294f8471e335f5455c404e1ff5f7b6bf5c30572b532f66e207029ec4d",
+      "rollout_index": 1,
+      "seed": 615291533534147594
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-45890f49020723a9139c",
+      "family_order": 72,
+      "prompt_sha256": "bb1945e75ac39b02814c61ba4545ecc602a7d0663cc7acfe67e34d32f2fa7b66",
+      "rollout_index": 0,
+      "seed": 3628865141535833383
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-45890f49020723a9139c",
+      "family_order": 72,
+      "prompt_sha256": "bb1945e75ac39b02814c61ba4545ecc602a7d0663cc7acfe67e34d32f2fa7b66",
+      "rollout_index": 1,
+      "seed": 6902927859157187738
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-95994e99b94bbe838987",
+      "family_order": 73,
+      "prompt_sha256": "cd91b412380b95f69179e6a86dc1a2efb050c0d4eca60a0db72263db853c06e7",
+      "rollout_index": 0,
+      "seed": 8999096221221014534
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-95994e99b94bbe838987",
+      "family_order": 73,
+      "prompt_sha256": "cd91b412380b95f69179e6a86dc1a2efb050c0d4eca60a0db72263db853c06e7",
+      "rollout_index": 1,
+      "seed": 5435215791041500507
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c3b43d82e4f79eff5f5d",
+      "family_order": 74,
+      "prompt_sha256": "f751d5ed9c1ad5a398ca45f4952a020964d86be71b1fa4af9a976af74a299938",
+      "rollout_index": 0,
+      "seed": 6222335874299008854
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c3b43d82e4f79eff5f5d",
+      "family_order": 74,
+      "prompt_sha256": "f751d5ed9c1ad5a398ca45f4952a020964d86be71b1fa4af9a976af74a299938",
+      "rollout_index": 1,
+      "seed": 2295790112958857981
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-db01eec905c1bd1131be",
+      "family_order": 75,
+      "prompt_sha256": "70ae8b51c9d890dea3aad8bb9841865a70558f2a9c9c3ff1b30b23b9496aae0f",
+      "rollout_index": 0,
+      "seed": 4316182066646092887
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-db01eec905c1bd1131be",
+      "family_order": 75,
+      "prompt_sha256": "70ae8b51c9d890dea3aad8bb9841865a70558f2a9c9c3ff1b30b23b9496aae0f",
+      "rollout_index": 1,
+      "seed": 678189580415182337
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-10c7e693b47cacd149c6",
+      "family_order": 76,
+      "prompt_sha256": "8abac244a1184624ce061af76b0df890a09da98c433812a5945325cbbdbd9093",
+      "rollout_index": 0,
+      "seed": 5110940311589608787
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-10c7e693b47cacd149c6",
+      "family_order": 76,
+      "prompt_sha256": "8abac244a1184624ce061af76b0df890a09da98c433812a5945325cbbdbd9093",
+      "rollout_index": 1,
+      "seed": 7785353338901725146
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-09ba21e8872e42b0b43e",
+      "family_order": 77,
+      "prompt_sha256": "6b42ca195d22a4dd8d03415862e9221d85d08dd39851ad074309dc244d2dd4fe",
+      "rollout_index": 0,
+      "seed": 4578576422319872972
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-09ba21e8872e42b0b43e",
+      "family_order": 77,
+      "prompt_sha256": "6b42ca195d22a4dd8d03415862e9221d85d08dd39851ad074309dc244d2dd4fe",
+      "rollout_index": 1,
+      "seed": 7275878430641216686
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-abe204a74569c06a79da",
+      "family_order": 78,
+      "prompt_sha256": "377e119edf1ba09bc129f9f153c6845162043b37692d77ce8ed6e06078e50727",
+      "rollout_index": 0,
+      "seed": 8892061491977865898
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-abe204a74569c06a79da",
+      "family_order": 78,
+      "prompt_sha256": "377e119edf1ba09bc129f9f153c6845162043b37692d77ce8ed6e06078e50727",
+      "rollout_index": 1,
+      "seed": 4735110467396841140
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-514be73da1374123ac70",
+      "family_order": 79,
+      "prompt_sha256": "cb31ad95e2ae173c0ac0f71f7ca70685022a83e27817e2d05cc36d94c237ce00",
+      "rollout_index": 0,
+      "seed": 952809791798037658
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-514be73da1374123ac70",
+      "family_order": 79,
+      "prompt_sha256": "cb31ad95e2ae173c0ac0f71f7ca70685022a83e27817e2d05cc36d94c237ce00",
+      "rollout_index": 1,
+      "seed": 1011721445941448807
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-adc44f639cff02ea581a",
+      "family_order": 80,
+      "prompt_sha256": "4bff1fd5230e6b1b6e677e5df14839d4e2d8abff1089c4c66e79536c52aef7b2",
+      "rollout_index": 0,
+      "seed": 5028969201366279276
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-adc44f639cff02ea581a",
+      "family_order": 80,
+      "prompt_sha256": "4bff1fd5230e6b1b6e677e5df14839d4e2d8abff1089c4c66e79536c52aef7b2",
+      "rollout_index": 1,
+      "seed": 6825022151573022053
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-67de500deb1d61765962",
+      "family_order": 81,
+      "prompt_sha256": "9e1d0f81524521d201156a37abe533dfa9075beed33ffc0e98157a49c1974ecf",
+      "rollout_index": 0,
+      "seed": 4469053815170544863
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-67de500deb1d61765962",
+      "family_order": 81,
+      "prompt_sha256": "9e1d0f81524521d201156a37abe533dfa9075beed33ffc0e98157a49c1974ecf",
+      "rollout_index": 1,
+      "seed": 745678402485702517
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c2b6629a0cdaac20442d",
+      "family_order": 82,
+      "prompt_sha256": "36ef6a4d1fcda07042a6f831df58d7f57acd38ff6f55a63418753664d4f8a8a4",
+      "rollout_index": 0,
+      "seed": 5498197892230952710
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c2b6629a0cdaac20442d",
+      "family_order": 82,
+      "prompt_sha256": "36ef6a4d1fcda07042a6f831df58d7f57acd38ff6f55a63418753664d4f8a8a4",
+      "rollout_index": 1,
+      "seed": 8862782991387003733
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6e4d65d08528dc45fbbe",
+      "family_order": 83,
+      "prompt_sha256": "33e0ad0fbe3347fb98e78462a12d77afc9c138f3def0e64fe11fe19e9dbf1478",
+      "rollout_index": 0,
+      "seed": 255110791410673412
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6e4d65d08528dc45fbbe",
+      "family_order": 83,
+      "prompt_sha256": "33e0ad0fbe3347fb98e78462a12d77afc9c138f3def0e64fe11fe19e9dbf1478",
+      "rollout_index": 1,
+      "seed": 3129249757196062830
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fdd4ebbdd97f9ab53797",
+      "family_order": 84,
+      "prompt_sha256": "49232cec20072758aa883afa47764b7f8f15452f42a25ec30691fa65c38eda15",
+      "rollout_index": 0,
+      "seed": 6854635840208520781
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fdd4ebbdd97f9ab53797",
+      "family_order": 84,
+      "prompt_sha256": "49232cec20072758aa883afa47764b7f8f15452f42a25ec30691fa65c38eda15",
+      "rollout_index": 1,
+      "seed": 6564982722934134412
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c56fd9797179358388c0",
+      "family_order": 85,
+      "prompt_sha256": "f42497dc66f47a368ecbf5228a90ebc944c99619d5a9f92bed29c4b7c7121994",
+      "rollout_index": 0,
+      "seed": 8133001929243559234
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c56fd9797179358388c0",
+      "family_order": 85,
+      "prompt_sha256": "f42497dc66f47a368ecbf5228a90ebc944c99619d5a9f92bed29c4b7c7121994",
+      "rollout_index": 1,
+      "seed": 4387703219246723965
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e3290ea0ad7ee96c7da4",
+      "family_order": 86,
+      "prompt_sha256": "7e1bb31b5de7cd525d696fd30d7465b99aef876641e62cbef95cff4743f53def",
+      "rollout_index": 0,
+      "seed": 6810319867642314563
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e3290ea0ad7ee96c7da4",
+      "family_order": 86,
+      "prompt_sha256": "7e1bb31b5de7cd525d696fd30d7465b99aef876641e62cbef95cff4743f53def",
+      "rollout_index": 1,
+      "seed": 5786189356019863240
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e602578d8f3f56bd26f6",
+      "family_order": 87,
+      "prompt_sha256": "adecb4732967ea7a27abf98af513ebfcce9554aad7076bb5083801c00ceea3b6",
+      "rollout_index": 0,
+      "seed": 7674261624181149346
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e602578d8f3f56bd26f6",
+      "family_order": 87,
+      "prompt_sha256": "adecb4732967ea7a27abf98af513ebfcce9554aad7076bb5083801c00ceea3b6",
+      "rollout_index": 1,
+      "seed": 8024250638934669487
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7ac12bbd5a974981c909",
+      "family_order": 88,
+      "prompt_sha256": "0f284dd882b21b5a0d7f407d2f34effbf571a49057775c577c5aabc3f594cd1e",
+      "rollout_index": 0,
+      "seed": 4031568363278722896
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7ac12bbd5a974981c909",
+      "family_order": 88,
+      "prompt_sha256": "0f284dd882b21b5a0d7f407d2f34effbf571a49057775c577c5aabc3f594cd1e",
+      "rollout_index": 1,
+      "seed": 6047913118926879265
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7718cfe0344bcca95fba",
+      "family_order": 89,
+      "prompt_sha256": "7a8b18cab636e895079d5cd451ebb8ade498ed4a2c088b87217781e0d542c5e4",
+      "rollout_index": 0,
+      "seed": 933377939269977344
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7718cfe0344bcca95fba",
+      "family_order": 89,
+      "prompt_sha256": "7a8b18cab636e895079d5cd451ebb8ade498ed4a2c088b87217781e0d542c5e4",
+      "rollout_index": 1,
+      "seed": 8982880270807537260
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f3655acf7726d5536f6c",
+      "family_order": 90,
+      "prompt_sha256": "dffe314f28b627e52b6bdc2e3a4f995898727a5f2b62b1d6e3fcab1ad1d32335",
+      "rollout_index": 0,
+      "seed": 3112022384778680204
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f3655acf7726d5536f6c",
+      "family_order": 90,
+      "prompt_sha256": "dffe314f28b627e52b6bdc2e3a4f995898727a5f2b62b1d6e3fcab1ad1d32335",
+      "rollout_index": 1,
+      "seed": 5511227802273818648
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3d4a512405237bf5ce66",
+      "family_order": 91,
+      "prompt_sha256": "635a1e29e82f1f0ab31d0bf5f99c0d23718fe8a666a6b55375d44c26efca0723",
+      "rollout_index": 0,
+      "seed": 6792385951730827364
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3d4a512405237bf5ce66",
+      "family_order": 91,
+      "prompt_sha256": "635a1e29e82f1f0ab31d0bf5f99c0d23718fe8a666a6b55375d44c26efca0723",
+      "rollout_index": 1,
+      "seed": 890069153980923808
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a21e6265e3c5bcf8335e",
+      "family_order": 92,
+      "prompt_sha256": "151242f7918225f14374a8b269a31c8a1908dcaa6fc8095e8a82b3ce42dce0a9",
+      "rollout_index": 0,
+      "seed": 2950072633406607658
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a21e6265e3c5bcf8335e",
+      "family_order": 92,
+      "prompt_sha256": "151242f7918225f14374a8b269a31c8a1908dcaa6fc8095e8a82b3ce42dce0a9",
+      "rollout_index": 1,
+      "seed": 7086700935673925142
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ca65f7902e57963eb3bb",
+      "family_order": 93,
+      "prompt_sha256": "1badce08ba9442b6c87a500e91c4354b7131c184cf34e94e1a4915bc3a6e6335",
+      "rollout_index": 0,
+      "seed": 2426140972612910992
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ca65f7902e57963eb3bb",
+      "family_order": 93,
+      "prompt_sha256": "1badce08ba9442b6c87a500e91c4354b7131c184cf34e94e1a4915bc3a6e6335",
+      "rollout_index": 1,
+      "seed": 2575675803891696168
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1d52875b27ff1db5ac4a",
+      "family_order": 94,
+      "prompt_sha256": "0ba30c6e4edebc31524ef6801cc9d098475124f4e2c59a0685fafffad85fc758",
+      "rollout_index": 0,
+      "seed": 93244826902336345
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1d52875b27ff1db5ac4a",
+      "family_order": 94,
+      "prompt_sha256": "0ba30c6e4edebc31524ef6801cc9d098475124f4e2c59a0685fafffad85fc758",
+      "rollout_index": 1,
+      "seed": 256316502987677507
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-97abc01461cc825968e5",
+      "family_order": 95,
+      "prompt_sha256": "1a7fb5eaabb001808e8d9d099a25fd6603d05f51c96b003ad4289d87e5eb41a3",
+      "rollout_index": 0,
+      "seed": 2363239172600939446
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-97abc01461cc825968e5",
+      "family_order": 95,
+      "prompt_sha256": "1a7fb5eaabb001808e8d9d099a25fd6603d05f51c96b003ad4289d87e5eb41a3",
+      "rollout_index": 1,
+      "seed": 8770399110318363019
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5c3b16ae490b91058548",
+      "family_order": 96,
+      "prompt_sha256": "175146e2a6a23fcda319a1b1faa2f015eebd0cbfae4462bfb905120e88f6eaf5",
+      "rollout_index": 0,
+      "seed": 2407777942519556799
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5c3b16ae490b91058548",
+      "family_order": 96,
+      "prompt_sha256": "175146e2a6a23fcda319a1b1faa2f015eebd0cbfae4462bfb905120e88f6eaf5",
+      "rollout_index": 1,
+      "seed": 2073033152025028005
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af200c887c880293ee15",
+      "family_order": 97,
+      "prompt_sha256": "6550b33155e84b3353a6f6a65347463e05a5dc47de361e969c509bfb987ef15b",
+      "rollout_index": 0,
+      "seed": 4649971408548132969
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af200c887c880293ee15",
+      "family_order": 97,
+      "prompt_sha256": "6550b33155e84b3353a6f6a65347463e05a5dc47de361e969c509bfb987ef15b",
+      "rollout_index": 1,
+      "seed": 1617439308006515836
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4535268947e65058a52e",
+      "family_order": 98,
+      "prompt_sha256": "3c5798f099384c72d45ecf147a4c2bcc37c43399cceef98d8f664e35b169cb75",
+      "rollout_index": 0,
+      "seed": 8373198869044619894
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4535268947e65058a52e",
+      "family_order": 98,
+      "prompt_sha256": "3c5798f099384c72d45ecf147a4c2bcc37c43399cceef98d8f664e35b169cb75",
+      "rollout_index": 1,
+      "seed": 3525372091523775985
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cfd36f312e8accaab8f2",
+      "family_order": 99,
+      "prompt_sha256": "89fd22b48923377bee4635caa60c80fba450a9d8b88281e9a9009497d6a65f1b",
+      "rollout_index": 0,
+      "seed": 2454470164112287632
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cfd36f312e8accaab8f2",
+      "family_order": 99,
+      "prompt_sha256": "89fd22b48923377bee4635caa60c80fba450a9d8b88281e9a9009497d6a65f1b",
+      "rollout_index": 1,
+      "seed": 480886175525423328
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5b00c758a1b60d080c56",
+      "family_order": 100,
+      "prompt_sha256": "668cb9251109c8cdd494e288c096255d40fde5b2ec09d81ec8576d733ba37be1",
+      "rollout_index": 0,
+      "seed": 362047648313883119
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5b00c758a1b60d080c56",
+      "family_order": 100,
+      "prompt_sha256": "668cb9251109c8cdd494e288c096255d40fde5b2ec09d81ec8576d733ba37be1",
+      "rollout_index": 1,
+      "seed": 2351561511073153419
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-85997d1d5696777e6046",
+      "family_order": 101,
+      "prompt_sha256": "bca84bee7ce3d41268b718f1a231fd9f0543cfbca3510624113fa236daef1fd5",
+      "rollout_index": 0,
+      "seed": 632357888077687067
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-85997d1d5696777e6046",
+      "family_order": 101,
+      "prompt_sha256": "bca84bee7ce3d41268b718f1a231fd9f0543cfbca3510624113fa236daef1fd5",
+      "rollout_index": 1,
+      "seed": 8624272953397256278
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-23a3e1c5635c3c1d2f96",
+      "family_order": 102,
+      "prompt_sha256": "8a0f25887d50c51134d25cd1c4fa14af6bbaea5d2ebd272c668e99c4f9945986",
+      "rollout_index": 0,
+      "seed": 5041939874550816952
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-23a3e1c5635c3c1d2f96",
+      "family_order": 102,
+      "prompt_sha256": "8a0f25887d50c51134d25cd1c4fa14af6bbaea5d2ebd272c668e99c4f9945986",
+      "rollout_index": 1,
+      "seed": 5498955434358312795
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-37df2ceec2903f778ed7",
+      "family_order": 103,
+      "prompt_sha256": "34f03c96505baa116c66a16363ef71d526b971c9a05ae7bc7ecd56dd5b96e2d8",
+      "rollout_index": 0,
+      "seed": 3438229832095550066
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-37df2ceec2903f778ed7",
+      "family_order": 103,
+      "prompt_sha256": "34f03c96505baa116c66a16363ef71d526b971c9a05ae7bc7ecd56dd5b96e2d8",
+      "rollout_index": 1,
+      "seed": 7909457445368749561
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-13f8c5432fcd6d8c5dbf",
+      "family_order": 104,
+      "prompt_sha256": "40a5afa53500ce23af40cba7eebe3d9b7b332f04759f18c73a3eb66468885a19",
+      "rollout_index": 0,
+      "seed": 9178235417933081589
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-13f8c5432fcd6d8c5dbf",
+      "family_order": 104,
+      "prompt_sha256": "40a5afa53500ce23af40cba7eebe3d9b7b332f04759f18c73a3eb66468885a19",
+      "rollout_index": 1,
+      "seed": 868357988152601311
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5bb543cb4a7193ca7df6",
+      "family_order": 105,
+      "prompt_sha256": "308e861e6a12895da0273d2c1351aae1202bffcf2ccf0c12abf0b902d84b5526",
+      "rollout_index": 0,
+      "seed": 906759149026371421
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5bb543cb4a7193ca7df6",
+      "family_order": 105,
+      "prompt_sha256": "308e861e6a12895da0273d2c1351aae1202bffcf2ccf0c12abf0b902d84b5526",
+      "rollout_index": 1,
+      "seed": 904528445920892389
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5511d34f6fa89404e37b",
+      "family_order": 106,
+      "prompt_sha256": "bdbc67e25215177148c74d68fe5b34170441cf997ea22813f98cb2bc65fa322a",
+      "rollout_index": 0,
+      "seed": 8495464321145581034
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5511d34f6fa89404e37b",
+      "family_order": 106,
+      "prompt_sha256": "bdbc67e25215177148c74d68fe5b34170441cf997ea22813f98cb2bc65fa322a",
+      "rollout_index": 1,
+      "seed": 8826279254087943252
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f533a38cb8ad3661f555",
+      "family_order": 107,
+      "prompt_sha256": "cc1e36be5c448e6e01fdb98c4741a4f00eb7d6268313d6cc26fdf75980d4a32d",
+      "rollout_index": 0,
+      "seed": 4823411975581274964
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f533a38cb8ad3661f555",
+      "family_order": 107,
+      "prompt_sha256": "cc1e36be5c448e6e01fdb98c4741a4f00eb7d6268313d6cc26fdf75980d4a32d",
+      "rollout_index": 1,
+      "seed": 1997569979623314586
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ce67bda556ec0c2d0461",
+      "family_order": 108,
+      "prompt_sha256": "b6ca53b80ab4cd5a35297cdaa455697d94c9eab2061eac526471ef3fe7555cda",
+      "rollout_index": 0,
+      "seed": 5120265207204550466
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ce67bda556ec0c2d0461",
+      "family_order": 108,
+      "prompt_sha256": "b6ca53b80ab4cd5a35297cdaa455697d94c9eab2061eac526471ef3fe7555cda",
+      "rollout_index": 1,
+      "seed": 5073412079995134119
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-72ba41aea8e23504d8b6",
+      "family_order": 109,
+      "prompt_sha256": "3b841fe2916edc57518b10d9b46515df266e4e867fdd6884e57ac737202435ab",
+      "rollout_index": 0,
+      "seed": 1819422357113045406
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-72ba41aea8e23504d8b6",
+      "family_order": 109,
+      "prompt_sha256": "3b841fe2916edc57518b10d9b46515df266e4e867fdd6884e57ac737202435ab",
+      "rollout_index": 1,
+      "seed": 8855601126657683874
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1e3663084238017bbfad",
+      "family_order": 110,
+      "prompt_sha256": "21bc6b1a932686a8a3233084b949a31d8a7d9e3432e0935135785035c3083c71",
+      "rollout_index": 0,
+      "seed": 2641326370675383453
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1e3663084238017bbfad",
+      "family_order": 110,
+      "prompt_sha256": "21bc6b1a932686a8a3233084b949a31d8a7d9e3432e0935135785035c3083c71",
+      "rollout_index": 1,
+      "seed": 678437319051063234
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8b2c3547ba6f50ba938c",
+      "family_order": 111,
+      "prompt_sha256": "e617c9fc5aac36f9cc4298b345b6489f25e463c8c9d14315baf6606fc04712b9",
+      "rollout_index": 0,
+      "seed": 6850879566305178878
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8b2c3547ba6f50ba938c",
+      "family_order": 111,
+      "prompt_sha256": "e617c9fc5aac36f9cc4298b345b6489f25e463c8c9d14315baf6606fc04712b9",
+      "rollout_index": 1,
+      "seed": 5023527889917938102
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cb53fd9683ab7db0a14c",
+      "family_order": 112,
+      "prompt_sha256": "6891d2fae63953eb0c965eeb4ab225532526b05ea59a360c781f6dd23314dbd1",
+      "rollout_index": 0,
+      "seed": 6107536056701207164
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cb53fd9683ab7db0a14c",
+      "family_order": 112,
+      "prompt_sha256": "6891d2fae63953eb0c965eeb4ab225532526b05ea59a360c781f6dd23314dbd1",
+      "rollout_index": 1,
+      "seed": 413263463327929147
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-19b81e27ef9b29a91926",
+      "family_order": 113,
+      "prompt_sha256": "b2fb9197495a8fd8903b2d5f6f9ab8ea0fdefedfd2db140e41bb6e273ce492ea",
+      "rollout_index": 0,
+      "seed": 3548594105256163724
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-19b81e27ef9b29a91926",
+      "family_order": 113,
+      "prompt_sha256": "b2fb9197495a8fd8903b2d5f6f9ab8ea0fdefedfd2db140e41bb6e273ce492ea",
+      "rollout_index": 1,
+      "seed": 7278689193871961479
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-59f081a1b5664d55ba89",
+      "family_order": 114,
+      "prompt_sha256": "4a777451a743eee0a003de9a64cc65901a40be8fdc7305e209e45f4f0e0f3615",
+      "rollout_index": 0,
+      "seed": 810414339168245285
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-59f081a1b5664d55ba89",
+      "family_order": 114,
+      "prompt_sha256": "4a777451a743eee0a003de9a64cc65901a40be8fdc7305e209e45f4f0e0f3615",
+      "rollout_index": 1,
+      "seed": 405373747882695980
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f6b69aeb028b046506fc",
+      "family_order": 115,
+      "prompt_sha256": "e52a0e9e6dff149527d837add851d5c9c7215614b8c4d20981fbfc707aa77428",
+      "rollout_index": 0,
+      "seed": 4190747523332385782
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f6b69aeb028b046506fc",
+      "family_order": 115,
+      "prompt_sha256": "e52a0e9e6dff149527d837add851d5c9c7215614b8c4d20981fbfc707aa77428",
+      "rollout_index": 1,
+      "seed": 6194148093939807525
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cc4e7a678115e4b15c1f",
+      "family_order": 116,
+      "prompt_sha256": "c112df79c79d85adda6ebcbc965f03a49273d192a59dd5a8ef584209a99e945d",
+      "rollout_index": 0,
+      "seed": 2123292542224520744
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cc4e7a678115e4b15c1f",
+      "family_order": 116,
+      "prompt_sha256": "c112df79c79d85adda6ebcbc965f03a49273d192a59dd5a8ef584209a99e945d",
+      "rollout_index": 1,
+      "seed": 8138769067058742698
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9c6c0e89143aa5d27144",
+      "family_order": 117,
+      "prompt_sha256": "3a1a992802b30c5edcad5e735e8d4805668c58f6440f230cdd62cd9ca62ade1a",
+      "rollout_index": 0,
+      "seed": 7997158287685968604
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9c6c0e89143aa5d27144",
+      "family_order": 117,
+      "prompt_sha256": "3a1a992802b30c5edcad5e735e8d4805668c58f6440f230cdd62cd9ca62ade1a",
+      "rollout_index": 1,
+      "seed": 210914936243647898
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fa6960fa61993ac97637",
+      "family_order": 118,
+      "prompt_sha256": "3d899273461a7046815924001d1e78afc021180a6b928e5f43f32d012cab2f70",
+      "rollout_index": 0,
+      "seed": 5655877226478940604
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fa6960fa61993ac97637",
+      "family_order": 118,
+      "prompt_sha256": "3d899273461a7046815924001d1e78afc021180a6b928e5f43f32d012cab2f70",
+      "rollout_index": 1,
+      "seed": 3520670029483052291
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d9699b982cbdc0667fbb",
+      "family_order": 119,
+      "prompt_sha256": "d2566cf76cece6f13aebee870c2b63360421ca13c91a7275d0400b524d9ba64d",
+      "rollout_index": 0,
+      "seed": 5894641145289677709
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d9699b982cbdc0667fbb",
+      "family_order": 119,
+      "prompt_sha256": "d2566cf76cece6f13aebee870c2b63360421ca13c91a7275d0400b524d9ba64d",
+      "rollout_index": 1,
+      "seed": 4926806627204893786
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-79ff4ca75b38a476b70c",
+      "family_order": 120,
+      "prompt_sha256": "b58a7510b092a1e49b9ebef8079ab79d36687bc271028d49048306d136aadb87",
+      "rollout_index": 0,
+      "seed": 6588163377945605357
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-79ff4ca75b38a476b70c",
+      "family_order": 120,
+      "prompt_sha256": "b58a7510b092a1e49b9ebef8079ab79d36687bc271028d49048306d136aadb87",
+      "rollout_index": 1,
+      "seed": 7190671887309484762
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8af0c5359c4dad73d07e",
+      "family_order": 121,
+      "prompt_sha256": "cb8f4e0848fb90229c41404472ab648f327eac7f68f6e755df76474b3c991cd9",
+      "rollout_index": 0,
+      "seed": 4031346347202679099
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8af0c5359c4dad73d07e",
+      "family_order": 121,
+      "prompt_sha256": "cb8f4e0848fb90229c41404472ab648f327eac7f68f6e755df76474b3c991cd9",
+      "rollout_index": 1,
+      "seed": 3609406713070217341
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f8534a3a75cb5056e18e",
+      "family_order": 122,
+      "prompt_sha256": "d2dab425239d625aa238d2ac5efff1f7bf9ae7dbeef57757473f400e9e3b32f2",
+      "rollout_index": 0,
+      "seed": 156718489867246309
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f8534a3a75cb5056e18e",
+      "family_order": 122,
+      "prompt_sha256": "d2dab425239d625aa238d2ac5efff1f7bf9ae7dbeef57757473f400e9e3b32f2",
+      "rollout_index": 1,
+      "seed": 8017718772179235787
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f6924e95db51ea28d688",
+      "family_order": 123,
+      "prompt_sha256": "d6f27858d3f42e60ddbebe264965b4566c155cd9d3fa4560fc84975d9c9ce16b",
+      "rollout_index": 0,
+      "seed": 5679791668642435366
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f6924e95db51ea28d688",
+      "family_order": 123,
+      "prompt_sha256": "d6f27858d3f42e60ddbebe264965b4566c155cd9d3fa4560fc84975d9c9ce16b",
+      "rollout_index": 1,
+      "seed": 6458425574402018618
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cb5d2977ee19192e6e9f",
+      "family_order": 124,
+      "prompt_sha256": "b4bf028bede8fe031a08cadfc1b002fbc35f04dad88a22489a6aa657fcedb611",
+      "rollout_index": 0,
+      "seed": 7559343259461521883
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cb5d2977ee19192e6e9f",
+      "family_order": 124,
+      "prompt_sha256": "b4bf028bede8fe031a08cadfc1b002fbc35f04dad88a22489a6aa657fcedb611",
+      "rollout_index": 1,
+      "seed": 6278955161766541562
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6b135b6a94d8e5963fe3",
+      "family_order": 125,
+      "prompt_sha256": "c4bd80d2c7dfa8014e713b2cd20638418eaae452f159f9a759807254f0676413",
+      "rollout_index": 0,
+      "seed": 4252284893387042564
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6b135b6a94d8e5963fe3",
+      "family_order": 125,
+      "prompt_sha256": "c4bd80d2c7dfa8014e713b2cd20638418eaae452f159f9a759807254f0676413",
+      "rollout_index": 1,
+      "seed": 8826973323329032307
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f68840b7eb74776a47fd",
+      "family_order": 126,
+      "prompt_sha256": "48ccf8bc2f68974659f299dd362eb2455c19f871cbf6e695ed8cfa518b7aae3b",
+      "rollout_index": 0,
+      "seed": 2144600678323881604
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f68840b7eb74776a47fd",
+      "family_order": 126,
+      "prompt_sha256": "48ccf8bc2f68974659f299dd362eb2455c19f871cbf6e695ed8cfa518b7aae3b",
+      "rollout_index": 1,
+      "seed": 7556980284247092936
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-801c08bbd96e5ebaaf9b",
+      "family_order": 127,
+      "prompt_sha256": "e3ebbc549c26a609b069370d99a12b68dc1e7ae70b9a3444e2c887611a60ee0c",
+      "rollout_index": 0,
+      "seed": 2391481496546771248
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-801c08bbd96e5ebaaf9b",
+      "family_order": 127,
+      "prompt_sha256": "e3ebbc549c26a609b069370d99a12b68dc1e7ae70b9a3444e2c887611a60ee0c",
+      "rollout_index": 1,
+      "seed": 1559925026822764774
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b1f40630f2730de1ed65",
+      "family_order": 128,
+      "prompt_sha256": "ab13285528a79869a4b68c8bfaa270941f07617df67ae9e8a4e71467b250595f",
+      "rollout_index": 0,
+      "seed": 5129195390800490
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b1f40630f2730de1ed65",
+      "family_order": 128,
+      "prompt_sha256": "ab13285528a79869a4b68c8bfaa270941f07617df67ae9e8a4e71467b250595f",
+      "rollout_index": 1,
+      "seed": 3756426159829608597
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f4b188f82f30c06927e5",
+      "family_order": 129,
+      "prompt_sha256": "92f9c47ff7d163ab8478b59a7921970b3d0b8b79b17202d13d279c63b83af372",
+      "rollout_index": 0,
+      "seed": 8587744721595114219
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f4b188f82f30c06927e5",
+      "family_order": 129,
+      "prompt_sha256": "92f9c47ff7d163ab8478b59a7921970b3d0b8b79b17202d13d279c63b83af372",
+      "rollout_index": 1,
+      "seed": 4606284429259019264
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-dd8f57ae9e9395a7fc3c",
+      "family_order": 130,
+      "prompt_sha256": "7634dba6574460e46fe6dd029d6567c67f29ed478bafc4087b4a73964adafdbd",
+      "rollout_index": 0,
+      "seed": 7321624560802873840
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-dd8f57ae9e9395a7fc3c",
+      "family_order": 130,
+      "prompt_sha256": "7634dba6574460e46fe6dd029d6567c67f29ed478bafc4087b4a73964adafdbd",
+      "rollout_index": 1,
+      "seed": 1132569402897223727
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8b18bcf995fbbd6479a3",
+      "family_order": 131,
+      "prompt_sha256": "5fac5dcaff445ba4e10ef2b17fcde0f9983d8a203b699dc62a55cec3f44442f9",
+      "rollout_index": 0,
+      "seed": 1289776724431360986
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8b18bcf995fbbd6479a3",
+      "family_order": 131,
+      "prompt_sha256": "5fac5dcaff445ba4e10ef2b17fcde0f9983d8a203b699dc62a55cec3f44442f9",
+      "rollout_index": 1,
+      "seed": 3859864311711903748
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e9a42989c4688196c54d",
+      "family_order": 132,
+      "prompt_sha256": "0fd8392d6964a3a50c93f53c31724b72b7f6d5950b30c61b965d7f7beaa8d25c",
+      "rollout_index": 0,
+      "seed": 8571570486153155523
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e9a42989c4688196c54d",
+      "family_order": 132,
+      "prompt_sha256": "0fd8392d6964a3a50c93f53c31724b72b7f6d5950b30c61b965d7f7beaa8d25c",
+      "rollout_index": 1,
+      "seed": 7031206162939132687
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f539e05a60e11b6719ed",
+      "family_order": 133,
+      "prompt_sha256": "e5c176c1a0edfbc316dfd396889743bacd46602b5c776bc8857583f57757ba2d",
+      "rollout_index": 0,
+      "seed": 5496261863834175920
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f539e05a60e11b6719ed",
+      "family_order": 133,
+      "prompt_sha256": "e5c176c1a0edfbc316dfd396889743bacd46602b5c776bc8857583f57757ba2d",
+      "rollout_index": 1,
+      "seed": 3164776950412212764
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0d983c62d73d2cf0a058",
+      "family_order": 134,
+      "prompt_sha256": "e2ab677c48204f9452a47533e414737a318a940da81d817c5bd60998e7f976d6",
+      "rollout_index": 0,
+      "seed": 6083669867489022449
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0d983c62d73d2cf0a058",
+      "family_order": 134,
+      "prompt_sha256": "e2ab677c48204f9452a47533e414737a318a940da81d817c5bd60998e7f976d6",
+      "rollout_index": 1,
+      "seed": 7737498100512888833
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b9b666d218296bb5f0bc",
+      "family_order": 135,
+      "prompt_sha256": "1bfeaaa648c2e337887792628e22cf9bcc1133acc7af042dd9b14f79c9eeb2d9",
+      "rollout_index": 0,
+      "seed": 6111705218843338297
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b9b666d218296bb5f0bc",
+      "family_order": 135,
+      "prompt_sha256": "1bfeaaa648c2e337887792628e22cf9bcc1133acc7af042dd9b14f79c9eeb2d9",
+      "rollout_index": 1,
+      "seed": 1804937731097731053
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-24067a8743b3a830443f",
+      "family_order": 136,
+      "prompt_sha256": "ae4677166098ad266bff855cdd5ac358e01f503984ec2f34bd6487b529f83122",
+      "rollout_index": 0,
+      "seed": 2720758159634599009
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-24067a8743b3a830443f",
+      "family_order": 136,
+      "prompt_sha256": "ae4677166098ad266bff855cdd5ac358e01f503984ec2f34bd6487b529f83122",
+      "rollout_index": 1,
+      "seed": 185906605822430949
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9fef348f6e843f90e9bf",
+      "family_order": 137,
+      "prompt_sha256": "400af8fc25a973064b1698e9aeadba601d7729faa44fbf322174a40ed8eb8711",
+      "rollout_index": 0,
+      "seed": 589944825550579172
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9fef348f6e843f90e9bf",
+      "family_order": 137,
+      "prompt_sha256": "400af8fc25a973064b1698e9aeadba601d7729faa44fbf322174a40ed8eb8711",
+      "rollout_index": 1,
+      "seed": 9005391579993830416
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fe05564fedcd84dda114",
+      "family_order": 138,
+      "prompt_sha256": "6c2451f86286f63c51acc4b13af75c62c9785d5df0deefd9face10b426727338",
+      "rollout_index": 0,
+      "seed": 8705101931341843541
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fe05564fedcd84dda114",
+      "family_order": 138,
+      "prompt_sha256": "6c2451f86286f63c51acc4b13af75c62c9785d5df0deefd9face10b426727338",
+      "rollout_index": 1,
+      "seed": 3547985174518449577
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b31bc75424cc5d60cfd4",
+      "family_order": 139,
+      "prompt_sha256": "36a01f42a9e401c9acfa8c65f0bad8eabcf69559919554fe4bf7fe66a5953a9f",
+      "rollout_index": 0,
+      "seed": 6606337877808938812
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b31bc75424cc5d60cfd4",
+      "family_order": 139,
+      "prompt_sha256": "36a01f42a9e401c9acfa8c65f0bad8eabcf69559919554fe4bf7fe66a5953a9f",
+      "rollout_index": 1,
+      "seed": 6838485527576519605
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c5f85bc7690f1ad6dfec",
+      "family_order": 140,
+      "prompt_sha256": "3a05bfc9617e6d9a104c31b568304c3738118e5f486c26c9db9315c97bcfbc93",
+      "rollout_index": 0,
+      "seed": 8002281546106403460
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c5f85bc7690f1ad6dfec",
+      "family_order": 140,
+      "prompt_sha256": "3a05bfc9617e6d9a104c31b568304c3738118e5f486c26c9db9315c97bcfbc93",
+      "rollout_index": 1,
+      "seed": 6376323199351569085
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a4f5c41985495545d503",
+      "family_order": 141,
+      "prompt_sha256": "836240c54cbeb6742aacf7f5bc35ead5dcc07e1937dc837f8f6b6620a07962c3",
+      "rollout_index": 0,
+      "seed": 4268438636247524372
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a4f5c41985495545d503",
+      "family_order": 141,
+      "prompt_sha256": "836240c54cbeb6742aacf7f5bc35ead5dcc07e1937dc837f8f6b6620a07962c3",
+      "rollout_index": 1,
+      "seed": 1665657985398882370
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-258ea414a1e6386f1afe",
+      "family_order": 142,
+      "prompt_sha256": "7fafa91009ca7db536609c00f20b0bef8eefb5c004751481fd7550d2d3dce2fa",
+      "rollout_index": 0,
+      "seed": 8508836040678836045
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-258ea414a1e6386f1afe",
+      "family_order": 142,
+      "prompt_sha256": "7fafa91009ca7db536609c00f20b0bef8eefb5c004751481fd7550d2d3dce2fa",
+      "rollout_index": 1,
+      "seed": 3051402258228840402
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-468aca7b26562d47bb97",
+      "family_order": 143,
+      "prompt_sha256": "fdec7ef59c8599108ac600203f64296c3154361523d85632813a77a137f368fc",
+      "rollout_index": 0,
+      "seed": 3547864749034282706
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-468aca7b26562d47bb97",
+      "family_order": 143,
+      "prompt_sha256": "fdec7ef59c8599108ac600203f64296c3154361523d85632813a77a137f368fc",
+      "rollout_index": 1,
+      "seed": 3403814562857361797
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2b6dce0c62a326c8ddee",
+      "family_order": 144,
+      "prompt_sha256": "229b95bd0169b85d90f28eeb78a0968e1b45895cff791150692f287b961ecc8e",
+      "rollout_index": 0,
+      "seed": 3758858410815440804
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2b6dce0c62a326c8ddee",
+      "family_order": 144,
+      "prompt_sha256": "229b95bd0169b85d90f28eeb78a0968e1b45895cff791150692f287b961ecc8e",
+      "rollout_index": 1,
+      "seed": 3574476142902626036
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-baec706ba37ac07c91f1",
+      "family_order": 145,
+      "prompt_sha256": "5dbb59d74f6107220ab0d5e1ddca0628f572ae0fa61ce248975f3b5281954166",
+      "rollout_index": 0,
+      "seed": 2330221059573459106
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-baec706ba37ac07c91f1",
+      "family_order": 145,
+      "prompt_sha256": "5dbb59d74f6107220ab0d5e1ddca0628f572ae0fa61ce248975f3b5281954166",
+      "rollout_index": 1,
+      "seed": 6010313574475467295
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e07f5649ad13abecf667",
+      "family_order": 146,
+      "prompt_sha256": "18e19fc336c756f9154c89e44c8bf705cccc8da53f511ecba781cefba8d8076e",
+      "rollout_index": 0,
+      "seed": 2519553247076809648
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e07f5649ad13abecf667",
+      "family_order": 146,
+      "prompt_sha256": "18e19fc336c756f9154c89e44c8bf705cccc8da53f511ecba781cefba8d8076e",
+      "rollout_index": 1,
+      "seed": 2642908209000032279
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-349ea0d7d8182c172713",
+      "family_order": 147,
+      "prompt_sha256": "84b0558bcefc55ef8499162c55c6d84ac858fdfa90c3be3e128061646983309a",
+      "rollout_index": 0,
+      "seed": 6742243009028782482
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-349ea0d7d8182c172713",
+      "family_order": 147,
+      "prompt_sha256": "84b0558bcefc55ef8499162c55c6d84ac858fdfa90c3be3e128061646983309a",
+      "rollout_index": 1,
+      "seed": 5349776382142586250
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d782c368711c3284efe7",
+      "family_order": 148,
+      "prompt_sha256": "d32d0dbd2f850b460c6b4e1d360b8edee82feddd8fab4219c0e69ecd5cab687b",
+      "rollout_index": 0,
+      "seed": 8085720671253508389
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d782c368711c3284efe7",
+      "family_order": 148,
+      "prompt_sha256": "d32d0dbd2f850b460c6b4e1d360b8edee82feddd8fab4219c0e69ecd5cab687b",
+      "rollout_index": 1,
+      "seed": 8958050292408102485
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0f31526f5cafa942546d",
+      "family_order": 149,
+      "prompt_sha256": "fc5792bbbc158cabf389588f1d8cf6321a0eb9bd2c3a514236d6f301354a64c8",
+      "rollout_index": 0,
+      "seed": 890555575141797051
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0f31526f5cafa942546d",
+      "family_order": 149,
+      "prompt_sha256": "fc5792bbbc158cabf389588f1d8cf6321a0eb9bd2c3a514236d6f301354a64c8",
+      "rollout_index": 1,
+      "seed": 791637841572990310
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c06d946d0fba3bbf7eb3",
+      "family_order": 150,
+      "prompt_sha256": "2cf261e1e9dbeb410bbb3cd5954119fc0386684f5f4b5b158b582feb332daae5",
+      "rollout_index": 0,
+      "seed": 9142924839960335925
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c06d946d0fba3bbf7eb3",
+      "family_order": 150,
+      "prompt_sha256": "2cf261e1e9dbeb410bbb3cd5954119fc0386684f5f4b5b158b582feb332daae5",
+      "rollout_index": 1,
+      "seed": 4729853348718473356
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-adac9e6c5bfe25eb5791",
+      "family_order": 151,
+      "prompt_sha256": "d5b436556b0fb4a62682339093e0c7be2614c880143713eddf2f5965c1617118",
+      "rollout_index": 0,
+      "seed": 6371214255827660048
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-adac9e6c5bfe25eb5791",
+      "family_order": 151,
+      "prompt_sha256": "d5b436556b0fb4a62682339093e0c7be2614c880143713eddf2f5965c1617118",
+      "rollout_index": 1,
+      "seed": 2248353444870664485
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0f9c76fb0d9d1525b5c8",
+      "family_order": 152,
+      "prompt_sha256": "9e1eace681eb1949126827a07a9492b817545e527d1bcbe98de26432889ef16c",
+      "rollout_index": 0,
+      "seed": 6321488645139911907
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0f9c76fb0d9d1525b5c8",
+      "family_order": 152,
+      "prompt_sha256": "9e1eace681eb1949126827a07a9492b817545e527d1bcbe98de26432889ef16c",
+      "rollout_index": 1,
+      "seed": 5437553863930237803
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-92be67402dbd010f010a",
+      "family_order": 153,
+      "prompt_sha256": "3cd36e3ec248ab76bd2f8eabb5f12e2423075b70b24a3c30fc9cfa2c84c2024f",
+      "rollout_index": 0,
+      "seed": 1007508309932724463
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-92be67402dbd010f010a",
+      "family_order": 153,
+      "prompt_sha256": "3cd36e3ec248ab76bd2f8eabb5f12e2423075b70b24a3c30fc9cfa2c84c2024f",
+      "rollout_index": 1,
+      "seed": 6185183642698533389
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-94624aba7393c0d7d637",
+      "family_order": 154,
+      "prompt_sha256": "53e45d63816a8d58250a8964dc06e5c7f8cbc5ee9b7dc91007b42931277929fe",
+      "rollout_index": 0,
+      "seed": 8533401937068619114
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-94624aba7393c0d7d637",
+      "family_order": 154,
+      "prompt_sha256": "53e45d63816a8d58250a8964dc06e5c7f8cbc5ee9b7dc91007b42931277929fe",
+      "rollout_index": 1,
+      "seed": 3616519730639378351
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6687d63c2f8aebec5f17",
+      "family_order": 155,
+      "prompt_sha256": "cfb414911ed239057d51b1dea9e74ba7228f037f96e592f7d224278d8dc01139",
+      "rollout_index": 0,
+      "seed": 797374104398370869
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6687d63c2f8aebec5f17",
+      "family_order": 155,
+      "prompt_sha256": "cfb414911ed239057d51b1dea9e74ba7228f037f96e592f7d224278d8dc01139",
+      "rollout_index": 1,
+      "seed": 6091693955230945183
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bcdf102ca5b5e301f095",
+      "family_order": 156,
+      "prompt_sha256": "81316bd5c6ef1c14d57fbc7900001dd112182d9a462bb22aac2f76112bcec227",
+      "rollout_index": 0,
+      "seed": 4608508257379618410
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bcdf102ca5b5e301f095",
+      "family_order": 156,
+      "prompt_sha256": "81316bd5c6ef1c14d57fbc7900001dd112182d9a462bb22aac2f76112bcec227",
+      "rollout_index": 1,
+      "seed": 3885170138766330263
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-46d002dca6e7ace99dbe",
+      "family_order": 157,
+      "prompt_sha256": "002a1f275ad333d59cf52eeb3806ccf3050c9ab793a15fba3129ed228eb23eec",
+      "rollout_index": 0,
+      "seed": 1624473543310804986
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-46d002dca6e7ace99dbe",
+      "family_order": 157,
+      "prompt_sha256": "002a1f275ad333d59cf52eeb3806ccf3050c9ab793a15fba3129ed228eb23eec",
+      "rollout_index": 1,
+      "seed": 3912995153255664483
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e704ca07a752f0b74a53",
+      "family_order": 158,
+      "prompt_sha256": "ae631625dce6392b5dcdc8bc1283d2b41e91a50a5172b749097da689c8db127a",
+      "rollout_index": 0,
+      "seed": 4184852767513685948
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e704ca07a752f0b74a53",
+      "family_order": 158,
+      "prompt_sha256": "ae631625dce6392b5dcdc8bc1283d2b41e91a50a5172b749097da689c8db127a",
+      "rollout_index": 1,
+      "seed": 4709647934883649539
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6aaac0dd248b89ea4d69",
+      "family_order": 159,
+      "prompt_sha256": "c21e4ad6e68cf4d43af9cc150078824d76dbd9ed3d59bbfc4741656cc2fe0b2a",
+      "rollout_index": 0,
+      "seed": 2340373242170880554
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6aaac0dd248b89ea4d69",
+      "family_order": 159,
+      "prompt_sha256": "c21e4ad6e68cf4d43af9cc150078824d76dbd9ed3d59bbfc4741656cc2fe0b2a",
+      "rollout_index": 1,
+      "seed": 8910007687770434397
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bacc9274c17b2734714c",
+      "family_order": 160,
+      "prompt_sha256": "34a0dbb2cd05bff7dcd1575f2788ef7be689a0db72d71c43de1cb460aebb8638",
+      "rollout_index": 0,
+      "seed": 8325799028731255017
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bacc9274c17b2734714c",
+      "family_order": 160,
+      "prompt_sha256": "34a0dbb2cd05bff7dcd1575f2788ef7be689a0db72d71c43de1cb460aebb8638",
+      "rollout_index": 1,
+      "seed": 9141796442593469534
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fdae1ee4d2f9dbd03ad4",
+      "family_order": 161,
+      "prompt_sha256": "b88b2850ca96c2d8930cb94146f08101c5d65238b08976d6670b128b3b91ea47",
+      "rollout_index": 0,
+      "seed": 1047513691616999491
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fdae1ee4d2f9dbd03ad4",
+      "family_order": 161,
+      "prompt_sha256": "b88b2850ca96c2d8930cb94146f08101c5d65238b08976d6670b128b3b91ea47",
+      "rollout_index": 1,
+      "seed": 2914288116007438576
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-25617775a318aad0e61a",
+      "family_order": 162,
+      "prompt_sha256": "b6cd185cca6822a05d765a339852270c23c707ebd802fa0ca76f9b37cf75f670",
+      "rollout_index": 0,
+      "seed": 1578842383148852792
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-25617775a318aad0e61a",
+      "family_order": 162,
+      "prompt_sha256": "b6cd185cca6822a05d765a339852270c23c707ebd802fa0ca76f9b37cf75f670",
+      "rollout_index": 1,
+      "seed": 1365479805631105294
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9264bf43eca06eca9473",
+      "family_order": 163,
+      "prompt_sha256": "db297977ed1d3e1608f8062d0711f74fd6e6741e2aa8390b4e009f93a224db5c",
+      "rollout_index": 0,
+      "seed": 158588006592401082
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9264bf43eca06eca9473",
+      "family_order": 163,
+      "prompt_sha256": "db297977ed1d3e1608f8062d0711f74fd6e6741e2aa8390b4e009f93a224db5c",
+      "rollout_index": 1,
+      "seed": 1613207105564477385
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e996e4672ea3cc321443",
+      "family_order": 164,
+      "prompt_sha256": "64d2935646f6a26b10879d5b69055f14c44d5ade4829aa261c592de866785c6c",
+      "rollout_index": 0,
+      "seed": 9218120219974416132
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e996e4672ea3cc321443",
+      "family_order": 164,
+      "prompt_sha256": "64d2935646f6a26b10879d5b69055f14c44d5ade4829aa261c592de866785c6c",
+      "rollout_index": 1,
+      "seed": 4439406203809718309
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-069ab1980af578a834f3",
+      "family_order": 165,
+      "prompt_sha256": "8b30d80f4c01cbcf8a0da25c64686facb0a78d400694291e3b5de87a0c36c5dc",
+      "rollout_index": 0,
+      "seed": 3836003903958097514
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-069ab1980af578a834f3",
+      "family_order": 165,
+      "prompt_sha256": "8b30d80f4c01cbcf8a0da25c64686facb0a78d400694291e3b5de87a0c36c5dc",
+      "rollout_index": 1,
+      "seed": 6425157945689778714
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af441ea9db6a6ab2fa11",
+      "family_order": 166,
+      "prompt_sha256": "f4ac0cc4e3ab13292e37ab7e6c3eb23712fe11390b8ced2bd60b22a91c964082",
+      "rollout_index": 0,
+      "seed": 634170529692891734
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af441ea9db6a6ab2fa11",
+      "family_order": 166,
+      "prompt_sha256": "f4ac0cc4e3ab13292e37ab7e6c3eb23712fe11390b8ced2bd60b22a91c964082",
+      "rollout_index": 1,
+      "seed": 9002765315184421372
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-20a9fc11c22a2adb49ac",
+      "family_order": 167,
+      "prompt_sha256": "7d22d6a26872a30f5a73b84cb85e53c3a07f42c794e77c42563ca03c3d84faa9",
+      "rollout_index": 0,
+      "seed": 7619817003172432720
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-20a9fc11c22a2adb49ac",
+      "family_order": 167,
+      "prompt_sha256": "7d22d6a26872a30f5a73b84cb85e53c3a07f42c794e77c42563ca03c3d84faa9",
+      "rollout_index": 1,
+      "seed": 4250237138219038799
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f8ca0d82579897f3a4d2",
+      "family_order": 168,
+      "prompt_sha256": "692031e0fd14e43e1a44c96be8ab096dac216b83c831dc767262c7db6c6c7f72",
+      "rollout_index": 0,
+      "seed": 423712293000571779
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f8ca0d82579897f3a4d2",
+      "family_order": 168,
+      "prompt_sha256": "692031e0fd14e43e1a44c96be8ab096dac216b83c831dc767262c7db6c6c7f72",
+      "rollout_index": 1,
+      "seed": 8497156159161036908
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e139665abe8d331b91a5",
+      "family_order": 169,
+      "prompt_sha256": "1840e82a088f3ce94c9c1a0e5632dc67c8669b1fbf18012d2eea8e69bb91d681",
+      "rollout_index": 0,
+      "seed": 1118531552655331036
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e139665abe8d331b91a5",
+      "family_order": 169,
+      "prompt_sha256": "1840e82a088f3ce94c9c1a0e5632dc67c8669b1fbf18012d2eea8e69bb91d681",
+      "rollout_index": 1,
+      "seed": 1459984767119182513
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-adc248e20d952dedadaa",
+      "family_order": 170,
+      "prompt_sha256": "33f2c80f4bb8e5f63c943c2a278ab091dae01e88826a1e56d3cfa8b28f3804d1",
+      "rollout_index": 0,
+      "seed": 2529055644843090797
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-adc248e20d952dedadaa",
+      "family_order": 170,
+      "prompt_sha256": "33f2c80f4bb8e5f63c943c2a278ab091dae01e88826a1e56d3cfa8b28f3804d1",
+      "rollout_index": 1,
+      "seed": 6694136997467236236
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-71eacf274f8f538c3be8",
+      "family_order": 171,
+      "prompt_sha256": "a4d58b0e2f4c7782b88530d6ddd17cb3905d5ed1355cfcde89aa04c3309dc126",
+      "rollout_index": 0,
+      "seed": 6442438731822075135
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-71eacf274f8f538c3be8",
+      "family_order": 171,
+      "prompt_sha256": "a4d58b0e2f4c7782b88530d6ddd17cb3905d5ed1355cfcde89aa04c3309dc126",
+      "rollout_index": 1,
+      "seed": 3036795433253648373
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-171f1d77547083f08360",
+      "family_order": 172,
+      "prompt_sha256": "d62c793644b6eaa750ca660b99e3b7f3786a05c4545c1f28cf1689a0d49c58cc",
+      "rollout_index": 0,
+      "seed": 5367237758977634876
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-171f1d77547083f08360",
+      "family_order": 172,
+      "prompt_sha256": "d62c793644b6eaa750ca660b99e3b7f3786a05c4545c1f28cf1689a0d49c58cc",
+      "rollout_index": 1,
+      "seed": 8491956810890525085
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e5594667e2644c08f258",
+      "family_order": 173,
+      "prompt_sha256": "66421b7f95b35fde365cd2f01737823ff6bcc591ef665b842f83ae64f2f92943",
+      "rollout_index": 0,
+      "seed": 8246689366885816604
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e5594667e2644c08f258",
+      "family_order": 173,
+      "prompt_sha256": "66421b7f95b35fde365cd2f01737823ff6bcc591ef665b842f83ae64f2f92943",
+      "rollout_index": 1,
+      "seed": 4925436782441834736
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-466eb9161b759887df45",
+      "family_order": 174,
+      "prompt_sha256": "8c0cd26594475d8a280215374d925e5f50461ecb3fe80c661435ec2303801edb",
+      "rollout_index": 0,
+      "seed": 712637004716983804
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-466eb9161b759887df45",
+      "family_order": 174,
+      "prompt_sha256": "8c0cd26594475d8a280215374d925e5f50461ecb3fe80c661435ec2303801edb",
+      "rollout_index": 1,
+      "seed": 8451655889841533683
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-635fbb76562f0fbe7475",
+      "family_order": 175,
+      "prompt_sha256": "0127a224b06c67fd54f04fb560bbb9a9dea8fb54371fd650482ad0b9899dc966",
+      "rollout_index": 0,
+      "seed": 726003115438649492
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-635fbb76562f0fbe7475",
+      "family_order": 175,
+      "prompt_sha256": "0127a224b06c67fd54f04fb560bbb9a9dea8fb54371fd650482ad0b9899dc966",
+      "rollout_index": 1,
+      "seed": 8482991214155662518
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4a86d75ea8c9161366c9",
+      "family_order": 176,
+      "prompt_sha256": "a454a0defa9802af6b06a40bbd58e93d3f0b47d65888e3556b7020a6b6e70fec",
+      "rollout_index": 0,
+      "seed": 2577992370871242621
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4a86d75ea8c9161366c9",
+      "family_order": 176,
+      "prompt_sha256": "a454a0defa9802af6b06a40bbd58e93d3f0b47d65888e3556b7020a6b6e70fec",
+      "rollout_index": 1,
+      "seed": 397633042444188074
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-23cabad6bbacb50f477f",
+      "family_order": 177,
+      "prompt_sha256": "9d5a45fa18e15c7e7206bd77fb0bbd12ad847e8b7291a4057b071f6ecd1bfac0",
+      "rollout_index": 0,
+      "seed": 4826556035737299741
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-23cabad6bbacb50f477f",
+      "family_order": 177,
+      "prompt_sha256": "9d5a45fa18e15c7e7206bd77fb0bbd12ad847e8b7291a4057b071f6ecd1bfac0",
+      "rollout_index": 1,
+      "seed": 3493736764659056711
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b48ce31fe61c00db9250",
+      "family_order": 178,
+      "prompt_sha256": "df61598e5885db133671c7de521cebf83d982337c6452af4f38369760a5b2877",
+      "rollout_index": 0,
+      "seed": 1758563684178138198
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b48ce31fe61c00db9250",
+      "family_order": 178,
+      "prompt_sha256": "df61598e5885db133671c7de521cebf83d982337c6452af4f38369760a5b2877",
+      "rollout_index": 1,
+      "seed": 6941071468379375176
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5a2d215147a1701618b2",
+      "family_order": 179,
+      "prompt_sha256": "23c7b43ff0453db14d6085ef91b5ad3091a02044fd7cd49535dc02d6c588d8c1",
+      "rollout_index": 0,
+      "seed": 7858784477166154686
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5a2d215147a1701618b2",
+      "family_order": 179,
+      "prompt_sha256": "23c7b43ff0453db14d6085ef91b5ad3091a02044fd7cd49535dc02d6c588d8c1",
+      "rollout_index": 1,
+      "seed": 6946639725355470225
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5766040534afcc93ad36",
+      "family_order": 180,
+      "prompt_sha256": "d42bb15aa31c88ec1111f9528cba5727fbf0ce84f7ff0d92e0d3695a813e16d5",
+      "rollout_index": 0,
+      "seed": 4618570548194028059
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5766040534afcc93ad36",
+      "family_order": 180,
+      "prompt_sha256": "d42bb15aa31c88ec1111f9528cba5727fbf0ce84f7ff0d92e0d3695a813e16d5",
+      "rollout_index": 1,
+      "seed": 2777411986389904866
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b4891e428a83428d806d",
+      "family_order": 181,
+      "prompt_sha256": "a69a08079cac62319c0ae4104fa720053e5a8a0e0e489f4b34261e015fa4db93",
+      "rollout_index": 0,
+      "seed": 1700729106137539017
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b4891e428a83428d806d",
+      "family_order": 181,
+      "prompt_sha256": "a69a08079cac62319c0ae4104fa720053e5a8a0e0e489f4b34261e015fa4db93",
+      "rollout_index": 1,
+      "seed": 8551510651922002166
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2112ac235ccd59600b24",
+      "family_order": 182,
+      "prompt_sha256": "f483084dbf36020fa3ea3fe7060ffc99d013de085a5a45ac3d5558a0448fc718",
+      "rollout_index": 0,
+      "seed": 4906959864382377688
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2112ac235ccd59600b24",
+      "family_order": 182,
+      "prompt_sha256": "f483084dbf36020fa3ea3fe7060ffc99d013de085a5a45ac3d5558a0448fc718",
+      "rollout_index": 1,
+      "seed": 4485109540810483285
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-76af5401eb598d523cb1",
+      "family_order": 183,
+      "prompt_sha256": "1793679f598654f472584c69a37a779a0e0922ef7c0464bb40d0f8bcaa2b052e",
+      "rollout_index": 0,
+      "seed": 7646100848059252901
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-76af5401eb598d523cb1",
+      "family_order": 183,
+      "prompt_sha256": "1793679f598654f472584c69a37a779a0e0922ef7c0464bb40d0f8bcaa2b052e",
+      "rollout_index": 1,
+      "seed": 477836065112011018
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-40003dcafec73033743f",
+      "family_order": 184,
+      "prompt_sha256": "eacff026dd65481f694c94b4e8255e3a20d0f18c633648e0b28a583db7cd570e",
+      "rollout_index": 0,
+      "seed": 6715826162604167928
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-40003dcafec73033743f",
+      "family_order": 184,
+      "prompt_sha256": "eacff026dd65481f694c94b4e8255e3a20d0f18c633648e0b28a583db7cd570e",
+      "rollout_index": 1,
+      "seed": 8324112938098755233
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9ea0fbff489c9aec231f",
+      "family_order": 185,
+      "prompt_sha256": "08b9b8cbe901240d76b316e45d05f1e70c51ba8045086b8b69645c40f3af618e",
+      "rollout_index": 0,
+      "seed": 4283033332128871005
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9ea0fbff489c9aec231f",
+      "family_order": 185,
+      "prompt_sha256": "08b9b8cbe901240d76b316e45d05f1e70c51ba8045086b8b69645c40f3af618e",
+      "rollout_index": 1,
+      "seed": 934829531549572106
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d26cc87662cd492e4db7",
+      "family_order": 186,
+      "prompt_sha256": "22eeb71ac80398d6c7da82a4a6b2f194eb88e98f11994c4810a6f85fec57185b",
+      "rollout_index": 0,
+      "seed": 6341884047306969699
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d26cc87662cd492e4db7",
+      "family_order": 186,
+      "prompt_sha256": "22eeb71ac80398d6c7da82a4a6b2f194eb88e98f11994c4810a6f85fec57185b",
+      "rollout_index": 1,
+      "seed": 1431660002741246578
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5bbd381fb2f3fe4a4029",
+      "family_order": 187,
+      "prompt_sha256": "145cf218fabffbe8684617e321411fc580eab1ba6cd5af54013bf0961491ebb5",
+      "rollout_index": 0,
+      "seed": 184465975783517503
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5bbd381fb2f3fe4a4029",
+      "family_order": 187,
+      "prompt_sha256": "145cf218fabffbe8684617e321411fc580eab1ba6cd5af54013bf0961491ebb5",
+      "rollout_index": 1,
+      "seed": 7500973802370845994
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-00c4be6a7868050f33ec",
+      "family_order": 188,
+      "prompt_sha256": "1ad2e8d2e2bb8f7e9d031546acf4e42d0999d765aced4935a08826ae29449d63",
+      "rollout_index": 0,
+      "seed": 8191731541470781542
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-00c4be6a7868050f33ec",
+      "family_order": 188,
+      "prompt_sha256": "1ad2e8d2e2bb8f7e9d031546acf4e42d0999d765aced4935a08826ae29449d63",
+      "rollout_index": 1,
+      "seed": 3181958912585099061
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5674b7ebc36c2b63661b",
+      "family_order": 189,
+      "prompt_sha256": "79ef77a9b3fc16349feaf5edebd0864231554b5ca939cc1da27a9dec1e6368d7",
+      "rollout_index": 0,
+      "seed": 2062051265934933526
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5674b7ebc36c2b63661b",
+      "family_order": 189,
+      "prompt_sha256": "79ef77a9b3fc16349feaf5edebd0864231554b5ca939cc1da27a9dec1e6368d7",
+      "rollout_index": 1,
+      "seed": 7724159048348128774
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cc956fbac8c9be1e36a9",
+      "family_order": 190,
+      "prompt_sha256": "e5a2aae4f53b2fdd3642f916721ed035c79f1920d405da0b1ef29f569abaa196",
+      "rollout_index": 0,
+      "seed": 9089701284991285508
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cc956fbac8c9be1e36a9",
+      "family_order": 190,
+      "prompt_sha256": "e5a2aae4f53b2fdd3642f916721ed035c79f1920d405da0b1ef29f569abaa196",
+      "rollout_index": 1,
+      "seed": 3104352214237319451
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-69293892ee447caaa257",
+      "family_order": 191,
+      "prompt_sha256": "7cb24ebacb71e0e36145803a28869cade25384bae03f9b282fc1065d190ab7cf",
+      "rollout_index": 0,
+      "seed": 3567919221811806128
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-69293892ee447caaa257",
+      "family_order": 191,
+      "prompt_sha256": "7cb24ebacb71e0e36145803a28869cade25384bae03f9b282fc1065d190ab7cf",
+      "rollout_index": 1,
+      "seed": 8369047310844920797
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cee79500ac28c6bd338e",
+      "family_order": 192,
+      "prompt_sha256": "34b185c8905c2f52409fde854e39682c22650889742d4acdd0a0daabad022834",
+      "rollout_index": 0,
+      "seed": 5335762011832047263
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cee79500ac28c6bd338e",
+      "family_order": 192,
+      "prompt_sha256": "34b185c8905c2f52409fde854e39682c22650889742d4acdd0a0daabad022834",
+      "rollout_index": 1,
+      "seed": 4905443970813381320
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-47543c1583b6f530ee4b",
+      "family_order": 193,
+      "prompt_sha256": "4b1d76a7032a8be38ce9fd330c52693bb325b431a68fd867a7c5533ce5a93562",
+      "rollout_index": 0,
+      "seed": 7563482363193470250
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-47543c1583b6f530ee4b",
+      "family_order": 193,
+      "prompt_sha256": "4b1d76a7032a8be38ce9fd330c52693bb325b431a68fd867a7c5533ce5a93562",
+      "rollout_index": 1,
+      "seed": 3941074759421015480
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9f12b5de85f98a8857d4",
+      "family_order": 194,
+      "prompt_sha256": "57434b720b3c5338a6830743155cca8559d7301007379f8c3941553a119a9458",
+      "rollout_index": 0,
+      "seed": 1902682281235227001
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9f12b5de85f98a8857d4",
+      "family_order": 194,
+      "prompt_sha256": "57434b720b3c5338a6830743155cca8559d7301007379f8c3941553a119a9458",
+      "rollout_index": 1,
+      "seed": 3042169988262453793
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-94d6aef040bd638d21e9",
+      "family_order": 195,
+      "prompt_sha256": "d4195d8480336adbbde92a9d8e112f8c699d91e440b21770d8b55299b7c5870c",
+      "rollout_index": 0,
+      "seed": 962400651108672554
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-94d6aef040bd638d21e9",
+      "family_order": 195,
+      "prompt_sha256": "d4195d8480336adbbde92a9d8e112f8c699d91e440b21770d8b55299b7c5870c",
+      "rollout_index": 1,
+      "seed": 5264678941878835871
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-112d54c47db22de22945",
+      "family_order": 196,
+      "prompt_sha256": "1c164b84e167d100439201a9c55ad008db475c8019f07456046a6bdb8307745b",
+      "rollout_index": 0,
+      "seed": 6321650453029479213
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-112d54c47db22de22945",
+      "family_order": 196,
+      "prompt_sha256": "1c164b84e167d100439201a9c55ad008db475c8019f07456046a6bdb8307745b",
+      "rollout_index": 1,
+      "seed": 3472949159556692637
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d0bca332ed26c3412a4d",
+      "family_order": 197,
+      "prompt_sha256": "5ce54aaae8d01ae1014338bbab9f0618b4f97ea98c0ff8eac158b8bb3d31884e",
+      "rollout_index": 0,
+      "seed": 8672219418956813132
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d0bca332ed26c3412a4d",
+      "family_order": 197,
+      "prompt_sha256": "5ce54aaae8d01ae1014338bbab9f0618b4f97ea98c0ff8eac158b8bb3d31884e",
+      "rollout_index": 1,
+      "seed": 7855209337378679107
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7a9b7a51ff59561b0de1",
+      "family_order": 198,
+      "prompt_sha256": "f876f55dd2e7b6fdb8cf1a63de08b32c82e8798bd710df23db833f0c58b9159e",
+      "rollout_index": 0,
+      "seed": 3131656070103709693
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7a9b7a51ff59561b0de1",
+      "family_order": 198,
+      "prompt_sha256": "f876f55dd2e7b6fdb8cf1a63de08b32c82e8798bd710df23db833f0c58b9159e",
+      "rollout_index": 1,
+      "seed": 4092125704463829332
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5ce78262783246d14878",
+      "family_order": 199,
+      "prompt_sha256": "5da5e0f073ca731494e7ff7fcf1c1c4e8c4d0d5e5d6dc0ecca79c0354a4586d4",
+      "rollout_index": 0,
+      "seed": 5012843502876492069
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5ce78262783246d14878",
+      "family_order": 199,
+      "prompt_sha256": "5da5e0f073ca731494e7ff7fcf1c1c4e8c4d0d5e5d6dc0ecca79c0354a4586d4",
+      "rollout_index": 1,
+      "seed": 6065896578999641626
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3af7f384bb1c3a475505",
+      "family_order": 200,
+      "prompt_sha256": "f748e4bb7d456a79e13a34fd4c3cceea72603416b4608232f6f30ed463ea793c",
+      "rollout_index": 0,
+      "seed": 2359758828484552409
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3af7f384bb1c3a475505",
+      "family_order": 200,
+      "prompt_sha256": "f748e4bb7d456a79e13a34fd4c3cceea72603416b4608232f6f30ed463ea793c",
+      "rollout_index": 1,
+      "seed": 3358595531827276168
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0d8c2a6361d567f1a73f",
+      "family_order": 201,
+      "prompt_sha256": "ffb6151ae9fdab4d123a2d4b2e7368edd77d2c620404060227d026bdbc4d4021",
+      "rollout_index": 0,
+      "seed": 2782984322897528930
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0d8c2a6361d567f1a73f",
+      "family_order": 201,
+      "prompt_sha256": "ffb6151ae9fdab4d123a2d4b2e7368edd77d2c620404060227d026bdbc4d4021",
+      "rollout_index": 1,
+      "seed": 8719971416654822119
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a6f0788551821180c33c",
+      "family_order": 202,
+      "prompt_sha256": "dd59151314f6035e17a62d84ca87fb222ed9bb1ab06ac9a11f89d7ef360a17e2",
+      "rollout_index": 0,
+      "seed": 4613325959361218346
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a6f0788551821180c33c",
+      "family_order": 202,
+      "prompt_sha256": "dd59151314f6035e17a62d84ca87fb222ed9bb1ab06ac9a11f89d7ef360a17e2",
+      "rollout_index": 1,
+      "seed": 8732612473827693302
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c73435bf954646ce0fa7",
+      "family_order": 203,
+      "prompt_sha256": "068281c46747c07947f05c24e32ba8ba547c1902d9d49875feaed1cdc5f32ffa",
+      "rollout_index": 0,
+      "seed": 9150522072476511380
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c73435bf954646ce0fa7",
+      "family_order": 203,
+      "prompt_sha256": "068281c46747c07947f05c24e32ba8ba547c1902d9d49875feaed1cdc5f32ffa",
+      "rollout_index": 1,
+      "seed": 6557233068524921978
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-70cba97013dd77d714a6",
+      "family_order": 204,
+      "prompt_sha256": "0661c08f5611472651d1a6d4e92981eb604b5d3744c7287a385884746765621f",
+      "rollout_index": 0,
+      "seed": 4433634613564169090
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-70cba97013dd77d714a6",
+      "family_order": 204,
+      "prompt_sha256": "0661c08f5611472651d1a6d4e92981eb604b5d3744c7287a385884746765621f",
+      "rollout_index": 1,
+      "seed": 5137081417169161194
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ae19553ec65d6e0be985",
+      "family_order": 205,
+      "prompt_sha256": "60084f6894a3d1c76ca74f7206de5aa4ca293987d83f8bf186aca321fd8e7a81",
+      "rollout_index": 0,
+      "seed": 3925809673143703867
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ae19553ec65d6e0be985",
+      "family_order": 205,
+      "prompt_sha256": "60084f6894a3d1c76ca74f7206de5aa4ca293987d83f8bf186aca321fd8e7a81",
+      "rollout_index": 1,
+      "seed": 4943041557402974732
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5457e4e8369dc77f41f5",
+      "family_order": 206,
+      "prompt_sha256": "f53018dede3bad623c0c67454b97fbac390cd8f698bcb1394b8f203dfe5d3ed6",
+      "rollout_index": 0,
+      "seed": 9088671107048326495
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5457e4e8369dc77f41f5",
+      "family_order": 206,
+      "prompt_sha256": "f53018dede3bad623c0c67454b97fbac390cd8f698bcb1394b8f203dfe5d3ed6",
+      "rollout_index": 1,
+      "seed": 7730456448868521411
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f131aa7a72630cc2bbb5",
+      "family_order": 207,
+      "prompt_sha256": "b96e2f76e332a906db85675a8afea2bd474cf5cb8167face74970a8914fae057",
+      "rollout_index": 0,
+      "seed": 2338043176984220994
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f131aa7a72630cc2bbb5",
+      "family_order": 207,
+      "prompt_sha256": "b96e2f76e332a906db85675a8afea2bd474cf5cb8167face74970a8914fae057",
+      "rollout_index": 1,
+      "seed": 377178459235593834
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a2d8e4888b8cadefda9a",
+      "family_order": 208,
+      "prompt_sha256": "82c019d75540f51792c3d7f2ed377ff3318f306b973255ffafadd7e9fc8b3d76",
+      "rollout_index": 0,
+      "seed": 2464027812928844055
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a2d8e4888b8cadefda9a",
+      "family_order": 208,
+      "prompt_sha256": "82c019d75540f51792c3d7f2ed377ff3318f306b973255ffafadd7e9fc8b3d76",
+      "rollout_index": 1,
+      "seed": 540174311743275598
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9a88ce8a1c8be7a14cdf",
+      "family_order": 209,
+      "prompt_sha256": "e3315808e2da560b7801dd7f5d0dc32b5f657fa09eb25e586fa80d8cf69c7d5a",
+      "rollout_index": 0,
+      "seed": 8544127429400330385
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9a88ce8a1c8be7a14cdf",
+      "family_order": 209,
+      "prompt_sha256": "e3315808e2da560b7801dd7f5d0dc32b5f657fa09eb25e586fa80d8cf69c7d5a",
+      "rollout_index": 1,
+      "seed": 1187614074243381987
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cbf03eda9891648152c2",
+      "family_order": 210,
+      "prompt_sha256": "976aff85a218db0cd2af657f2b5afa4a4e1600afaef52052f2874274a7ef7875",
+      "rollout_index": 0,
+      "seed": 5556817603211023570
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cbf03eda9891648152c2",
+      "family_order": 210,
+      "prompt_sha256": "976aff85a218db0cd2af657f2b5afa4a4e1600afaef52052f2874274a7ef7875",
+      "rollout_index": 1,
+      "seed": 5632717735960614341
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-95dba85c7744b5bda517",
+      "family_order": 211,
+      "prompt_sha256": "4da5f6d4684b5f9f427b8494bf33a775b9d84daee5e42a9e6d7e702330f2c448",
+      "rollout_index": 0,
+      "seed": 7124757133058220626
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-95dba85c7744b5bda517",
+      "family_order": 211,
+      "prompt_sha256": "4da5f6d4684b5f9f427b8494bf33a775b9d84daee5e42a9e6d7e702330f2c448",
+      "rollout_index": 1,
+      "seed": 6731196097469520513
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9d728a22d3f076696320",
+      "family_order": 212,
+      "prompt_sha256": "933b34386b41f228ac98985c3e0ce85eb5d153277474bc6b640d1ada8542413b",
+      "rollout_index": 0,
+      "seed": 7079227090371696032
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-9d728a22d3f076696320",
+      "family_order": 212,
+      "prompt_sha256": "933b34386b41f228ac98985c3e0ce85eb5d153277474bc6b640d1ada8542413b",
+      "rollout_index": 1,
+      "seed": 1155994291783982409
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2951e3f2d5fc9945c618",
+      "family_order": 213,
+      "prompt_sha256": "983db309c5fc2d37c88957bde0056e681e7b17f1f86cfa1a79c67872bf360b9a",
+      "rollout_index": 0,
+      "seed": 6412182188526603216
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2951e3f2d5fc9945c618",
+      "family_order": 213,
+      "prompt_sha256": "983db309c5fc2d37c88957bde0056e681e7b17f1f86cfa1a79c67872bf360b9a",
+      "rollout_index": 1,
+      "seed": 8730684436731547350
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d0fdc07ca4b1ec1774f7",
+      "family_order": 214,
+      "prompt_sha256": "88830ef25b0ba1946350863179d829b54b20719323b439c5fed83a3eae77bb72",
+      "rollout_index": 0,
+      "seed": 8269920346849983243
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d0fdc07ca4b1ec1774f7",
+      "family_order": 214,
+      "prompt_sha256": "88830ef25b0ba1946350863179d829b54b20719323b439c5fed83a3eae77bb72",
+      "rollout_index": 1,
+      "seed": 215098067041998478
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bc98796d78866e1f1582",
+      "family_order": 215,
+      "prompt_sha256": "638ac222c227f07515309c06c0323539cba85a07842e9013294ba062e9cb25ff",
+      "rollout_index": 0,
+      "seed": 808167109094101494
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bc98796d78866e1f1582",
+      "family_order": 215,
+      "prompt_sha256": "638ac222c227f07515309c06c0323539cba85a07842e9013294ba062e9cb25ff",
+      "rollout_index": 1,
+      "seed": 6272380443573934828
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7d5782690c91a82f0173",
+      "family_order": 216,
+      "prompt_sha256": "87e391e6b41a3f9cb5497f29fa31fd3851c102679898809fd7464798370ceb7e",
+      "rollout_index": 0,
+      "seed": 5793085013533574571
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7d5782690c91a82f0173",
+      "family_order": 216,
+      "prompt_sha256": "87e391e6b41a3f9cb5497f29fa31fd3851c102679898809fd7464798370ceb7e",
+      "rollout_index": 1,
+      "seed": 5135342751790132252
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-310a1c0e67b77bb44993",
+      "family_order": 217,
+      "prompt_sha256": "b83df40950cf7e8fe7343f386790d376e37acee2d7cd727d45ab49370236140f",
+      "rollout_index": 0,
+      "seed": 7620468720728803790
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-310a1c0e67b77bb44993",
+      "family_order": 217,
+      "prompt_sha256": "b83df40950cf7e8fe7343f386790d376e37acee2d7cd727d45ab49370236140f",
+      "rollout_index": 1,
+      "seed": 4244371681186654588
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-96732cc3beb32e44eefa",
+      "family_order": 218,
+      "prompt_sha256": "585ccb2b007730b0dec040fa0fd260b521e309b0942451475b12ce60b8551182",
+      "rollout_index": 0,
+      "seed": 7986632391192442635
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-96732cc3beb32e44eefa",
+      "family_order": 218,
+      "prompt_sha256": "585ccb2b007730b0dec040fa0fd260b521e309b0942451475b12ce60b8551182",
+      "rollout_index": 1,
+      "seed": 3579714080632821122
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f91aaa9cbe635498f566",
+      "family_order": 219,
+      "prompt_sha256": "e42a6dfc05d5c7891df57f3285fad30f74c60adc006a8957c5b2e533f78bdc20",
+      "rollout_index": 0,
+      "seed": 8054525074805634170
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f91aaa9cbe635498f566",
+      "family_order": 219,
+      "prompt_sha256": "e42a6dfc05d5c7891df57f3285fad30f74c60adc006a8957c5b2e533f78bdc20",
+      "rollout_index": 1,
+      "seed": 8352487851697933685
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ec12f3cdae89f1578380",
+      "family_order": 220,
+      "prompt_sha256": "66bc524bbf7b976e6d89d293ce8d4ea4011eaf4345ba818d9ffffb0cda116426",
+      "rollout_index": 0,
+      "seed": 3317486528917418297
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ec12f3cdae89f1578380",
+      "family_order": 220,
+      "prompt_sha256": "66bc524bbf7b976e6d89d293ce8d4ea4011eaf4345ba818d9ffffb0cda116426",
+      "rollout_index": 1,
+      "seed": 5326568057723824261
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-775724779e4c18d63027",
+      "family_order": 221,
+      "prompt_sha256": "55e640cf91c57ecde45fc04374dc2c981ba7d15ddb2d03f3637195ae69ba3948",
+      "rollout_index": 0,
+      "seed": 4814288206650770807
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-775724779e4c18d63027",
+      "family_order": 221,
+      "prompt_sha256": "55e640cf91c57ecde45fc04374dc2c981ba7d15ddb2d03f3637195ae69ba3948",
+      "rollout_index": 1,
+      "seed": 4677350382622488742
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7ed3167dedeedd799a29",
+      "family_order": 222,
+      "prompt_sha256": "a2fe68c3d2a0208d8a6029d501a60946903bcf461dd835be06d70c7240aec60f",
+      "rollout_index": 0,
+      "seed": 4248392067523744498
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7ed3167dedeedd799a29",
+      "family_order": 222,
+      "prompt_sha256": "a2fe68c3d2a0208d8a6029d501a60946903bcf461dd835be06d70c7240aec60f",
+      "rollout_index": 1,
+      "seed": 5240629917320654953
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0b394bd03f3368fcda79",
+      "family_order": 223,
+      "prompt_sha256": "f20498d292a88d6343ce9e80542b10053f9d5e4e672eecd6f729ac0bb4797724",
+      "rollout_index": 0,
+      "seed": 7364734304097715053
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0b394bd03f3368fcda79",
+      "family_order": 223,
+      "prompt_sha256": "f20498d292a88d6343ce9e80542b10053f9d5e4e672eecd6f729ac0bb4797724",
+      "rollout_index": 1,
+      "seed": 3747258668810234037
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-48ed43d3005e382d47c8",
+      "family_order": 224,
+      "prompt_sha256": "b5e8254aac5a4ea396fcb174a40cb42bb906437eebcbfdd6642da7142eb160da",
+      "rollout_index": 0,
+      "seed": 3655285206422240305
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-48ed43d3005e382d47c8",
+      "family_order": 224,
+      "prompt_sha256": "b5e8254aac5a4ea396fcb174a40cb42bb906437eebcbfdd6642da7142eb160da",
+      "rollout_index": 1,
+      "seed": 1743482154546715298
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2724f80e5a72ff6c9947",
+      "family_order": 225,
+      "prompt_sha256": "2a03e6fb832ee8afedfbad38e5ef2bc9aff055e2a83dfabac6b138cd8eeec5f5",
+      "rollout_index": 0,
+      "seed": 5751296966457829989
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2724f80e5a72ff6c9947",
+      "family_order": 225,
+      "prompt_sha256": "2a03e6fb832ee8afedfbad38e5ef2bc9aff055e2a83dfabac6b138cd8eeec5f5",
+      "rollout_index": 1,
+      "seed": 5330396919157390590
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cfef013f30511e5923cd",
+      "family_order": 226,
+      "prompt_sha256": "30613a252f33f2b92d1121d868a676c2b60f9ffb8230772f8713a48de3fd9a59",
+      "rollout_index": 0,
+      "seed": 7256554819194449012
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cfef013f30511e5923cd",
+      "family_order": 226,
+      "prompt_sha256": "30613a252f33f2b92d1121d868a676c2b60f9ffb8230772f8713a48de3fd9a59",
+      "rollout_index": 1,
+      "seed": 828168160787348393
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-18b0949eb75cb40b6378",
+      "family_order": 227,
+      "prompt_sha256": "d70f9716ee409c7ba6362e8fd28a0ea5afeeda64bd42901bde48dedab680fbcf",
+      "rollout_index": 0,
+      "seed": 1082182372393941498
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-18b0949eb75cb40b6378",
+      "family_order": 227,
+      "prompt_sha256": "d70f9716ee409c7ba6362e8fd28a0ea5afeeda64bd42901bde48dedab680fbcf",
+      "rollout_index": 1,
+      "seed": 4764452434528407438
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1905c5c3e1944dd313b9",
+      "family_order": 228,
+      "prompt_sha256": "3ea501e9c7320825080becbe08c4671695792c12ccc075ba4b518cfa30062c10",
+      "rollout_index": 0,
+      "seed": 974437427825400717
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1905c5c3e1944dd313b9",
+      "family_order": 228,
+      "prompt_sha256": "3ea501e9c7320825080becbe08c4671695792c12ccc075ba4b518cfa30062c10",
+      "rollout_index": 1,
+      "seed": 3357918711786829689
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c737acc569ec24c23843",
+      "family_order": 229,
+      "prompt_sha256": "2acc57cfb392a4688cc1d08b8cff8494e1c1c533d931afa80e776c65cbbbfc15",
+      "rollout_index": 0,
+      "seed": 4772209256923179296
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c737acc569ec24c23843",
+      "family_order": 229,
+      "prompt_sha256": "2acc57cfb392a4688cc1d08b8cff8494e1c1c533d931afa80e776c65cbbbfc15",
+      "rollout_index": 1,
+      "seed": 6157498459870115078
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2cb2ef747a828c455f62",
+      "family_order": 230,
+      "prompt_sha256": "dd089fe96ca4ffc26f32f2bf3b9200bd3860c2727e6420bfb2ebe9e814d95223",
+      "rollout_index": 0,
+      "seed": 2324494119508691989
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2cb2ef747a828c455f62",
+      "family_order": 230,
+      "prompt_sha256": "dd089fe96ca4ffc26f32f2bf3b9200bd3860c2727e6420bfb2ebe9e814d95223",
+      "rollout_index": 1,
+      "seed": 3855493488101478667
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0d2c95dccaf0bac7b9d5",
+      "family_order": 231,
+      "prompt_sha256": "6925729b9a9268750180f7a5d015948fed6efb0c91872386ad05e773e385f2f1",
+      "rollout_index": 0,
+      "seed": 6069979181250185331
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-0d2c95dccaf0bac7b9d5",
+      "family_order": 231,
+      "prompt_sha256": "6925729b9a9268750180f7a5d015948fed6efb0c91872386ad05e773e385f2f1",
+      "rollout_index": 1,
+      "seed": 6465858788244605833
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5b55bf81298b310ede55",
+      "family_order": 232,
+      "prompt_sha256": "45aa8c7ce89f58770b7d9bdcd6e64f8c1a19ab4e20238dd324dd31660ea56436",
+      "rollout_index": 0,
+      "seed": 217626687672000798
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5b55bf81298b310ede55",
+      "family_order": 232,
+      "prompt_sha256": "45aa8c7ce89f58770b7d9bdcd6e64f8c1a19ab4e20238dd324dd31660ea56436",
+      "rollout_index": 1,
+      "seed": 5192130027419106726
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-df31ea3344f62761f10a",
+      "family_order": 233,
+      "prompt_sha256": "b127b32159fc213cf3156633a6502c3dd3d41eb3adb33fad4ab9cae7d2ef6cf2",
+      "rollout_index": 0,
+      "seed": 8312655400889517380
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-df31ea3344f62761f10a",
+      "family_order": 233,
+      "prompt_sha256": "b127b32159fc213cf3156633a6502c3dd3d41eb3adb33fad4ab9cae7d2ef6cf2",
+      "rollout_index": 1,
+      "seed": 7710391533211643627
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a902cdccd5bb624b60d5",
+      "family_order": 234,
+      "prompt_sha256": "984252e04065718630ea15e27f03cf5b86fd7a080bbbc0344e465d36fcad5d0c",
+      "rollout_index": 0,
+      "seed": 6944191476695290264
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-a902cdccd5bb624b60d5",
+      "family_order": 234,
+      "prompt_sha256": "984252e04065718630ea15e27f03cf5b86fd7a080bbbc0344e465d36fcad5d0c",
+      "rollout_index": 1,
+      "seed": 2767509072109784610
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-61130affdec2644e33b2",
+      "family_order": 235,
+      "prompt_sha256": "37985b55ccb30b7150f33667a0cec4c0f87e645f3be80cf1c091fe7ea8266993",
+      "rollout_index": 0,
+      "seed": 2177123724099723773
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-61130affdec2644e33b2",
+      "family_order": 235,
+      "prompt_sha256": "37985b55ccb30b7150f33667a0cec4c0f87e645f3be80cf1c091fe7ea8266993",
+      "rollout_index": 1,
+      "seed": 5874214240447085817
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7ea082d3fe5ea053c4dd",
+      "family_order": 236,
+      "prompt_sha256": "e53d5dbc45f45116a4d2a6c79a104ff6c1ae65426188e110aef85d95ce09c661",
+      "rollout_index": 0,
+      "seed": 8151813696208209976
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7ea082d3fe5ea053c4dd",
+      "family_order": 236,
+      "prompt_sha256": "e53d5dbc45f45116a4d2a6c79a104ff6c1ae65426188e110aef85d95ce09c661",
+      "rollout_index": 1,
+      "seed": 9011243171192540087
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-04514f649b999fad7561",
+      "family_order": 237,
+      "prompt_sha256": "9aa69052e6a382ab536fa4c7f5b1740c822cadcceb7323d9612d69ca71ed5678",
+      "rollout_index": 0,
+      "seed": 646560323423629391
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-04514f649b999fad7561",
+      "family_order": 237,
+      "prompt_sha256": "9aa69052e6a382ab536fa4c7f5b1740c822cadcceb7323d9612d69ca71ed5678",
+      "rollout_index": 1,
+      "seed": 689136581666009171
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c88a51abdb0d396fd710",
+      "family_order": 238,
+      "prompt_sha256": "3fc9d478c9e35e29cd0f0b8d5ce9c208948cdfb1e8339b1730a50367ecc2ee0b",
+      "rollout_index": 0,
+      "seed": 6827191472072034474
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c88a51abdb0d396fd710",
+      "family_order": 238,
+      "prompt_sha256": "3fc9d478c9e35e29cd0f0b8d5ce9c208948cdfb1e8339b1730a50367ecc2ee0b",
+      "rollout_index": 1,
+      "seed": 5037938550379792676
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d6a66db05e342452021f",
+      "family_order": 239,
+      "prompt_sha256": "2b4532070dddb3cc18e7ece3c5fbe3029fe9f04cd4c2e06f5943306d8b493516",
+      "rollout_index": 0,
+      "seed": 4432881569609133702
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d6a66db05e342452021f",
+      "family_order": 239,
+      "prompt_sha256": "2b4532070dddb3cc18e7ece3c5fbe3029fe9f04cd4c2e06f5943306d8b493516",
+      "rollout_index": 1,
+      "seed": 7198066353346844737
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-805830d4480c06b8ce3f",
+      "family_order": 240,
+      "prompt_sha256": "d597ba5aeb69bec045b47c7313bfb0ab98853199e9b30f24d28af5933df1e015",
+      "rollout_index": 0,
+      "seed": 6494498846035999599
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-805830d4480c06b8ce3f",
+      "family_order": 240,
+      "prompt_sha256": "d597ba5aeb69bec045b47c7313bfb0ab98853199e9b30f24d28af5933df1e015",
+      "rollout_index": 1,
+      "seed": 5765812390492995893
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-69f1db6aa80b312e8e2d",
+      "family_order": 241,
+      "prompt_sha256": "3d065df77dcbd73e5d795c34376c65137d8a81219cd0202c75214fb3233d84b1",
+      "rollout_index": 0,
+      "seed": 5007459439210958224
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-69f1db6aa80b312e8e2d",
+      "family_order": 241,
+      "prompt_sha256": "3d065df77dcbd73e5d795c34376c65137d8a81219cd0202c75214fb3233d84b1",
+      "rollout_index": 1,
+      "seed": 4023302855228241853
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-00821572ab2d1a5d5057",
+      "family_order": 242,
+      "prompt_sha256": "8ec20ec89a78d8116a8271a4d354fee4281054e1292cc6e4d3eb334f03291b4e",
+      "rollout_index": 0,
+      "seed": 9202555476815199870
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-00821572ab2d1a5d5057",
+      "family_order": 242,
+      "prompt_sha256": "8ec20ec89a78d8116a8271a4d354fee4281054e1292cc6e4d3eb334f03291b4e",
+      "rollout_index": 1,
+      "seed": 1758270670874572216
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f5575ac5da7193632f7a",
+      "family_order": 243,
+      "prompt_sha256": "9a920f5922f70b009f2b0d6ba918a44db8e6ef5069afa0d411203e12791da9c4",
+      "rollout_index": 0,
+      "seed": 1093547266290122439
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-f5575ac5da7193632f7a",
+      "family_order": 243,
+      "prompt_sha256": "9a920f5922f70b009f2b0d6ba918a44db8e6ef5069afa0d411203e12791da9c4",
+      "rollout_index": 1,
+      "seed": 317930348128534351
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c8f05400247eb08dca74",
+      "family_order": 244,
+      "prompt_sha256": "f8f76d5fd9198e14c46e48b8a34fde9f4eea4502b27071ed64c5f13673d797a8",
+      "rollout_index": 0,
+      "seed": 4907016232080178652
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c8f05400247eb08dca74",
+      "family_order": 244,
+      "prompt_sha256": "f8f76d5fd9198e14c46e48b8a34fde9f4eea4502b27071ed64c5f13673d797a8",
+      "rollout_index": 1,
+      "seed": 8382875127516687109
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e218e8cfb32d84bee571",
+      "family_order": 245,
+      "prompt_sha256": "660f8c8104c51988445e7022a28a70018e5d8d93695a1ac1daccd0a513e8ae22",
+      "rollout_index": 0,
+      "seed": 1886244133566319900
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e218e8cfb32d84bee571",
+      "family_order": 245,
+      "prompt_sha256": "660f8c8104c51988445e7022a28a70018e5d8d93695a1ac1daccd0a513e8ae22",
+      "rollout_index": 1,
+      "seed": 237342750876933630
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-30ffa6da5e63044ac3b8",
+      "family_order": 246,
+      "prompt_sha256": "d92fe24ace3f6ebc00f1325cef333ac3e4c9543bfdadd88f0ba2d0e03c01c4ae",
+      "rollout_index": 0,
+      "seed": 7688798611535047313
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-30ffa6da5e63044ac3b8",
+      "family_order": 246,
+      "prompt_sha256": "d92fe24ace3f6ebc00f1325cef333ac3e4c9543bfdadd88f0ba2d0e03c01c4ae",
+      "rollout_index": 1,
+      "seed": 6387341086243598374
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1ef32964ae23f84834c7",
+      "family_order": 247,
+      "prompt_sha256": "27f78ca4a46daee74c843e154f22bc1d0bfba8c73d904b72f9de220e8f660cdc",
+      "rollout_index": 0,
+      "seed": 6178502454314341555
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1ef32964ae23f84834c7",
+      "family_order": 247,
+      "prompt_sha256": "27f78ca4a46daee74c843e154f22bc1d0bfba8c73d904b72f9de220e8f660cdc",
+      "rollout_index": 1,
+      "seed": 2750181662045672440
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7c4e7f9b17c31ce516ac",
+      "family_order": 248,
+      "prompt_sha256": "495a74e5fe24944873c140fcefd9f1bffe5150da006b7bae9d2f267652f6640d",
+      "rollout_index": 0,
+      "seed": 1806450596858641129
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7c4e7f9b17c31ce516ac",
+      "family_order": 248,
+      "prompt_sha256": "495a74e5fe24944873c140fcefd9f1bffe5150da006b7bae9d2f267652f6640d",
+      "rollout_index": 1,
+      "seed": 1677635125008516176
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3f9894f3e69dc94ee8b2",
+      "family_order": 249,
+      "prompt_sha256": "65951e593e753a536a544f9ba1dbfcb14fb5d3f994853283f1fa15ea7fd4ce3b",
+      "rollout_index": 0,
+      "seed": 4920205855318581004
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3f9894f3e69dc94ee8b2",
+      "family_order": 249,
+      "prompt_sha256": "65951e593e753a536a544f9ba1dbfcb14fb5d3f994853283f1fa15ea7fd4ce3b",
+      "rollout_index": 1,
+      "seed": 3989361985261659107
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b3935fa5d36357e6310b",
+      "family_order": 250,
+      "prompt_sha256": "ee633b84ac7d565463e9523afe4a2c35924bc30d89c755a903e15016dc73c7af",
+      "rollout_index": 0,
+      "seed": 7204821987367010244
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b3935fa5d36357e6310b",
+      "family_order": 250,
+      "prompt_sha256": "ee633b84ac7d565463e9523afe4a2c35924bc30d89c755a903e15016dc73c7af",
+      "rollout_index": 1,
+      "seed": 954278654439010116
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6708e29413d3d4e827e3",
+      "family_order": 251,
+      "prompt_sha256": "47a8bf3c59ad2147d10f6045cb223957740776603df71dea38693e1c6c9bec8e",
+      "rollout_index": 0,
+      "seed": 8527147082460043019
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6708e29413d3d4e827e3",
+      "family_order": 251,
+      "prompt_sha256": "47a8bf3c59ad2147d10f6045cb223957740776603df71dea38693e1c6c9bec8e",
+      "rollout_index": 1,
+      "seed": 4829436230041504112
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-418d21fd187d18b84ed3",
+      "family_order": 252,
+      "prompt_sha256": "10d23da24a7df7da46fdeff1aa84115fff9d5ededc8ca26f12cf48231d685f18",
+      "rollout_index": 0,
+      "seed": 3099506117639970078
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-418d21fd187d18b84ed3",
+      "family_order": 252,
+      "prompt_sha256": "10d23da24a7df7da46fdeff1aa84115fff9d5ededc8ca26f12cf48231d685f18",
+      "rollout_index": 1,
+      "seed": 3538599561008743844
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2d29027a60db44a88e66",
+      "family_order": 253,
+      "prompt_sha256": "114bed0f6a36c8eacde6f02fbd7dcaaff59b0ff11bc267c7a79e10929f0ee61b",
+      "rollout_index": 0,
+      "seed": 7434569865096513823
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2d29027a60db44a88e66",
+      "family_order": 253,
+      "prompt_sha256": "114bed0f6a36c8eacde6f02fbd7dcaaff59b0ff11bc267c7a79e10929f0ee61b",
+      "rollout_index": 1,
+      "seed": 5694987270307920564
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e9e3eb4c665f7378a595",
+      "family_order": 254,
+      "prompt_sha256": "666553b7663a6c5a82beb20f66e4d749785f6e87da30e0452f15b0f3643a9881",
+      "rollout_index": 0,
+      "seed": 3833082545915966326
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e9e3eb4c665f7378a595",
+      "family_order": 254,
+      "prompt_sha256": "666553b7663a6c5a82beb20f66e4d749785f6e87da30e0452f15b0f3643a9881",
+      "rollout_index": 1,
+      "seed": 7747738618486750544
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d1c02e16950295a57e9d",
+      "family_order": 255,
+      "prompt_sha256": "b761559974c3ae62706ca84501bede1232ae331087aff7e0b73c488e5ba24484",
+      "rollout_index": 0,
+      "seed": 8047980656094055403
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-d1c02e16950295a57e9d",
+      "family_order": 255,
+      "prompt_sha256": "b761559974c3ae62706ca84501bede1232ae331087aff7e0b73c488e5ba24484",
+      "rollout_index": 1,
+      "seed": 8690640608492373595
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4c96d95df82415384ee7",
+      "family_order": 256,
+      "prompt_sha256": "e464c4ff882d3c111889dd60ff1cb062fa9a057a1d15bd0f4b434686071584c8",
+      "rollout_index": 0,
+      "seed": 5047127747362757557
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4c96d95df82415384ee7",
+      "family_order": 256,
+      "prompt_sha256": "e464c4ff882d3c111889dd60ff1cb062fa9a057a1d15bd0f4b434686071584c8",
+      "rollout_index": 1,
+      "seed": 1199062679761360975
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cf705523dd448b1491fc",
+      "family_order": 257,
+      "prompt_sha256": "f45d5894205df71e2e607133313b9003c9d2d62f9644add910ffbeef7971cbd2",
+      "rollout_index": 0,
+      "seed": 8139258185973025053
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-cf705523dd448b1491fc",
+      "family_order": 257,
+      "prompt_sha256": "f45d5894205df71e2e607133313b9003c9d2d62f9644add910ffbeef7971cbd2",
+      "rollout_index": 1,
+      "seed": 3418676530028430019
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-68db7f7d27bd8d768662",
+      "family_order": 258,
+      "prompt_sha256": "f038655f00e779a5b3e7092f1bf3893ee2722717eff9ab00d6e52c20993b7cab",
+      "rollout_index": 0,
+      "seed": 4342321651276613810
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-68db7f7d27bd8d768662",
+      "family_order": 258,
+      "prompt_sha256": "f038655f00e779a5b3e7092f1bf3893ee2722717eff9ab00d6e52c20993b7cab",
+      "rollout_index": 1,
+      "seed": 8321297604367759515
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-19ac2b64e7477307857d",
+      "family_order": 259,
+      "prompt_sha256": "5aecfd48a92a271a927c25b22b82d47c09ff34d31cd11701b50fdd3b2fd8898f",
+      "rollout_index": 0,
+      "seed": 8085314928107343407
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-19ac2b64e7477307857d",
+      "family_order": 259,
+      "prompt_sha256": "5aecfd48a92a271a927c25b22b82d47c09ff34d31cd11701b50fdd3b2fd8898f",
+      "rollout_index": 1,
+      "seed": 6924481468221313152
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5b7c5734bb6b0937a0fa",
+      "family_order": 260,
+      "prompt_sha256": "2d1f04e4ac3941d4bbf4ed5f47c30d298de3e3cbc5c39ba486b24820331d534e",
+      "rollout_index": 0,
+      "seed": 2020860001472945222
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5b7c5734bb6b0937a0fa",
+      "family_order": 260,
+      "prompt_sha256": "2d1f04e4ac3941d4bbf4ed5f47c30d298de3e3cbc5c39ba486b24820331d534e",
+      "rollout_index": 1,
+      "seed": 3689127495079072575
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-422ff311b401ef4042a7",
+      "family_order": 261,
+      "prompt_sha256": "0fabe3eb0c7236fe4e09f196af1b826420c0bb415cc9bb1a063cafc5be04930c",
+      "rollout_index": 0,
+      "seed": 9045798269590528654
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-422ff311b401ef4042a7",
+      "family_order": 261,
+      "prompt_sha256": "0fabe3eb0c7236fe4e09f196af1b826420c0bb415cc9bb1a063cafc5be04930c",
+      "rollout_index": 1,
+      "seed": 1112370158930252643
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ee88d50761269653a203",
+      "family_order": 262,
+      "prompt_sha256": "7c82861309e4f927cfa91da7a35572538fccd9c36b458a1c91687c4dc1f0a548",
+      "rollout_index": 0,
+      "seed": 2329932222028102373
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ee88d50761269653a203",
+      "family_order": 262,
+      "prompt_sha256": "7c82861309e4f927cfa91da7a35572538fccd9c36b458a1c91687c4dc1f0a548",
+      "rollout_index": 1,
+      "seed": 5464985161271691138
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af4d40ac4f3657b75c96",
+      "family_order": 263,
+      "prompt_sha256": "e13d6cc5707ba21d44fb8c1f178ec2640be3307dfb9b0513fc420447645674d7",
+      "rollout_index": 0,
+      "seed": 7318637183169757373
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af4d40ac4f3657b75c96",
+      "family_order": 263,
+      "prompt_sha256": "e13d6cc5707ba21d44fb8c1f178ec2640be3307dfb9b0513fc420447645674d7",
+      "rollout_index": 1,
+      "seed": 3378261227326276282
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c197df7a655bcee47c4e",
+      "family_order": 264,
+      "prompt_sha256": "81bc7f1f67b89c7cb8f33ee7050e7e4faffe704481ff15572c9345a0dbf6e914",
+      "rollout_index": 0,
+      "seed": 830058263219308180
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c197df7a655bcee47c4e",
+      "family_order": 264,
+      "prompt_sha256": "81bc7f1f67b89c7cb8f33ee7050e7e4faffe704481ff15572c9345a0dbf6e914",
+      "rollout_index": 1,
+      "seed": 2225136816100843773
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2f3cfd3d5f0653fd9e0d",
+      "family_order": 265,
+      "prompt_sha256": "2dd9aa883d3cc7957760cb6f5d753c4164192cdb24901bcab6eb5c3f1f45342e",
+      "rollout_index": 0,
+      "seed": 9207145161167309002
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2f3cfd3d5f0653fd9e0d",
+      "family_order": 265,
+      "prompt_sha256": "2dd9aa883d3cc7957760cb6f5d753c4164192cdb24901bcab6eb5c3f1f45342e",
+      "rollout_index": 1,
+      "seed": 8757458436861505557
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8527bd0b9d675b38ed6c",
+      "family_order": 266,
+      "prompt_sha256": "d8f50d369698a3d945d52ac622affe4ceb171248a248f85cf0d709c99a4a48f6",
+      "rollout_index": 0,
+      "seed": 1558422127269002264
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-8527bd0b9d675b38ed6c",
+      "family_order": 266,
+      "prompt_sha256": "d8f50d369698a3d945d52ac622affe4ceb171248a248f85cf0d709c99a4a48f6",
+      "rollout_index": 1,
+      "seed": 2379438012748508015
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-360936c3e24583d057ea",
+      "family_order": 267,
+      "prompt_sha256": "1c9127a26d716aa27151b89bffde55743b36997d3da47aaf600566be81de89a9",
+      "rollout_index": 0,
+      "seed": 4465308368456827816
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-360936c3e24583d057ea",
+      "family_order": 267,
+      "prompt_sha256": "1c9127a26d716aa27151b89bffde55743b36997d3da47aaf600566be81de89a9",
+      "rollout_index": 1,
+      "seed": 7390531192045772325
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af13141a9715373a393d",
+      "family_order": 268,
+      "prompt_sha256": "3c71c9093bda90d7efda2110ff184a6286191bfa556ddda3ed42ae2bfbe44986",
+      "rollout_index": 0,
+      "seed": 7135236454912308188
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-af13141a9715373a393d",
+      "family_order": 268,
+      "prompt_sha256": "3c71c9093bda90d7efda2110ff184a6286191bfa556ddda3ed42ae2bfbe44986",
+      "rollout_index": 1,
+      "seed": 3347038956270530713
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2f1bfef036e5c15b8892",
+      "family_order": 269,
+      "prompt_sha256": "030012d10df21cba93bf970ec2da0ad8b848dd79cac72a3a8a4a54ad6ec22f15",
+      "rollout_index": 0,
+      "seed": 9001686902161625677
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2f1bfef036e5c15b8892",
+      "family_order": 269,
+      "prompt_sha256": "030012d10df21cba93bf970ec2da0ad8b848dd79cac72a3a8a4a54ad6ec22f15",
+      "rollout_index": 1,
+      "seed": 6082856172163319758
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-18f94973a85735fd5b4c",
+      "family_order": 270,
+      "prompt_sha256": "2aed9d0fa7309753efd0b2f9a37c0dbc289ac23ef1da3c93ac3dd4252990f03b",
+      "rollout_index": 0,
+      "seed": 8226011597524405851
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-18f94973a85735fd5b4c",
+      "family_order": 270,
+      "prompt_sha256": "2aed9d0fa7309753efd0b2f9a37c0dbc289ac23ef1da3c93ac3dd4252990f03b",
+      "rollout_index": 1,
+      "seed": 5599602379448077176
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1b6d97024a737dfdae3b",
+      "family_order": 271,
+      "prompt_sha256": "046e5dfdba8365c5be901d1e9df2c355d68fc9e5fcaf6d58e5cf2ddeb498e9f4",
+      "rollout_index": 0,
+      "seed": 1915635344711177598
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1b6d97024a737dfdae3b",
+      "family_order": 271,
+      "prompt_sha256": "046e5dfdba8365c5be901d1e9df2c355d68fc9e5fcaf6d58e5cf2ddeb498e9f4",
+      "rollout_index": 1,
+      "seed": 555111497963366564
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-56696f4785dd91821ad6",
+      "family_order": 272,
+      "prompt_sha256": "d2ec5eca88a72114fd6090ee88c2acc193a29721dfa7f6a2ec97920d77461347",
+      "rollout_index": 0,
+      "seed": 3086792670495298050
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-56696f4785dd91821ad6",
+      "family_order": 272,
+      "prompt_sha256": "d2ec5eca88a72114fd6090ee88c2acc193a29721dfa7f6a2ec97920d77461347",
+      "rollout_index": 1,
+      "seed": 7153150393811121836
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4ba8c2ae3d66f79b406d",
+      "family_order": 273,
+      "prompt_sha256": "2c480c4d747290f32b4d98cf7a5b9ee1a4ebb2e8a8c24d579038dc9310a0100a",
+      "rollout_index": 0,
+      "seed": 8217601487732617119
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4ba8c2ae3d66f79b406d",
+      "family_order": 273,
+      "prompt_sha256": "2c480c4d747290f32b4d98cf7a5b9ee1a4ebb2e8a8c24d579038dc9310a0100a",
+      "rollout_index": 1,
+      "seed": 706701773424037312
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-41d4e2408d9dc38790a4",
+      "family_order": 274,
+      "prompt_sha256": "f12ed79de07dc02d2ef641153483ec948e871b3d0ded4f43abf9118cc390f2e7",
+      "rollout_index": 0,
+      "seed": 3628278438944113964
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-41d4e2408d9dc38790a4",
+      "family_order": 274,
+      "prompt_sha256": "f12ed79de07dc02d2ef641153483ec948e871b3d0ded4f43abf9118cc390f2e7",
+      "rollout_index": 1,
+      "seed": 3451372691680056420
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2450fc66d1e3c3398f9a",
+      "family_order": 275,
+      "prompt_sha256": "972229eaabcc7119ae64911f71f64cf8bdf4305e6ea5efbcad10d552e931c4eb",
+      "rollout_index": 0,
+      "seed": 7092160054047405246
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2450fc66d1e3c3398f9a",
+      "family_order": 275,
+      "prompt_sha256": "972229eaabcc7119ae64911f71f64cf8bdf4305e6ea5efbcad10d552e931c4eb",
+      "rollout_index": 1,
+      "seed": 1419973780427619383
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ba60fc1b695226c673d6",
+      "family_order": 276,
+      "prompt_sha256": "78d2093d67daccf7c6740a6c1d268596afa180ce6951ea98b020b1df88dd2f0b",
+      "rollout_index": 0,
+      "seed": 7248046100723761469
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-ba60fc1b695226c673d6",
+      "family_order": 276,
+      "prompt_sha256": "78d2093d67daccf7c6740a6c1d268596afa180ce6951ea98b020b1df88dd2f0b",
+      "rollout_index": 1,
+      "seed": 8421713396123681371
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-25f3033561513bf110ce",
+      "family_order": 277,
+      "prompt_sha256": "45dfa9d196293f331c2bd0b128ae16021a8aef9f866e1de5f674339d46d11616",
+      "rollout_index": 0,
+      "seed": 491794681840492268
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-25f3033561513bf110ce",
+      "family_order": 277,
+      "prompt_sha256": "45dfa9d196293f331c2bd0b128ae16021a8aef9f866e1de5f674339d46d11616",
+      "rollout_index": 1,
+      "seed": 7930298579638572309
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e81e2d7c46f1d541a44f",
+      "family_order": 278,
+      "prompt_sha256": "6e53072700a4b341d9c20481693853c4207de1d09ea39b0ac1246f9babd5b6ea",
+      "rollout_index": 0,
+      "seed": 3617708586648465016
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-e81e2d7c46f1d541a44f",
+      "family_order": 278,
+      "prompt_sha256": "6e53072700a4b341d9c20481693853c4207de1d09ea39b0ac1246f9babd5b6ea",
+      "rollout_index": 1,
+      "seed": 627687429251635260
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c7017e59f6dfa6cc718d",
+      "family_order": 279,
+      "prompt_sha256": "6d96f6689250f5fa5d603a2af08edcc9d39a9d187ef703ef79032b15e4fc3553",
+      "rollout_index": 0,
+      "seed": 5768911713608730623
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-c7017e59f6dfa6cc718d",
+      "family_order": 279,
+      "prompt_sha256": "6d96f6689250f5fa5d603a2af08edcc9d39a9d187ef703ef79032b15e4fc3553",
+      "rollout_index": 1,
+      "seed": 5372598193291132964
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-68d1edd9c4c134337389",
+      "family_order": 280,
+      "prompt_sha256": "fefa5a56b02602e11e06ef2c0eaa9f1731e62841ad5d34c024244bea0b937e92",
+      "rollout_index": 0,
+      "seed": 2290263583499683777
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-68d1edd9c4c134337389",
+      "family_order": 280,
+      "prompt_sha256": "fefa5a56b02602e11e06ef2c0eaa9f1731e62841ad5d34c024244bea0b937e92",
+      "rollout_index": 1,
+      "seed": 2485020911551364275
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6e3f6d67649ecccb5545",
+      "family_order": 281,
+      "prompt_sha256": "f38f364bfed6e0594835f2b24a87cbc024c1e038aed438ed6dfd32a1bc83998d",
+      "rollout_index": 0,
+      "seed": 384954588979536562
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-6e3f6d67649ecccb5545",
+      "family_order": 281,
+      "prompt_sha256": "f38f364bfed6e0594835f2b24a87cbc024c1e038aed438ed6dfd32a1bc83998d",
+      "rollout_index": 1,
+      "seed": 1713033955180721879
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4fc88668a6aaa81e0701",
+      "family_order": 282,
+      "prompt_sha256": "6778d3396e54de0cf56a1a0833416be4b6093ed0952c5a3d345490512cca2058",
+      "rollout_index": 0,
+      "seed": 1849313836791713291
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4fc88668a6aaa81e0701",
+      "family_order": 282,
+      "prompt_sha256": "6778d3396e54de0cf56a1a0833416be4b6093ed0952c5a3d345490512cca2058",
+      "rollout_index": 1,
+      "seed": 4818731017068479615
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-264a4245c34dfbf2ad22",
+      "family_order": 283,
+      "prompt_sha256": "7838cb89fe8a5c028319c32d5837a702db74bff57a984bd15cf0414c9a07bed0",
+      "rollout_index": 0,
+      "seed": 4415946534598132560
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-264a4245c34dfbf2ad22",
+      "family_order": 283,
+      "prompt_sha256": "7838cb89fe8a5c028319c32d5837a702db74bff57a984bd15cf0414c9a07bed0",
+      "rollout_index": 1,
+      "seed": 7293119427471187180
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-49193af52f67c927d0cb",
+      "family_order": 284,
+      "prompt_sha256": "29d1e215267aa95eb29900c1354d034a4e84dd7400ad6027f76d4c17a984fcf7",
+      "rollout_index": 0,
+      "seed": 6163536817303629122
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-49193af52f67c927d0cb",
+      "family_order": 284,
+      "prompt_sha256": "29d1e215267aa95eb29900c1354d034a4e84dd7400ad6027f76d4c17a984fcf7",
+      "rollout_index": 1,
+      "seed": 2579996509432973047
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-705ee16b5f3570f4764b",
+      "family_order": 285,
+      "prompt_sha256": "d5f2624731f01d0a96bb69b07d5aba24db005aba450e6f1e2c9eb528de6574ec",
+      "rollout_index": 0,
+      "seed": 966102980155522286
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-705ee16b5f3570f4764b",
+      "family_order": 285,
+      "prompt_sha256": "d5f2624731f01d0a96bb69b07d5aba24db005aba450e6f1e2c9eb528de6574ec",
+      "rollout_index": 1,
+      "seed": 2758847282406435649
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2892abc74ec86f4dfd17",
+      "family_order": 286,
+      "prompt_sha256": "fc7e1ef1305a08b066126b195a68409d9cd0472d157a4f76f9d430121e702485",
+      "rollout_index": 0,
+      "seed": 2769954197911276220
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-2892abc74ec86f4dfd17",
+      "family_order": 286,
+      "prompt_sha256": "fc7e1ef1305a08b066126b195a68409d9cd0472d157a4f76f9d430121e702485",
+      "rollout_index": 1,
+      "seed": 6408153985145827441
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4bb1bf7b9ed658be8731",
+      "family_order": 287,
+      "prompt_sha256": "de850a5dbd5c4b16ee8197217f24e58844b5b83deea3bf0c60a54566098bfc95",
+      "rollout_index": 0,
+      "seed": 6488479115200435394
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4bb1bf7b9ed658be8731",
+      "family_order": 287,
+      "prompt_sha256": "de850a5dbd5c4b16ee8197217f24e58844b5b83deea3bf0c60a54566098bfc95",
+      "rollout_index": 1,
+      "seed": 6293213636837254527
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7ad6dfb0304068733572",
+      "family_order": 288,
+      "prompt_sha256": "4fb93c982ce3500c3e8e842911e85f2dd374931ab13e95d2cccfc29b5dd249b2",
+      "rollout_index": 0,
+      "seed": 6485374655443229822
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-7ad6dfb0304068733572",
+      "family_order": 288,
+      "prompt_sha256": "4fb93c982ce3500c3e8e842911e85f2dd374931ab13e95d2cccfc29b5dd249b2",
+      "rollout_index": 1,
+      "seed": 2634171856140320665
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5ae56aef9d6b2c4c882b",
+      "family_order": 289,
+      "prompt_sha256": "070497e2dcc6134d3afee715fb4a0be5feec2a4f20d28a15c499b703e9b2716a",
+      "rollout_index": 0,
+      "seed": 6222075177913977838
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-5ae56aef9d6b2c4c882b",
+      "family_order": 289,
+      "prompt_sha256": "070497e2dcc6134d3afee715fb4a0be5feec2a4f20d28a15c499b703e9b2716a",
+      "rollout_index": 1,
+      "seed": 2653979213293713173
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bae0b008f44c66a65131",
+      "family_order": 290,
+      "prompt_sha256": "f6beb19220bd8cdb983b738e79f60382a096a2143d227a578c83ab12e5d55c6c",
+      "rollout_index": 0,
+      "seed": 7588807388246014841
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-bae0b008f44c66a65131",
+      "family_order": 290,
+      "prompt_sha256": "f6beb19220bd8cdb983b738e79f60382a096a2143d227a578c83ab12e5d55c6c",
+      "rollout_index": 1,
+      "seed": 1430206990857905576
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-37c65153121c9da3ae3a",
+      "family_order": 291,
+      "prompt_sha256": "60fba332886f3298365d22856db163659f7cb44912f1a4f6a0886ffb84213de1",
+      "rollout_index": 0,
+      "seed": 2509508090519090769
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-37c65153121c9da3ae3a",
+      "family_order": 291,
+      "prompt_sha256": "60fba332886f3298365d22856db163659f7cb44912f1a4f6a0886ffb84213de1",
+      "rollout_index": 1,
+      "seed": 8407779716053583079
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-950ee850c428fa7a97c6",
+      "family_order": 292,
+      "prompt_sha256": "84d419120dba10b6abebccdabdb7cefe63de13216802771c1ae55ecc0ddc121e",
+      "rollout_index": 0,
+      "seed": 6342817721073937599
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-950ee850c428fa7a97c6",
+      "family_order": 292,
+      "prompt_sha256": "84d419120dba10b6abebccdabdb7cefe63de13216802771c1ae55ecc0ddc121e",
+      "rollout_index": 1,
+      "seed": 1050620713366828147
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b493c76609453c071d94",
+      "family_order": 293,
+      "prompt_sha256": "a7344def9e12e8d67d6cae9bfb58b20f8c62eee6fd871101f4124778897b79da",
+      "rollout_index": 0,
+      "seed": 4701960747260187093
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-b493c76609453c071d94",
+      "family_order": 293,
+      "prompt_sha256": "a7344def9e12e8d67d6cae9bfb58b20f8c62eee6fd871101f4124778897b79da",
+      "rollout_index": 1,
+      "seed": 6795927606853029525
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1919cafc86502281a9aa",
+      "family_order": 294,
+      "prompt_sha256": "8ddfc744f00c9e0c6b72bdf77806d66225db52e30f36d9bd8e7ccd885d0a678e",
+      "rollout_index": 0,
+      "seed": 5308998559196764258
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-1919cafc86502281a9aa",
+      "family_order": 294,
+      "prompt_sha256": "8ddfc744f00c9e0c6b72bdf77806d66225db52e30f36d9bd8e7ccd885d0a678e",
+      "rollout_index": 1,
+      "seed": 2630381804160446421
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3f8f6ae520ac8aed46b8",
+      "family_order": 295,
+      "prompt_sha256": "1808f70141ad1908dd2609c18088228f4a2e38867e2f84532f3997ce66defb7e",
+      "rollout_index": 0,
+      "seed": 9174126579387533687
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3f8f6ae520ac8aed46b8",
+      "family_order": 295,
+      "prompt_sha256": "1808f70141ad1908dd2609c18088228f4a2e38867e2f84532f3997ce66defb7e",
+      "rollout_index": 1,
+      "seed": 7828449173358091815
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-76316e33ff6b84aeec6b",
+      "family_order": 296,
+      "prompt_sha256": "56ec464ba465f36a33f5b2bffa9a4d05df9039341acd626d6421f6e1699dda38",
+      "rollout_index": 0,
+      "seed": 8365952391032390271
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-76316e33ff6b84aeec6b",
+      "family_order": 296,
+      "prompt_sha256": "56ec464ba465f36a33f5b2bffa9a4d05df9039341acd626d6421f6e1699dda38",
+      "rollout_index": 1,
+      "seed": 7792188123116471960
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4fd16e649f876fc1c741",
+      "family_order": 297,
+      "prompt_sha256": "89b5865271cb0ce724568e53399805e8d32d7d8aff4273bafa2669b2f122a0f7",
+      "rollout_index": 0,
+      "seed": 6249478430271525760
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-4fd16e649f876fc1c741",
+      "family_order": 297,
+      "prompt_sha256": "89b5865271cb0ce724568e53399805e8d32d7d8aff4273bafa2669b2f122a0f7",
+      "rollout_index": 1,
+      "seed": 4994869941932144794
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3d20ccbe8e7fb10fbbea",
+      "family_order": 298,
+      "prompt_sha256": "946669de038ac7a4a010e04973b718754ae021eb231495fc99511fb617faa9a1",
+      "rollout_index": 0,
+      "seed": 6442567717180044188
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-3d20ccbe8e7fb10fbbea",
+      "family_order": 298,
+      "prompt_sha256": "946669de038ac7a4a010e04973b718754ae021eb231495fc99511fb617faa9a1",
+      "rollout_index": 1,
+      "seed": 2139023076792839136
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fea4d5cc44c790d9aae9",
+      "family_order": 299,
+      "prompt_sha256": "2e2dc96f850c18ad0a9e02d90d1fbcb997c72cf55d14215a3a13f7b0ff04d315",
+      "rollout_index": 0,
+      "seed": 5328189998239446781
+    },
+    {
+      "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+      "family_id": "Q3F-QUALIFICATION-fea4d5cc44c790d9aae9",
+      "family_order": 299,
+      "prompt_sha256": "2e2dc96f850c18ad0a9e02d90d1fbcb997c72cf55d14215a3a13f7b0ff04d315",
+      "rollout_index": 1,
+      "seed": 4373720864297076224
+    }
+  ],
+  "schema_version": "q3-fresh-unsteered-posthoc-schedule-v1",
+  "seed_namespace": "Q3-FRESH-QUALIFICATION-UNSTEERED-POSTHOC-V1",
+  "status": "FROZEN_POSTHOC_NOT_RUN",
+  "unique_seeds": 600
+}

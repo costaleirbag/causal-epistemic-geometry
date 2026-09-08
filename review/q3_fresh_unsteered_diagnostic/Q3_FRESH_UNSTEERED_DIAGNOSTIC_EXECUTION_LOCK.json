@@ -1,0 +1,22 @@
+{
+  "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+  "confirmation_qwen_access": 0,
+  "correctness_inspected": false,
+  "expected_rows": 600,
+  "model_byte_manifest_sha256": "cedc88ba2f732baea6bb71f5e6d7f6bc3aad00d302c3456d208a21687c9e069c",
+  "model_revision": "b968826d9c46dd6066d109eabc6255188de91218",
+  "parser_sha256": "51ac492a6cea1284c36df6ef659520adf4a04e0595cf0e66bfd15ba172b960c3",
+  "precheck_sha256": "af2fa5a33700d5ee37936ca1cf14ed8796c853ba6a8b74d3e9190624a8a3f501",
+  "private_dataset_sha256": "c791e38c29d36a43fbac8ce00412e4c77d533665e0b8cb9eef8fa12fb918ac1d",
+  "private_prompt_sha256": "17a2634a0f8f56e9ea6b7aefadcc640c3086ed134fc5689a4fae540a30fd6a8b",
+  "qualification_manifest_sha256": "9a01142e4825efad36c9ede99cacf88ec6c8cc42d37f24c2ba213bb6c4a790a1",
+  "reserve_qwen_access": 0,
+  "runner_sha256": "98471a9077832ff31a0c1c9f63ab2a68438499179e3d81b34ea3ab011df2ccca",
+  "schedule_sha256": "08bede64395a60a37a96a9ee631202c9b25a10ee0e17451fb06539387544d95b",
+  "schema_version": "q3-fresh-unsteered-posthoc-execution-lock-v1",
+  "scientific_outcomes_before_lock": 0,
+  "scorer_sha256": "bbf3af700d923f6b9c9131424fb260492d57a2b21ef39daefc65c1e83512ee79",
+  "source_closeout_commit": "827f4cc8adc8cd89b2cf270a89806950bbf5ac77",
+  "status": "FROZEN_POSTHOC_BEFORE_MODEL_INFERENCE",
+  "tests_sha256": "993b2cfd510a8d5992e972d69b297e4b550ac9dcf6144102bd4d2d8bf6bb7dec"
+}

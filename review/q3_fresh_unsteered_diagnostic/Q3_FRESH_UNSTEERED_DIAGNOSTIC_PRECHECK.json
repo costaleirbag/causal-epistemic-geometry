@@ -1,0 +1,72 @@
+{
+  "analysis": {
+    "comparison": "unsteered diagnostic versus frozen external champion",
+    "no_historical_reclassification": true,
+    "no_new_primary_endpoint": true,
+    "quantities": [
+      "accuracy",
+      "commitment_validity",
+      "semantic_evaluability",
+      "correct-set overlap",
+      "output-type accuracy",
+      "generated-token and elapsed-time distributions"
+    ]
+  },
+  "classification_boundary": {
+    "historical_forensic_status": "Q3_FRESH_INSTRUMENT_QUALIFICATION_FORENSIC_CLEAN",
+    "historical_result_mutable": false,
+    "historical_status": "Q3_FRESH_INSTRUMENT_NOT_QUALIFIED",
+    "q3_confirmatory_result": "NOT_RUN"
+  },
+  "firewall": {
+    "confirmation_qwen_access": 0,
+    "historical_conditions_reexecuted": 0,
+    "partial_correctness_inspection": false,
+    "reserve_qwen_access": 0,
+    "runpod": false,
+    "spark1_only": true,
+    "spark2": false
+  },
+  "generation": {
+    "do_sample": true,
+    "enable_thinking": false,
+    "max_new_tokens": 4096,
+    "min_p": 0.0,
+    "temperature": 0.6,
+    "termination": "EXTREME_MECHANICAL_REPETITION_V1",
+    "top_k": 20,
+    "top_p": 0.95
+  },
+  "instrument": {
+    "condition": "UNSTEERED_BASELINE_POSTHOC_DIAGNOSTIC",
+    "families": 300,
+    "historical_seed_collisions": 0,
+    "logical_generations": 600,
+    "new_unique_seeds": 600,
+    "parser_sha256": "51ac492a6cea1284c36df6ef659520adf4a04e0595cf0e66bfd15ba172b960c3",
+    "rollouts": 2,
+    "router": "NONE",
+    "same_parser": "external-semantic-v3",
+    "same_prompts": true,
+    "seed_namespace": "Q3-FRESH-QUALIFICATION-UNSTEERED-POSTHOC-V1",
+    "steering": "NONE"
+  },
+  "model": {
+    "attention": "SDPA",
+    "dtype": "BF16",
+    "id": "Qwen/Qwen3-8B",
+    "model_byte_manifest_sha256": "cedc88ba2f732baea6bb71f5e6d7f6bc3aad00d302c3456d208a21687c9e069c",
+    "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+    "tokenizer_revision": "b968826d9c46dd6066d109eabc6255188de91218"
+  },
+  "purpose": "Determine whether low qualification performance is also present without activation intervention.",
+  "schema_version": "q3-fresh-unsteered-posthoc-precheck-v1",
+  "source_closeout_commit": "827f4cc8adc8cd89b2cf270a89806950bbf5ac77",
+  "sources": {
+    "historical_lock_sha256": "3a51a8d6d9fe57722f9ca740e1c5281e0645031f1641cb824c469ab4dc36635f",
+    "historical_schedule_sha256": "edba56fc8435cdc34b6f7551fc2d1b4a6d4cc3d87fc34127a5096526d670a635",
+    "private_qualification_dataset_sha256": "c791e38c29d36a43fbac8ce00412e4c77d533665e0b8cb9eef8fa12fb918ac1d",
+    "qualification_manifest_sha256": "9a01142e4825efad36c9ede99cacf88ec6c8cc42d37f24c2ba213bb6c4a790a1"
+  },
+  "status": "FROZEN_POSTHOC_DIAGNOSTIC_NOT_RUN"
+}
