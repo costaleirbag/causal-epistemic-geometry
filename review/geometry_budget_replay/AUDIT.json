@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "records_checked": 5120,
+  "bank_sha256": "09b7942684d9b87aaed15a97ded6bab6a4cf3aec4362b784f09de29bd9b630d0",
+  "evaluation_sha256": "59fa917922c59c8b6f09223c87abc5ca3f1e7ba2e0d590c58f7897b815ca7dd4",
+  "maximum_metric_difference": 0.0,
+  "maximum_aggregate_mean_difference": 2.220446049250313e-16,
+  "costs_and_champions_verified": true,
+  "audit_uses_primary_numeric_loader": true,
+  "primary_evaluator_or_aggregator_used": false,
+  "runtime": {
+    "numpy": "2.5.2"
+  },
+  "new_model_forwards": 0
+}

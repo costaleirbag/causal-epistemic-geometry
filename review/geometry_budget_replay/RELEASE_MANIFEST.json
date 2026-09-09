@@ -1,0 +1,15 @@
+{
+  "classification": "RETROSPECTIVE_SMALL_OPPORTUNITY_GAIN_NO_CONSISTENT_FIXED_POLICY_GAIN",
+  "files": {
+    "scripts/geometry_budget_replay.py": "7804b2edc018c22f1983a8a2baee4fb286be5d36fb684091ed17002086b077c7",
+    "scripts/run_geometry_budget_replay.py": "f9544618a45c157647a058b09cd46d97ac35617eab09867693da402587d04727",
+    "scripts/audit_geometry_budget_replay.py": "a67435789c0921eeedd00e08085e6521c5094cc7e29b602e68319cb8fdd606a5",
+    "tests/test_geometry_budget_replay.py": "e020fdaacc8d9da766da1120d58940f5391f729e642239471ae1d2cf3b0f71e4",
+    "review/geometry_budget_replay/PRECHECK.json": "2bad076a99c24518081f904c582021a7bf0bb699382e7d1ca9be0852088ec7ae",
+    "review/geometry_budget_replay/AGGREGATES.json": "7ffc9ed1b987ed6ef37392c70edf4599399c4680b227a0ac1ad3d593f1f1d615",
+    "review/geometry_budget_replay/AUDIT.json": "fdbc10ba8c7b9f85ff117553fa56e09d67a45aad88296728de238244964e149c",
+    "review/geometry_budget_replay/CLOSEOUT.md": "28c4cb7cf20bdc53cd47f6968a2951019eb228401413f13e5a7000e0071147e4"
+  },
+  "new_model_forwards": 0,
+  "private_data_published": false
+}
