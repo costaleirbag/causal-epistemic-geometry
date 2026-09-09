@@ -1,0 +1,93 @@
+{
+  "by_expected_type": {
+    "bool": {
+      "champion_answer_agreement_rows": 128,
+      "correct": 80,
+      "families": 64,
+      "modal_answer_count": 128,
+      "predicted_type_counts": {
+        "bool": 128
+      },
+      "rollout_agreement_families": 64,
+      "rows": 128,
+      "unique_canonical_answers": 1
+    },
+    "dict": {
+      "champion_answer_agreement_rows": 0,
+      "correct": 0,
+      "families": 32,
+      "modal_answer_count": 1,
+      "predicted_type_counts": {
+        "dict": 64
+      },
+      "rollout_agreement_families": 0,
+      "rows": 64,
+      "unique_canonical_answers": 64
+    },
+    "int": {
+      "champion_answer_agreement_rows": 14,
+      "correct": 0,
+      "families": 64,
+      "modal_answer_count": 36,
+      "predicted_type_counts": {
+        "int": 128
+      },
+      "rollout_agreement_families": 15,
+      "rows": 128,
+      "unique_canonical_answers": 38
+    },
+    "list": {
+      "champion_answer_agreement_rows": 2,
+      "correct": 0,
+      "families": 44,
+      "modal_answer_count": 2,
+      "predicted_type_counts": {
+        "list": 88
+      },
+      "rollout_agreement_families": 1,
+      "rows": 88,
+      "unique_canonical_answers": 87
+    },
+    "str": {
+      "champion_answer_agreement_rows": 2,
+      "correct": 0,
+      "families": 64,
+      "modal_answer_count": 3,
+      "predicted_type_counts": {
+        "str": 128
+      },
+      "rollout_agreement_families": 3,
+      "rows": 128,
+      "unique_canonical_answers": 118
+    },
+    "tuple": {
+      "champion_answer_agreement_rows": 0,
+      "correct": 0,
+      "families": 32,
+      "modal_answer_count": 1,
+      "predicted_type_counts": {
+        "tuple": 64
+      },
+      "rollout_agreement_families": 0,
+      "rows": 64,
+      "unique_canonical_answers": 64
+    }
+  },
+  "evidence_level": "POST_HOC_DIAGNOSTIC_ONLY",
+  "individual_values_exported": false,
+  "new_model_forwards": 0,
+  "provenance": {
+    "complete_prompt_preserved_families": 300,
+    "dataset_prompt_matches_families": 300,
+    "distinct_rendered_prompt_hashes": 300,
+    "distinct_seeds": 600,
+    "distinct_source_prompt_hashes": 300,
+    "input_complete_in_prompt_families": 300,
+    "raw_output_hash_matches_scores": 600,
+    "rendered_hash_reproduction_rows": 600,
+    "row_source_prompt_matches": 600,
+    "source_complete_in_prompt_families": 300,
+    "source_prompt_hash_matches": 300,
+    "token_decode_reproduction_rows": 600
+  }
+}
