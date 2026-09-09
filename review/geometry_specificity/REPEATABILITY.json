@@ -1,0 +1,64 @@
+{
+  "stable_product": 0.023098752577838135,
+  "observed_energy": 0.04108143956541422,
+  "disagreement_energy": 0.017982686987576078,
+  "signed_reproducibility": 0.5622673602043048,
+  "marginal_policy_accuracy_correlation": 0.6457543657996222,
+  "family_bootstrap_q025_q975": {
+    "stable_product": [
+      0.017739411749911973,
+      0.028791781852019506
+    ],
+    "observed_energy": [
+      0.032415389190684575,
+      0.04999361337457874
+    ],
+    "disagreement_energy": [
+      0.01389741977264725,
+      0.022378155902620586
+    ],
+    "signed_reproducibility": [
+      0.5032615335989125,
+      0.6183329604861187
+    ]
+  },
+  "broken_alignment_descriptive": {
+    "policy_permutation": {
+      "mean": -5.524326197330566e-05,
+      "q025_q975": [
+        -0.0024850772093959056,
+        0.0022864239726371896
+      ]
+    },
+    "family_permutation": {
+      "mean": 1.756062687102375e-05,
+      "q025_q975": [
+        -0.0009470449172576832,
+        0.0010670640309843563
+      ]
+    }
+  },
+  "oracle_diagnostic": {
+    "cross_rollout_accuracy_mean": 0.540625,
+    "cross_rollout_seed_q025_q975": [
+      0.5238333333333333,
+      0.5580833333333334
+    ],
+    "empirical_mean_before_max": 0.61,
+    "uniform_policy_accuracy": 0.46627659574468083,
+    "marginal_policy_accuracy_min_max": [
+      0.43833333333333335,
+      0.49333333333333335
+    ],
+    "interpretation": "Privileged same-family labeled repetition; not deployable routing or held-out-family utility."
+  },
+  "audit_maximum_difference": 5.551115123125783e-17,
+  "interpretation": "Exploratory exposed-panel estimate, fixed controller population, two rollout draws. Conditional independence assumed for squared-interaction interpretation. Permutation summaries are not p-values.",
+  "precheck_sha256": "988a12bfb1b0e6c92f1ace8a5ef76bf5ca687c420ea993da0f4b344e011feef1",
+  "dimensions": [
+    300,
+    47,
+    2
+  ],
+  "new_model_forwards": 0
+}

@@ -1,0 +1,12 @@
+{
+  "status": "FROZEN_BEFORE_NEW_RETROSPECTIVE_CALCULATIONS",
+  "frozen_at": "2026-09-09T18:45:37.341726+00:00",
+  "sources": {
+    "scripts/geometry_repeatability.py": "847e047eac0e124e21f852e2b54f4a97dbcc0261c3fe10f697392d675aba338e",
+    "tests/test_geometry_repeatability.py": "03356ecaff2306f22503d86cd81ed5d2e7fd0d1d7139f79f6e90763e8eab9f43",
+    "review/geometry_specificity/REPEATABILITY_PRECHECK.md": "3a8a24ba95d2f730ebf03832b4973811f7c9e3256ad4de29dc48bcbfd9a2f50d",
+    "review/geometry_budget_replay/PRECHECK.json": "2bad076a99c24518081f904c582021a7bf0bb699382e7d1ca9be0852088ec7ae"
+  },
+  "new_model_forwards": 0,
+  "tests_passed": 4
+}
