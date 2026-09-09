@@ -1,0 +1,8 @@
+{
+  "rendered_prompt_hash_matches": 24,
+  "persisted_token_decode_matches": 24,
+  "new_model_forwards": 0,
+  "all_source_prompts_preserved": true,
+  "inspection_scope": "24 synthetic engineering control rows only",
+  "finding": "No prompt or decode mismatch identified; four reversal answers contain incorrect characters"
+}

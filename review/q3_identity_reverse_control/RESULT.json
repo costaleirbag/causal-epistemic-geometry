@@ -1,0 +1,89 @@
+{
+  "additional_panel_authorized": false,
+  "collection_seal_sha256": "0d67ef572b5092f83efd899079ef3f01b03e03a1ef310ca9376331d5772fd753",
+  "conditions": {
+    "IDENTITY": {
+      "accuracy": 1.0,
+      "commitment_valid": 12,
+      "commitment_validity": 1.0,
+      "correct": 12,
+      "elapsed_seconds": {
+        "max": 1.083373915986158,
+        "mean": 0.579139068412284,
+        "median": 0.5194251095526852,
+        "p90": 0.6884506980190054,
+        "p95": 0.8663096823554949,
+        "p99": 1.0399610692600256
+      },
+      "generated_tokens": {
+        "max": 8.0,
+        "mean": 6.0,
+        "median": 6.0,
+        "p90": 7.9,
+        "p95": 8.0,
+        "p99": 8.0
+      },
+      "rows": 12,
+      "semantic_evaluability": 1.0,
+      "semantic_evaluable": 12,
+      "status_counts": {
+        "VALID_CORRECT": 12
+      },
+      "summed_generation_seconds": 6.949668820947409,
+      "total_generated_tokens": 72
+    },
+    "REVERSE": {
+      "accuracy": 0.6666666666666666,
+      "commitment_valid": 12,
+      "commitment_validity": 1.0,
+      "correct": 8,
+      "elapsed_seconds": {
+        "max": 0.7717926549958065,
+        "mean": 0.6445771707415892,
+        "median": 0.6861973874620162,
+        "p90": 0.6875367708853446,
+        "p95": 0.7254544460971374,
+        "p99": 0.7625250132160727
+      },
+      "generated_tokens": {
+        "max": 9.0,
+        "mean": 7.5,
+        "median": 8.0,
+        "p90": 8.0,
+        "p95": 8.45,
+        "p99": 8.89
+      },
+      "rows": 12,
+      "semantic_evaluability": 1.0,
+      "semantic_evaluable": 12,
+      "status_counts": {
+        "VALID_CORRECT": 8,
+        "VALID_WRONG": 4
+      },
+      "summed_generation_seconds": 7.734926048899069,
+      "total_generated_tokens": 90
+    }
+  },
+  "confirmation_access": 0,
+  "evidence": "ENGINEERING_CONTROL_ONLY",
+  "historical_status": "Q3_FRESH_INSTRUMENT_NOT_QUALIFIED",
+  "inputs_all_four_correct": 3,
+  "inputs_total": 6,
+  "manifest_sha256": "a49bf8a29d1b5df9e30ced5e2e4dad01e080d3b7ef741e55881987bfd014d171",
+  "pairs_both_correct": 8,
+  "pairs_correct_by_rollout": {
+    "0": 4,
+    "1": 4
+  },
+  "pairs_total": 12,
+  "planned_generations": 24,
+  "q3_confirmatory": "NOT_RUN",
+  "raw_journal_sha256": "141e9b0ea7cbd57a1b4c4a9a40175ed17b7f5a6c8ec9df2c30f6df6b3d48df7e",
+  "reserve_access": 0,
+  "reverse_returned_original_input": 0,
+  "scores_sha256": "7f0c659747e18f24dd1b9c091979f3fc07371ddfd85047841587ca7a26ac0c7f",
+  "status": "ELEMENTARY_CONTROL_MIXED_OR_FAILED",
+  "terminal_counts": {
+    "natural_completion": 24
+  }
+}
