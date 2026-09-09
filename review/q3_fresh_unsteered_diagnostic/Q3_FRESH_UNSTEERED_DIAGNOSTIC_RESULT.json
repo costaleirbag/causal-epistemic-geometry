@@ -1,0 +1,151 @@
+{
+  "champion": {
+    "accuracy": 0.13333333333333333,
+    "commitment_valid": 600,
+    "commitment_validity": 1.0,
+    "correct": 80,
+    "elapsed_seconds": {
+      "max": 2.583664394012885,
+      "mean": 1.2256959512667769,
+      "median": 0.9957332505000522,
+      "p90": 2.1541011556837475,
+      "p95": 2.2637808830797437,
+      "p99": 2.3676615475484866
+    },
+    "generated_tokens": {
+      "max": 28.0,
+      "mean": 11.92,
+      "median": 9.0,
+      "p90": 23.0,
+      "p95": 23.0,
+      "p99": 24.0
+    },
+    "rows": 600,
+    "semantic_evaluability": 1.0,
+    "semantic_evaluable": 600,
+    "status_counts": {
+      "VALID_CORRECT": 80,
+      "VALID_WRONG": 520
+    },
+    "summed_generation_seconds": 735.4175707600662,
+    "total_generated_tokens": 7152
+  },
+  "comparison": {
+    "accuracy_delta_unsteered_minus_champion": 0.0,
+    "champion_only_correct": 0,
+    "correct_intersection": 80,
+    "correct_jaccard": 1.0,
+    "correct_union": 80,
+    "output_type": {
+      "bool": {
+        "champion_accuracy": 0.625,
+        "champion_correct": 80,
+        "rows": 128,
+        "unsteered_accuracy": 0.625,
+        "unsteered_correct": 80
+      },
+      "dict": {
+        "champion_accuracy": 0.0,
+        "champion_correct": 0,
+        "rows": 64,
+        "unsteered_accuracy": 0.0,
+        "unsteered_correct": 0
+      },
+      "int": {
+        "champion_accuracy": 0.0,
+        "champion_correct": 0,
+        "rows": 128,
+        "unsteered_accuracy": 0.0,
+        "unsteered_correct": 0
+      },
+      "list": {
+        "champion_accuracy": 0.0,
+        "champion_correct": 0,
+        "rows": 88,
+        "unsteered_accuracy": 0.0,
+        "unsteered_correct": 0
+      },
+      "str": {
+        "champion_accuracy": 0.0,
+        "champion_correct": 0,
+        "rows": 128,
+        "unsteered_accuracy": 0.0,
+        "unsteered_correct": 0
+      },
+      "tuple": {
+        "champion_accuracy": 0.0,
+        "champion_correct": 0,
+        "rows": 64,
+        "unsteered_accuracy": 0.0,
+        "unsteered_correct": 0
+      }
+    },
+    "unsteered_only_correct": 0
+  },
+  "evidence_level": "POST_HOC_DIAGNOSTIC_ONLY",
+  "firewall": {
+    "confirmation_qwen_access": 0,
+    "historical_conditions_reexecuted": 0,
+    "q3_confirmatory_result": "NOT_RUN",
+    "raw_text_released": false,
+    "reserve_qwen_access": 0,
+    "runpod_used": false,
+    "spark2_used": false
+  },
+  "historical_classification_modified": false,
+  "historical_forensic_status": "Q3_FRESH_INSTRUMENT_QUALIFICATION_FORENSIC_CLEAN",
+  "historical_status": "Q3_FRESH_INSTRUMENT_NOT_QUALIFIED",
+  "raw": {
+    "collection_seal_sha256": "5d070935102f1ed4932e3da0af03e59ef05696214b5b91be20b399eb0c36562b",
+    "correctness_inspected_before_seal": false,
+    "duplicates": 0,
+    "journal_bytes": 1647737,
+    "journal_sha256": "9ca08598dc81c3414394951cb56cbfc129466c63cb8e5570f208551a3640240d",
+    "missing": 0,
+    "replacements": 0,
+    "retry_rows": 0,
+    "rows": 600,
+    "runtime_errors": 0,
+    "unexpected": 0
+  },
+  "schema_version": "q3-fresh-unsteered-posthoc-result-v1",
+  "scoring": {
+    "correctness_first_inspected_after_raw_seal": true,
+    "manual_adjudication": false,
+    "parser": "external-semantic-v3",
+    "parser_sha256": "51ac492a6cea1284c36df6ef659520adf4a04e0595cf0e66bfd15ba172b960c3",
+    "private_scores_sha256": "30dd57131b3f0823df1642e2dabb0d511e10c8fe8acf49e0e98c53100df7b0b0"
+  },
+  "status": "Q3_FRESH_UNSTEERED_POSTHOC_DIAGNOSTIC_COMPLETE",
+  "unsteered": {
+    "accuracy": 0.13333333333333333,
+    "commitment_valid": 600,
+    "commitment_validity": 1.0,
+    "correct": 80,
+    "elapsed_seconds": {
+      "max": 3.001573403016664,
+      "mean": 1.2093966623411203,
+      "median": 0.9854663555161096,
+      "p90": 2.165596515219659,
+      "p95": 2.2581253885000474,
+      "p99": 2.3852718126215033
+    },
+    "generated_tokens": {
+      "max": 28.0,
+      "mean": 11.678333333333333,
+      "median": 9.0,
+      "p90": 23.0,
+      "p95": 23.0,
+      "p99": 24.0
+    },
+    "rows": 600,
+    "semantic_evaluability": 1.0,
+    "semantic_evaluable": 600,
+    "status_counts": {
+      "VALID_CORRECT": 80,
+      "VALID_WRONG": 520
+    },
+    "summed_generation_seconds": 725.6379974046722,
+    "total_generated_tokens": 7007
+  }
+}
