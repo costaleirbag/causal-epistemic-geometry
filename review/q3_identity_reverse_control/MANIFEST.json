@@ -1,0 +1,417 @@
+{
+  "fixtures": [
+    {
+      "condition": "IDENTITY",
+      "fixture_id": "ENGINEERING-IR-00-IDENTITY",
+      "input": {
+        "n": 7,
+        "text": "maple",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 0,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'maple'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "0d2354024003e3d09662fa3fe63795d7e68a60805f6d3da532071733afce84cf",
+      "source": "def solve(data):\n    return data[\"text\"]\n"
+    },
+    {
+      "condition": "REVERSE",
+      "fixture_id": "ENGINEERING-IR-00-REVERSE",
+      "input": {
+        "n": 7,
+        "text": "maple",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 0,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"][::-1]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'maple'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "6360e5af3d7115b3c27b075a26283115ba3d337dd988bc4ce7192901b6fced44",
+      "source": "def solve(data):\n    return data[\"text\"][::-1]\n"
+    },
+    {
+      "condition": "IDENTITY",
+      "fixture_id": "ENGINEERING-IR-01-IDENTITY",
+      "input": {
+        "n": 7,
+        "text": "b7K2",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 1,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'b7K2'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "9a0a2598f7e6052070e00c47711882bca1518753aa73ad1d02e279ac24ac52c1",
+      "source": "def solve(data):\n    return data[\"text\"]\n"
+    },
+    {
+      "condition": "REVERSE",
+      "fixture_id": "ENGINEERING-IR-01-REVERSE",
+      "input": {
+        "n": 7,
+        "text": "b7K2",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 1,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"][::-1]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'b7K2'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "e158f14ce595aabaf9815764a7b33bb8fd40a9cd5d9b469a2e08e9afbe80c9f0",
+      "source": "def solve(data):\n    return data[\"text\"][::-1]\n"
+    },
+    {
+      "condition": "IDENTITY",
+      "fixture_id": "ENGINEERING-IR-02-IDENTITY",
+      "input": {
+        "n": 7,
+        "text": "cobalt",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 2,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'cobalt'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "2c39faed04d3a1ac10bd20a93eb8bac09ecbfac8de6a92857c6b52c807b2f2a2",
+      "source": "def solve(data):\n    return data[\"text\"]\n"
+    },
+    {
+      "condition": "REVERSE",
+      "fixture_id": "ENGINEERING-IR-02-REVERSE",
+      "input": {
+        "n": 7,
+        "text": "cobalt",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 2,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"][::-1]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'cobalt'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "d7396e9f16461984c4815f17dde679ba34c02c51a3d06b573dc6c8a6f3afbc1b",
+      "source": "def solve(data):\n    return data[\"text\"][::-1]\n"
+    },
+    {
+      "condition": "IDENTITY",
+      "fixture_id": "ENGINEERING-IR-03-IDENTITY",
+      "input": {
+        "n": 7,
+        "text": "raven9",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 3,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'raven9'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "b0f12f5e73cd2f14a0304f00c0a7cddc94b7ed2bd40ad9a48834c003dd630d0f",
+      "source": "def solve(data):\n    return data[\"text\"]\n"
+    },
+    {
+      "condition": "REVERSE",
+      "fixture_id": "ENGINEERING-IR-03-REVERSE",
+      "input": {
+        "n": 7,
+        "text": "raven9",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 3,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"][::-1]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'raven9'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "2884993ff585d21ace794de6b2828de36f539e248327bfce7843b1d7ef2dcd4c",
+      "source": "def solve(data):\n    return data[\"text\"][::-1]\n"
+    },
+    {
+      "condition": "IDENTITY",
+      "fixture_id": "ENGINEERING-IR-04-IDENTITY",
+      "input": {
+        "n": 7,
+        "text": "tulip4",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 4,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'tulip4'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "590947cd89e67272430fb45e9a873da18b43c9689720ee604b9f53de8da054db",
+      "source": "def solve(data):\n    return data[\"text\"]\n"
+    },
+    {
+      "condition": "REVERSE",
+      "fixture_id": "ENGINEERING-IR-04-REVERSE",
+      "input": {
+        "n": 7,
+        "text": "tulip4",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 4,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"][::-1]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'tulip4'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "ec1d7f4b306409aa903c0ff67ac73857b8bb41c4134fbf9c46ec13fad37fc714",
+      "source": "def solve(data):\n    return data[\"text\"][::-1]\n"
+    },
+    {
+      "condition": "IDENTITY",
+      "fixture_id": "ENGINEERING-IR-05-IDENTITY",
+      "input": {
+        "n": 7,
+        "text": "q3Z8m",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 5,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'q3Z8m'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "7400094002479c176e5d8470033b5b6143a941061f0e33acb7d930fa293fadaf",
+      "source": "def solve(data):\n    return data[\"text\"]\n"
+    },
+    {
+      "condition": "REVERSE",
+      "fixture_id": "ENGINEERING-IR-05-REVERSE",
+      "input": {
+        "n": 7,
+        "text": "q3Z8m",
+        "values": [
+          2,
+          5,
+          8
+        ]
+      },
+      "pair_id": 5,
+      "prompt": "Predict the exact output of this deterministic Python function.\n\n```python\ndef solve(data):\n    return data[\"text\"][::-1]\n```\n\nInput: {'n': 7, 'values': [2, 5, 8], 'text': 'q3Z8m'}\n\nReturn exactly one final line in this form:\nFINAL: <the exact Python output>\nDo not add any text after FINAL.",
+      "prompt_sha256": "35f9f72702b3874c39fec80552d5a620bcf31c18122f1d3227cbd0fe8b83959e",
+      "source": "def solve(data):\n    return data[\"text\"][::-1]\n"
+    }
+  ],
+  "generation": {
+    "do_sample": true,
+    "enable_thinking": false,
+    "max_new_tokens": 4096,
+    "min_p": 0.0,
+    "temperature": 0.6,
+    "termination": "EXTREME_MECHANICAL_REPETITION_V1",
+    "top_k": 20,
+    "top_p": 0.95
+  },
+  "interpretation": {
+    "all_12_pairs_correct": "elementary control passes on these six inputs only",
+    "otherwise": "limited/mixed result; inspect only these fixtures, no tuning or additional generation"
+  },
+  "model": {
+    "attention": "SDPA",
+    "dtype": "BF16",
+    "id": "Qwen/Qwen3-8B",
+    "model_byte_manifest_sha256": "cedc88ba2f732baea6bb71f5e6d7f6bc3aad00d302c3456d208a21687c9e069c",
+    "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+    "tokenizer_revision": "b968826d9c46dd6066d109eabc6255188de91218"
+  },
+  "permanently_excluded_from_all_scientific_evaluation": true,
+  "primary": "both conditions exactly correct per input and rollout; denominator 12 pairs",
+  "reference_isolation": "collection reads prompts only; reference file is not loaded or passed to backend",
+  "references_sha256": "f38d7785c4cf35fc4477f1aa1521195a248c5979d57b67d378b5983d719e65f9",
+  "schedule": [
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-00-IDENTITY",
+      "pair_id": 0,
+      "rollout_index": 0,
+      "seed": 1516543063
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-00-REVERSE",
+      "pair_id": 0,
+      "rollout_index": 0,
+      "seed": 1516543063
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-00-REVERSE",
+      "pair_id": 0,
+      "rollout_index": 1,
+      "seed": 1352800797
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-00-IDENTITY",
+      "pair_id": 0,
+      "rollout_index": 1,
+      "seed": 1352800797
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-01-REVERSE",
+      "pair_id": 1,
+      "rollout_index": 0,
+      "seed": 1591754383
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-01-IDENTITY",
+      "pair_id": 1,
+      "rollout_index": 0,
+      "seed": 1591754383
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-01-IDENTITY",
+      "pair_id": 1,
+      "rollout_index": 1,
+      "seed": 1498835031
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-01-REVERSE",
+      "pair_id": 1,
+      "rollout_index": 1,
+      "seed": 1498835031
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-02-IDENTITY",
+      "pair_id": 2,
+      "rollout_index": 0,
+      "seed": 38546284
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-02-REVERSE",
+      "pair_id": 2,
+      "rollout_index": 0,
+      "seed": 38546284
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-02-REVERSE",
+      "pair_id": 2,
+      "rollout_index": 1,
+      "seed": 100714335
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-02-IDENTITY",
+      "pair_id": 2,
+      "rollout_index": 1,
+      "seed": 100714335
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-03-REVERSE",
+      "pair_id": 3,
+      "rollout_index": 0,
+      "seed": 2028442022
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-03-IDENTITY",
+      "pair_id": 3,
+      "rollout_index": 0,
+      "seed": 2028442022
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-03-IDENTITY",
+      "pair_id": 3,
+      "rollout_index": 1,
+      "seed": 387249456
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-03-REVERSE",
+      "pair_id": 3,
+      "rollout_index": 1,
+      "seed": 387249456
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-04-IDENTITY",
+      "pair_id": 4,
+      "rollout_index": 0,
+      "seed": 1092617932
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-04-REVERSE",
+      "pair_id": 4,
+      "rollout_index": 0,
+      "seed": 1092617932
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-04-REVERSE",
+      "pair_id": 4,
+      "rollout_index": 1,
+      "seed": 1959118177
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-04-IDENTITY",
+      "pair_id": 4,
+      "rollout_index": 1,
+      "seed": 1959118177
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-05-REVERSE",
+      "pair_id": 5,
+      "rollout_index": 0,
+      "seed": 34177759
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-05-IDENTITY",
+      "pair_id": 5,
+      "rollout_index": 0,
+      "seed": 34177759
+    },
+    {
+      "condition": "IDENTITY",
+      "family_id": "ENGINEERING-IR-05-IDENTITY",
+      "pair_id": 5,
+      "rollout_index": 1,
+      "seed": 70991290
+    },
+    {
+      "condition": "REVERSE",
+      "family_id": "ENGINEERING-IR-05-REVERSE",
+      "pair_id": 5,
+      "rollout_index": 1,
+      "seed": 70991290
+    }
+  ],
+  "scope": "unsteered; no qualification/confirmation/reserve data; no router or steering hooks",
+  "source_hashes": {
+    "scripts/analyze_q3_fresh_unsteered_diagnostic.py": "bbf3af700d923f6b9c9131424fb260492d57a2b21ef39daefc65c1e83512ee79",
+    "scripts/execute_q3_fresh_qualification.py": "da860bcffe2b6f03ad935a60aeb9af21fc5702fcc1a0d2313ec1c38b61684551",
+    "scripts/q3_identity_reverse_control.py": "69e20036d951fadd84d5e7987c6e888bea4b74269471bec120585023c04f546c",
+    "scripts/run_q2_oos_v2_semantic.py": "941b838afeb27ea4021205d3d837435349d03cc71e2b782adde6eb715ce64d31",
+    "src/epistemic_geometry/backends/huggingface.py": "ef69a1279ee23d46349a50a5a68ffabdcc24e817159a859c9dab41ed68b33ae4",
+    "src/epistemic_geometry/benchmarks/external/semantic_v3.py": "51ac492a6cea1284c36df6ef659520adf4a04e0595cf0e66bfd15ba172b960c3",
+    "src/epistemic_geometry/benchmarks/prompts.py": "47fc45098556174574df1f28accd8ec4eae31c42f6dd8c1557cf06f9eebdaedd",
+    "src/epistemic_geometry/research/durable_journal.py": "56aeb9a3270e7403ef54d2d6dd5577a3e467e91b469c4f35dfebc42b11ad95d2"
+  },
+  "status": "FROZEN_ENGINEERING_CONTROL_BEFORE_INFERENCE",
+  "stop": "24 planned generations once; no automatic retry, no further panels; Q3 remains NOT_RUN"
+}
