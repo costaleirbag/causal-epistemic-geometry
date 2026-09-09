@@ -1,0 +1,106 @@
+{
+  "status": "SYNTHETIC_PLANNING_ONLY",
+  "families": 60,
+  "controllers": 12,
+  "rollouts": 8,
+  "spaces": 3,
+  "scenarios": [
+    {
+      "logit_interaction_scale": 0.25,
+      "random_anisotropy": 0.0,
+      "replicates": 200,
+      "true_finite_panel_contrast_mean": -0.0018405176912639565,
+      "observed_contrast_mean": 0.0006427278890575744,
+      "estimation_error_q025_q975": [
+        -0.31769260470886895,
+        0.29894165535956585
+      ],
+      "observed_space_rho_means": [
+        0.17407970809288353,
+        0.1756813101637333,
+        0.17119265024391872
+      ]
+    },
+    {
+      "logit_interaction_scale": 0.25,
+      "random_anisotropy": 0.9,
+      "replicates": 200,
+      "true_finite_panel_contrast_mean": 0.5919788122325437,
+      "observed_contrast_mean": 0.05877023216339573,
+      "estimation_error_q025_q975": [
+        -0.8713208433357688,
+        -0.21083602964199954
+      ],
+      "observed_space_rho_means": [
+        0.17181534244253258,
+        0.11310835077326147,
+        0.11298186978501237
+      ]
+    },
+    {
+      "logit_interaction_scale": 0.5,
+      "random_anisotropy": 0.0,
+      "replicates": 200,
+      "true_finite_panel_contrast_mean": 0.0019583550777580562,
+      "observed_contrast_mean": 0.0062667060395856945,
+      "estimation_error_q025_q975": [
+        -0.2687287339526146,
+        0.2481103225133077
+      ],
+      "observed_space_rho_means": [
+        0.47561495545860377,
+        0.462779045755879,
+        0.4759174530821564
+      ]
+    },
+    {
+      "logit_interaction_scale": 0.5,
+      "random_anisotropy": 0.9,
+      "replicates": 200,
+      "true_finite_panel_contrast_mean": 0.5674666527502349,
+      "observed_contrast_mean": 0.21576525015468082,
+      "estimation_error_q025_q975": [
+        -0.6361251435132034,
+        -0.1108231284362873
+      ],
+      "observed_space_rho_means": [
+        0.45505360031823,
+        0.2439053267994126,
+        0.23467137352768586
+      ]
+    },
+    {
+      "logit_interaction_scale": 1.0,
+      "random_anisotropy": 0.0,
+      "replicates": 200,
+      "true_finite_panel_contrast_mean": -0.003711721114706192,
+      "observed_contrast_mean": 0.003268207695301189,
+      "estimation_error_q025_q975": [
+        -0.14300542740841254,
+        0.14298350902828513
+      ],
+      "observed_space_rho_means": [
+        0.761532537988813,
+        0.7563106474195084,
+        0.7602180131675174
+      ]
+    },
+    {
+      "logit_interaction_scale": 1.0,
+      "random_anisotropy": 0.9,
+      "replicates": 200,
+      "true_finite_panel_contrast_mean": 0.5424007932366142,
+      "observed_contrast_mean": 0.44695789796407553,
+      "estimation_error_q025_q975": [
+        -0.21917858261141857,
+        0.05035017221584391
+      ],
+      "observed_space_rho_means": [
+        0.7549826870873285,
+        0.30764162599499556,
+        0.30840795225151035
+      ]
+    }
+  ],
+  "interpretation": "Logistic local-response scenarios illustrate noise and bias. These are not fitted predictive distributions or guarantees of power. Finite-family true contrasts differ across draws; random orientation population uncertainty is not estimated by two controls."
+}
