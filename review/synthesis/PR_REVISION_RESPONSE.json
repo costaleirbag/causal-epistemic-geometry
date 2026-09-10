@@ -1,0 +1,270 @@
+{
+  "status": "complete",
+  "stage": "focused discussion editorial pass",
+  "source_commit": "6780ee36276241d2447cb81d67a53f023ba64a70",
+  "previous_draft": {
+    "path": "review/synthesis/MANUSCRIPT_REVISED.md",
+    "sha256": "3aae366229eccf81e46d5a0e3525cea8e69abe0c4646040a6dbe8c82c2363a58"
+  },
+  "manuscript": {
+    "path": "review/synthesis/MANUSCRIPT_DISCUSSION.md",
+    "sha256": "060e663832eef7986a6d7faa638e861278917efdd699474b4ce287eda27eca55"
+  },
+  "fixes": [
+    {
+      "id": "PR1_methods",
+      "change": "Added source contrasts, normalized-column SVD, Q orthonormality, v=Qc, one-shot Gaussian draw/qualification, output hook timing, calibrated shell amplitudes, Q2 generation and separate Q1 regimes.",
+      "evidence_roles": [
+        "source_construction",
+        "source_boundaries_and_amplitude",
+        "subspace_SVD",
+        "coefficient_draw",
+        "output_hook",
+        "Q2_generation",
+        "OOS_final_protocol",
+        "OOS_terminal_rule",
+        "Q1_identity"
+      ],
+      "status": "implemented"
+    },
+    {
+      "id": "PR2_shape",
+      "change": "Defined population error probability and finite-panel shape target before estimator; limited removal to constant probability-scale shifts.",
+      "evidence_roles": [
+        "coefficient_draw"
+      ],
+      "status": "implemented"
+    },
+    {
+      "id": "PR3_repeatability",
+      "change": "47 policies explicitly MEDIUM; positive product described as exploratory, not formal noise exclusion.",
+      "evidence_roles": [
+        "repeatability"
+      ],
+      "status": "implemented"
+    },
+    {
+      "id": "PR4_coordinates",
+      "change": "Fixed coordinates with fitted predictor; removed learned-coordinate wording.",
+      "evidence_roles": [],
+      "status": "implemented"
+    },
+    {
+      "id": "PR5_Q1",
+      "change": "Inserted existing Q1 intervals with exact provenance and joint decision rule; no Q2 calibration ruling imported.",
+      "evidence_roles": [
+        "Q1_intervals",
+        "Q1_interval_procedure",
+        "Q1_report"
+      ],
+      "status": "implemented"
+    },
+    {
+      "id": "PR6_Q3_recovery",
+      "change": "Confirmation not run; localized negative transfer on structurally different population; missing keys completed by reexecution with prefix preservation.",
+      "evidence_roles": [
+        "Q3_population"
+      ],
+      "status": "implemented"
+    },
+    {
+      "id": "PR7_editorial",
+      "change": "Adopted requested title; positive prospective Q2 result first in abstract and Results; shortened abstract/caption; removed long inline ledger after abstract and defensive novelty language.",
+      "evidence_roles": [],
+      "status": "implemented"
+    },
+    {
+      "id": "PR8_figures",
+      "change": "Linked unchanged published Q2 figure as Figure 1 before explanatory Figure 2; verified content/order/aggregate mean and source hashes.",
+      "evidence_roles": [
+        "Q2_plot_source",
+        "Q2_figure_provenance"
+      ],
+      "status": "implemented"
+    },
+    {
+      "id": "PR9_references",
+      "change": "Added direct primary ActAdd/CAA references and MoSV architecture-only research-artifact reference; bounded search.",
+      "evidence_roles": [],
+      "status": "implemented"
+    },
+    {
+      "id": "R5_print",
+      "change": "Linked supplied three-page 7x9 PDF, all three PNGs and exact placement instructions; no redraw or screen-export print-readiness claim.",
+      "evidence_roles": [],
+      "status": "implemented"
+    }
+  ],
+  "source_verification": [
+    {
+      "role": "source_construction",
+      "path": "scripts/run_q2_v4_presemantic.py",
+      "sha256": "abc8a9b5a37a235d710ee8f3c59e29fae5b335ccc0f6f36f6cd609e78d62bec8",
+      "matches_source_commit": true
+    },
+    {
+      "role": "source_boundaries_and_amplitude",
+      "path": "scripts/run_q2_v3.py",
+      "sha256": "2da48cca1db615f1beac06ec42da6e6613d2cf14125b58042156e599bc0382bd",
+      "matches_source_commit": true
+    },
+    {
+      "role": "subspace_SVD",
+      "path": "src/epistemic_geometry/experiments/q2_v4_presemantic.py",
+      "sha256": "b41f9c88155dbbc87788edfb110a4f7ca735cd9796e7c122b1bd4da8575d9cf7",
+      "matches_source_commit": true
+    },
+    {
+      "role": "coefficient_draw",
+      "path": "src/epistemic_geometry/experiments/q2_oos_fresh_controller.py",
+      "sha256": "20d2ead617803f2c649e8964a34fa21502b6131c5880c2c363300abd8cdcdd60",
+      "matches_source_commit": true
+    },
+    {
+      "role": "output_hook",
+      "path": "src/epistemic_geometry/backends/huggingface.py",
+      "sha256": "ef69a1279ee23d46349a50a5a68ffabdcc24e817159a859c9dab41ed68b33ae4",
+      "matches_source_commit": true
+    },
+    {
+      "role": "Q2_generation",
+      "path": "review/q2_v4_1_prediction_lock/Q2_V4_1_NORMATIVE_EXECUTION_AND_ANALYSIS_LOCK.md",
+      "sha256": "25a146cbe134528e868b368295ad249c5bc50815fbde358e7009679322095cac",
+      "matches_source_commit": true
+    },
+    {
+      "role": "OOS_final_protocol",
+      "path": "review/q2_oos_fresh_controller_design/v2_final_presemantic/V2_FINAL_PROTOCOL_LOCK.json",
+      "sha256": "dd6b327243d29690a451ecf3ea93395406a2d17f6582d9cae0b68e312e51ddd4",
+      "matches_source_commit": true
+    },
+    {
+      "role": "OOS_terminal_rule",
+      "path": "scripts/run_q2_oos_v2_semantic.py",
+      "sha256": "941b838afeb27ea4021205d3d837435349d03cc71e2b782adde6eb715ce64d31",
+      "matches_source_commit": true
+    },
+    {
+      "role": "Q1_identity",
+      "path": "review/q1_confirmatory_fixed_controllers/CONTROLLER_IDENTITY_LOCK.json",
+      "sha256": "42a2b57dc1df786eaa3452036007541d256c0882125add8721c12de7534059db",
+      "matches_source_commit": true
+    },
+    {
+      "role": "Q1_intervals",
+      "path": "review/q1_confirmatory_fixed_controllers/CONFIRMATORY_RESULTS.json",
+      "sha256": "8a1188f146386c14d4ffb93a489c738608cbb5fede862a630b675caabcbfd298",
+      "matches_source_commit": true
+    },
+    {
+      "role": "Q1_interval_procedure",
+      "path": "review/q1_confirmatory_fixed_controllers/PROTOCOL_LOCK.md",
+      "sha256": "05a9001033c2cf01bbdb67d93c11955ce24d6b24e36854fa304ae0d17b21f1bd",
+      "matches_source_commit": true
+    },
+    {
+      "role": "Q1_report",
+      "path": "review/q1_confirmatory_fixed_controllers/REPORT.md",
+      "sha256": "3f852a3ca6ed32bf87ddf709c99fbd9526bbd9819603aa4e5788722c6aa43cf9",
+      "matches_source_commit": true
+    },
+    {
+      "role": "Q3_population",
+      "path": "review/q3_fresh_instrument_qualification_postmortem/Q3_4_QUALIFICATION_FAILURE_BEHAVIORAL_POSTMORTEM.md",
+      "sha256": "ccf44918667710cd6436c660db901287482b0c4f95d3e7de3e109bdd56f936c0",
+      "matches_source_commit": true
+    },
+    {
+      "role": "repeatability",
+      "path": "review/geometry_specificity/REPEATABILITY_REPORT.md",
+      "sha256": "7254cac96d674c5a465fdbbb151cc667c69b3397fb78f4b773c41ea300899de3",
+      "matches_source_commit": true
+    },
+    {
+      "role": "Q2_plot_source",
+      "path": "src/epistemic_geometry/publication/q2_oos/plotting.py",
+      "sha256": "605eba3d7daa1ceecf226c8175d81211193a5f72a820b68c59fd596b46710c7f",
+      "matches_source_commit": true
+    },
+    {
+      "role": "Q2_figure_provenance",
+      "path": "manuscript/figures/paper1_q2_oos/SOURCE_MANIFEST.json",
+      "sha256": "85d7b7549e56a14ae26707be6c7fdc85f13bb859dcf19da055f517e1ec3c2846",
+      "matches_source_commit": true
+    }
+  ],
+  "numeric_checks": {
+    "Q1_C": 0.05435463659147877,
+    "Q1_null_contrast": 0.03871005639097745,
+    "Q1_archived_intervals": {
+      "C_meaningful": {
+        "estimate": 0.05231829573934837,
+        "q025": 0.014411027568922305,
+        "q975": 0.09680451127819548,
+        "resamples": 50000,
+        "seed": 2026091101
+      },
+      "delta_C_nullmean": {
+        "estimate": 0.03710447994987469,
+        "q025": 0.00601112155388471,
+        "q975": 0.07456140350877193,
+        "resamples": 50000,
+        "seed": 2026091101
+      }
+    },
+    "Q2_rows": 16,
+    "Q2_order": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "Q2_positive_count": 16,
+    "Q2_mean": 0.6911324967335312,
+    "Q2_shell_means_match": true,
+    "Q2_sign_tail": 1.52587890625e-05,
+    "figure_hashes_match_published_manifest": true,
+    "Q1_interval_estimate_field_note": "The intervals.*.estimate fields are medians of bootstrap replicates in the archived analyzer, not the original sample point estimates; manuscript points come from estimands and delta_C_nullmean, endpoints from q025/q975."
+  },
+  "formula_verification": {
+    "C_comp": "unchanged from revised draft; independent implementation pointer retained",
+    "shape": "finite-panel variance of p_i^k-p_i^l precedes unchanged cross-rollout estimator; population multiplier distinction retained",
+    "intervention": "Q orthonormal; c normalized; v=Qc; output additive hook matches published code"
+  },
+  "bibliography_verification": {
+    "date": "2026-09-10",
+    "sources": [
+      "https://arxiv.org/abs/2308.10248v5",
+      "https://arxiv.org/abs/2312.06681v4",
+      "https://github.com/lee-dan/Mixture-of-Steering-Vectors-MoSV"
+    ],
+    "scope": "primary metadata/abstracts and repository README; no claimed reproduction"
+  },
+  "unresolved_items": [
+    "No same-mask F_B; complete robustness failed and specificity inconclusive, retained as scientific limits.",
+    "Unchanged Q2 figure supplied for discussion; no new physical-size review or venue-readiness guarantee.",
+    "Supervisor independently reviews local release payload."
+  ],
+  "operations": {
+    "fitting": false,
+    "inference": false,
+    "remote_access": false,
+    "commit": false,
+    "push": false,
+    "advisor_correspondence": false,
+    "prior_sources_modified": false,
+    "new_files_are_git_ignored": true
+  }
+}

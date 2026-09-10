@@ -1,0 +1,142 @@
+{
+  "source": {
+    "path": "review/model_comparison/MODEL_COMPARISON_RESULTS.json",
+    "sha256": "d43080ed1d6ba17ded3e4153bf588c72d7410134f837fe4fc4c391e88c53f15a"
+  },
+  "csv": {
+    "path": "review/synthesis/PLOTTED_VALUES.csv",
+    "sha256": "bb9585c6dbf7cd0eb64c07d6bd70802e16a7345faeedeaaf8ecb2360a47eea86"
+  },
+  "point_counts": {
+    "A": 36,
+    "B": 9,
+    "C": 9
+  },
+  "total_points": 54,
+  "metric_values_verified": 108,
+  "exact_csv_equality": true,
+  "axis_limits": [
+    -0.012,
+    0.024
+  ],
+  "pages": [
+    {
+      "panel": "A",
+      "points": 36,
+      "width_inches": 7,
+      "height_inches": 9,
+      "minimum_font_pt": 9.0,
+      "all_text_inside_page": true,
+      "all_markers_inside_axes": true
+    },
+    {
+      "panel": "B",
+      "points": 9,
+      "width_inches": 7,
+      "height_inches": 9,
+      "minimum_font_pt": 9.0,
+      "all_text_inside_page": true,
+      "all_markers_inside_axes": true
+    },
+    {
+      "panel": "C",
+      "points": 9,
+      "width_inches": 7,
+      "height_inches": 9,
+      "minimum_font_pt": 9.0,
+      "all_text_inside_page": true,
+      "all_markers_inside_axes": true
+    }
+  ],
+  "minimum_font_pt_at_7_inch_width": 9,
+  "page_count": 3,
+  "visual_qa": {
+    "status": "PASS",
+    "method": "All three PDF pages rendered with Poppler at 100 ppi and visually inspected at 700 x 900 pixels; final layout inspected after correcting axis-title/legend spacing.",
+    "clipping_or_text_overlap": false,
+    "signs_markers_order_legends": "Preserved; 36/9/9 markers, including negative original reverse D-C; grayscale-distinct symbols.",
+    "physical_print_proof": false,
+    "venue_compliance_claim": false
+  },
+  "outputs": [
+    {
+      "path": "explanatory_figure_print.pdf",
+      "sha256": "9be217b9b96efac87d7a390f3f834a56f5060723772b10b6e4d626faa0f492e6"
+    },
+    {
+      "path": "explanatory_figure_print.png",
+      "sha256": "8ff0a6a57674baf0332be66a1dcdd2239796f2e27ecf53c52ad80f9d514e74c3"
+    },
+    {
+      "path": "explanatory_figure_print_B.png",
+      "sha256": "45d78add57cf7051104985bb71feb8dc301d4493c2b8730222d7d15ad56b5f34"
+    },
+    {
+      "path": "explanatory_figure_print_C.png",
+      "sha256": "89afbb73b4a9bd26b8e56e6b33ad6776654639581075cabd890d7df51327eeff"
+    }
+  ],
+  "pdf_embedded_minimum_font_pt": 9.0,
+  "pdf_page_boxes_pt": [
+    [
+      0.0,
+      0.0,
+      504.0,
+      648.0
+    ],
+    [
+      0.0,
+      0.0,
+      504.0,
+      648.0
+    ],
+    [
+      0.0,
+      0.0,
+      504.0,
+      648.0
+    ]
+  ],
+  "pdf_text_font_operator_count": 154,
+  "script": {
+    "path": "review/synthesis/plot_explanatory_figure_print.py",
+    "sha256": "4573df24bb560d6b3279c0ab23269407d9631dc4dc5b3e77c494aee22bc88813"
+  },
+  "unchanged_original_exports": [
+    {
+      "path": "review/synthesis/explanatory_figure.png",
+      "sha256": "5bc84fa0c6e585ea6bd19f4c37aca390b323b0f1be8a6b054a1748103da05ced"
+    },
+    {
+      "path": "review/synthesis/explanatory_figure.pdf",
+      "sha256": "0870ae5f767c0101345a3b7724e4ba1b460bdfa38da12c7b40952a67512fadfe"
+    },
+    {
+      "path": "review/synthesis/explanatory_figure.svg",
+      "sha256": "5af1d32742c010c9f4445f12f49cd3234bc6560fb90bafd735617ed570599b59"
+    }
+  ],
+  "inspection_renders": [
+    {
+      "page": 1,
+      "width_px": 700,
+      "height_px": 900,
+      "pixels_per_inch": 100,
+      "sha256": "4491f3cc2803f5d53457d5f2d97e0839ebd312d1f9a588f739fb9ee678a872f2"
+    },
+    {
+      "page": 2,
+      "width_px": 700,
+      "height_px": 900,
+      "pixels_per_inch": 100,
+      "sha256": "2fb16d7be0cc975673092b20823479ffe5bee81fb10edacb27a60efd3a60bb51"
+    },
+    {
+      "page": 3,
+      "width_px": 700,
+      "height_px": 900,
+      "pixels_per_inch": 100,
+      "sha256": "ec2ae99b0a582e960d20d2c25de1cf7a301ff8daa653954137e11a5f8b87eca9"
+    }
+  ]
+}
