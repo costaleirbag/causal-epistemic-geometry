@@ -1,0 +1,606 @@
+{
+  "passed": true,
+  "counts": {
+    "attempts": 780,
+    "fit_groups": 510,
+    "loss_rows": 114,
+    "paired": 90,
+    "controls": 18,
+    "journal": 1560,
+    "nonconvex_groups": 270,
+    "distinct_local_objectives": 18
+  },
+  "differences": {
+    "max_objective": 1.1368683772161603e-13,
+    "max_loss_or_summary": 1.4832579608992091e-13,
+    "max_intrinsic_gradient_per_trial": 9.978737728911282e-10,
+    "max_start_objective_difference": 11.147836471683377,
+    "floating_point_start_reorderings": [
+      0.0
+    ]
+  },
+  "input_hashes": {
+    "PRIVATE_SCORES.json": "cb55704029a9a577b4ab7dd95481ce86807f153d9bcb546a26fcef5babe63847",
+    "vectors.npz": "1fb49786acbbb7772ab73ff22c23d2d1a58c60918ee82e6c6c976b78ad87c173",
+    "PREPARED.json": "8b92de6c3866c717ce47940466752e293bd18341dbc162103a07478510d579b3",
+    "QUALIFICATION.json": "48cc836e4caab552708cbb2a1ba4ed79d63a667ad3e7954f1e4c9f262b83b5bc",
+    "SELECTION_SEAL.json": "be756f95f241c53bf4f3a5d5a04b65b4357812540d44d1e15354e37522180d2b",
+    "DEPLOYMENT.json": "00e262aab9da8c3d58294cf96702db9e1ed96bce4ee607c1373a1b84289eb1b6",
+    "EVALUATION_SCHEDULE.json": "cab3605223d65e70a15b8111805025c68214496a874b91da7ab2425d7e6ae0c4",
+    "EVALUATION_SEAL.json": "792bab26d8f95514203ca12295ff068acc8215ffd991eb73a31d45deec5ec97a",
+    "evaluation.jsonl": "248c1bd198ef4c85b9964aed1f97f6469357d49d84b0dde8d572644ac3f0219d"
+  },
+  "private_checkpoint_manifest_sha256": "e838c65c4d196de725cd18df7576d7f8d891eac4ac12e77c8f426a4aa1ef4fed",
+  "homogeneous_family_counts": [
+    42,
+    42,
+    43
+  ],
+  "original_stage_B_gains": {
+    "1": 0.01227075881523515,
+    "0.25": 0.004478689374282252,
+    "4": 0.008919564034443994
+  },
+  "incremental_actual_minus_permuted": [
+    [
+      0.02252564038067917,
+      0.01291910986312414,
+      0.019630138392576213
+    ],
+    [
+      0.0043394777738154505,
+      0.0061015927144859455,
+      0.0042887861512415915
+    ],
+    [
+      -0.002231105273432246,
+      -0.004125574411029259,
+      -0.0029506825699794903
+    ]
+  ],
+  "orientation_gain_contrasts": {
+    "1": [
+      0.01003447818278902,
+      0.013935913523187266
+    ],
+    "0.25": [
+      0.005067478831086714,
+      0.009730641896772863
+    ],
+    "4": [
+      0.007823941642460114,
+      0.008699368307194089
+    ]
+  },
+  "audit_cpu_seconds": 8.333013344000001,
+  "audit_wall_seconds": 8.334848564001732,
+  "all_orientation_contrasts": [
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "R",
+        1
+      ],
+      "log_loss": [
+        0.004650597556836689,
+        0.000798867958645904
+      ],
+      "brier": [
+        0.0012292605550456184,
+        -1.876357417494737e-05
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "R",
+        0.25
+      ],
+      "log_loss": [
+        0.004783827302254436,
+        0.0007526103807800732
+      ],
+      "brier": [
+        0.001232264629548558,
+        -0.00010335925951823538
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "R",
+        4
+      ],
+      "log_loss": [
+        0.0041970010402371735,
+        0.001035949061970189
+      ],
+      "brier": [
+        0.0011650367985389554,
+        0.00019029535294138884
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "D",
+        1
+      ],
+      "log_loss": [
+        0.012945184547546005,
+        0.007043485742699434
+      ],
+      "brier": [
+        0.00426683460136429,
+        0.0014137965648511825
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "D",
+        0.25
+      ],
+      "log_loss": [
+        0.020217628695294327,
+        0.010509922381389642
+      ],
+      "brier": [
+        0.00500132418473212,
+        0.0018582667140694766
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "D",
+        4
+      ],
+      "log_loss": [
+        0.009394779000166789,
+        0.004886666171704367
+      ],
+      "brier": [
+        0.0031120630306649597,
+        0.0012595990364487018
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "I",
+        1
+      ],
+      "log_loss": [
+        -0.008479450190306386,
+        -0.0011524381008832143
+      ],
+      "brier": [
+        -0.0019656271417395205,
+        0.0009208500221450099
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "I",
+        0.25
+      ],
+      "log_loss": [
+        -0.013463738793877272,
+        -0.00320092202309999
+      ],
+      "brier": [
+        -0.002006926355434893,
+        0.0011150490669427616
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "I",
+        4
+      ],
+      "log_loss": [
+        -0.007202436044094809,
+        -0.0023090885149244524
+      ],
+      "brier": [
+        -0.001962747192315303,
+        -0.000363015329896507
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "C",
+        1
+      ],
+      "log_loss": [
+        -0.003211735871948425,
+        0.004664457746994537
+      ],
+      "brier": [
+        -0.0003665780657554662,
+        0.002537132329652625
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "C",
+        0.25
+      ],
+      "log_loss": [
+        -0.008467090356369226,
+        0.0011049856634822164
+      ],
+      "brier": [
+        -0.00048366251133404254,
+        0.0027910741504604823
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        0,
+        "C",
+        4
+      ],
+      "log_loss": [
+        -0.003274535691633695,
+        0.0015634676289508018
+      ],
+      "brier": [
+        -0.000514377119046596,
+        0.000985892435116735
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "R",
+        1
+      ],
+      "log_loss": [
+        0.004996025832476907,
+        0.004505914174885026
+      ],
+      "brier": [
+        0.0015175193280497167,
+        0.0009324840662593261
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "R",
+        0.25
+      ],
+      "log_loss": [
+        0.005191954714272436,
+        0.005139496192810767
+      ],
+      "brier": [
+        0.0015450781156505387,
+        0.0011110925277571968
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "R",
+        4
+      ],
+      "log_loss": [
+        0.0044042095778574625,
+        0.0031964716984625666
+      ],
+      "brier": [
+        0.0013842930596874182,
+        0.0005781075858037332
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "D",
+        1
+      ],
+      "log_loss": [
+        0.00244459828662713,
+        0.006131061199398305
+      ],
+      "brier": [
+        0.002979364155126949,
+        0.0034328950872213274
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "D",
+        0.25
+      ],
+      "log_loss": [
+        0.009474629314937769,
+        0.004614277872116078
+      ],
+      "brier": [
+        0.0026027018394168067,
+        0.002923062661201427
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "D",
+        4
+      ],
+      "log_loss": [
+        0.007074257763615954,
+        0.005439205354456638
+      ],
+      "brier": [
+        0.0031264091104209533,
+        0.00235800339094973
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "I",
+        1
+      ],
+      "log_loss": [
+        0.0019854661527317265,
+        -0.00021290515784984495
+      ],
+      "brier": [
+        -0.0006919713925627553,
+        -0.0011242391330110702
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "I",
+        0.25
+      ],
+      "log_loss": [
+        -0.0042334472067877636,
+        0.0030667158344226
+      ],
+      "brier": [
+        3.5207246998564604e-06,
+        1.597216101357525e-05
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "I",
+        4
+      ],
+      "log_loss": [
+        -0.004834032266011902,
+        -0.002702245106640502
+      ],
+      "brier": [
+        -0.0018824800758332596,
+        -0.0012302951544253492
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "C",
+        1
+      ],
+      "log_loss": [
+        0.004262404094282326,
+        0.0025815383451789136
+      ],
+      "brier": [
+        -0.0002447672124634108,
+        -0.00020051070327504507
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "C",
+        0.25
+      ],
+      "log_loss": [
+        -0.0033013601832701522,
+        0.004916073513529509
+      ],
+      "brier": [
+        -0.0002753467404652838,
+        0.0007510600948314882
+      ]
+    },
+    {
+      "key": [
+        "A",
+        0,
+        1,
+        "C",
+        4
+      ],
+      "log_loss": [
+        -0.0017703240623189768,
+        0.00017524590253966283
+      ],
+      "brier": [
+        -0.0008018147291364124,
+        -0.00017338006734805622
+      ]
+    },
+    {
+      "key": [
+        "B",
+        0,
+        0,
+        "H",
+        1
+      ],
+      "log_loss": [
+        0.01003447818278901,
+        0.01393591352318729
+      ],
+      "brier": [
+        0.004078931527452292,
+        0.005099864555829072
+      ]
+    },
+    {
+      "key": [
+        "B",
+        0,
+        0,
+        "H",
+        0.25
+      ],
+      "log_loss": [
+        0.005067478831086643,
+        0.009730641896772751
+      ],
+      "brier": [
+        0.004079944517828646,
+        0.004980840800984569
+      ]
+    },
+    {
+      "key": [
+        "B",
+        0,
+        0,
+        "H",
+        4
+      ],
+      "log_loss": [
+        0.007823941642460138,
+        0.008699368307194089
+      ],
+      "brier": [
+        0.002789870267374651,
+        0.003175287986007121
+      ]
+    }
+  ],
+  "original_stage_A_reverse_D_minus_C_lambda4": -0.00040352399017045657,
+  "checks": {
+    "independent_logits_and_probabilities": true,
+    "all_heldout_losses_and_family_controller_summaries": true,
+    "all_assignment_controls": true,
+    "orientation_contrasts": true,
+    "complex_step_derivatives_all_780": true,
+    "intrinsic_radial_gradient": true,
+    "training_objective_start_selection": true,
+    "stage_B_complete_controller_exclusion": true,
+    "training_only_centering_and_intercepts": true,
+    "penalty_and_constraint_formulas": true,
+    "fixed_schedule_and_permutations": true,
+    "journal_coverage_no_added_attempts": true,
+    "historical_input_hashes_unchanged": true,
+    "frozen_code_hashes": true,
+    "frozen_before_first_checkpoint": true,
+    "code_mtimes_before_first_checkpoint": true,
+    "precheck_mtime_before_first_checkpoint": true,
+    "resource_records_under_30_minutes": true,
+    "synthetic_tests": true
+  },
+  "provenance": {
+    "first_checkpoint_utc": "2026-09-10T12:35:36.919194+00:00",
+    "frozen_at_utc": "2026-09-10T12:35:13.681360+00:00",
+    "timestamp_limit": "Filesystem mtimes and declared freeze are consistent; journal itself has no wall-clock timestamps. Not a cryptographic proof of execution chronology."
+  },
+  "artifact_hashes": {
+    "finite_models.py": "3c4acdec415ed2c7cb5795a8b7137fc59969766964df83c75abe471f5b16d320",
+    "run_finite_comparison.py": "3f02d3c4f73f2c4272372e9cd370b0cdd7906740831d9cea7d1e174012252abb",
+    "MODEL_COMPARISON_PRECHECK.json": "735e96358dba3248cfab1e70b0173d9d914b3ab3ecfb640ab1d086473cb8f28d",
+    "EXECUTABLE_VALIDATION.json": "834b31e8b20546d378dae23d44d47105b1c0025c03f5f952fc99e0e4ff622e46",
+    "test_finite_models.py": "faff789ad2c1d3a62e32327113dee3426e795bb12af4210a20799389b997ca4f",
+    "MODEL_COMPARISON_VERIFICATION.json": "d18f1db22dbd25d70e2e0348c2cdffa26ad76808076e1b31c6c9b89357eaf3dc",
+    "MODEL_COMPARISON_RESULTS.json": "d43080ed1d6ba17ded3e4153bf588c72d7410134f837fe4fc4c391e88c53f15a",
+    "MODEL_COMPARISON_DESIGN.md": "031a2f686e5cf535f40396ed33be3f550b5d440f9d33ea91e74504eacc0a1ccf",
+    "synthetic_validation.py": "e7b675ade2a3e30ee40c2aab70580cbb78d75b65bb7686d2a8c48a3eb5ab8d4f",
+    "MODEL_COMPARISON_REVISION.md": "d5aa473c71820e9ee735561c5979f642a2408bed1092aa3eec62cc165f40eb8f",
+    "SYNTHETIC_RESULTS.json": "b8f9b479b01ad458c0472094945b43c922ab44a7384da865457947abc0ea378f",
+    "summarize_finite_comparison.py": "0f0bf6a09162cd28033de58b7291c9b76dd19d2f1a456b0004bfb5a1707c2250",
+    "test_independent_audit.py": "c3f76435a8112bd424c4ea6139d3bac060982042361aea22aed141741878cacc",
+    "MODEL_COMPARISON_RESUME_INSPECTION.json": "cf5f253caf08bdc894ece8d719c2807beea45261a70f7e1b52007de754e27d4e",
+    "MODEL_COMPARISON_PRECHECK_PARTIAL_HISTORY.json": "6311afdae7ad23b249b839a676cd0ee50a56fcf3a05a1a004443a7e605021b94",
+    "MODEL_COMPARISON_DISPOSITION.md": "52284c1af42b4af9fb46dbbd6fd72fcfbad027ddcb050e9caa839d754f75abfd",
+    "MODEL_COMPARISON_ANALYSIS_PARTIAL_HISTORY.md": "668b808556a74575807e3868877b3b56a877c759adc43621a458a6bfafe8af85",
+    "test_revised_feasibility.py": "b6fcfb55878a48264c0240f03d9b973bf35d73a868465016df31a10269de3cb6",
+    "DESIGN_INPUT_HASHES.json": "97364e995b429139fd6beef388ec1c0beeed7b8bc4764ef487213e5a73d62e92",
+    "test_synthetic_validation.py": "f70584ecc47700d70a29fe14c0b6f7ef389eba9503958a27e7f87be458ba3a0e",
+    "MODEL_COMPARISON_RESULTS_PARTIAL_HISTORY.json": "ea4f8068d388a18c9bf4cbec7d10b5879ef9cda1c6920ba4361110c52577b7ea",
+    "MODEL_COMPARISON_ANALYSIS.md": "cd4f2074e72f1e8c7334c0eb05375c97f068d81b855db6e78832f1b748ebfad1",
+    "revised_feasibility.py": "6db57f488b0a952865c9c0c2174c324e43d9b232a28c2a339bea1d26bac512fd",
+    "REVISED_INPUT_GATE.json": "d985d380dd5f2b89fd00d19c1f527b000f2fb7caf22894a593e2abc502e6a993",
+    "independent_audit.py": "f61e0ea449f5b7c79d59bf80e39df04a8e3fea2503d3f04c511297b3ef89e916"
+  },
+  "independence_limitations": [
+    "Same sealed scores, schedule, vectors and documented parameter layout; scorer semantics inherited from pinned historical audit, not rescored.",
+    "Independent tensor construction, mask, centering, logits, complex-step objective derivatives and metrics; no primary prediction/loss/aggregation helpers imported.",
+    "Orientation contrasts derived from independently verified aggregate contrasts.",
+    "No refit or global optimum claim; prospective provenance limited to hashes, filesystem metadata and journal consistency.",
+    "One independently recomputed exact objective tie changed ordering relative to saved floating-point objectives; verified original selection against saved training objective, with no reselection.",
+    "Historical executor cap was 7200 seconds, not 1800; measured execution was below 1800. Independent audit uses 1800-second CPU and wall gates.",
+    "Audit development included two aborted read-only checks (tie handling and JSON serialization); no model attempts added."
+  ],
+  "scientific_disposition": "Conditional predictive information in this exposed panel; full robust-benefit gate not passed; semantic specificity, population specificity and deployment not established. Greater latent flexibility and unequal SNR remain unresolved.",
+  "synthetic_tests": {
+    "passed": 9,
+    "failures": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "incomplete",
+  "inspection_date": "2026-09-10",
+  "scope": "Resume inspection of existing stage artifacts; no implementation or real fitting performed.",
+  "verified_artifacts": {
+    "MODEL_COMPARISON_REVISION.md": "d5aa473c71820e9ee735561c5979f642a2408bed1092aa3eec62cc165f40eb8f",
+    "revised_feasibility.py": "6db57f488b0a952865c9c0c2174c324e43d9b232a28c2a339bea1d26bac512fd",
+    "test_revised_feasibility.py": "b6fcfb55878a48264c0240f03d9b973bf35d73a868465016df31a10269de3cb6",
+    "REVISED_INPUT_GATE.json": "d985d380dd5f2b89fd00d19c1f527b000f2fb7caf22894a593e2abc502e6a993",
+    "MODEL_COMPARISON_PRECHECK.json": "6311afdae7ad23b249b839a676cd0ee50a56fcf3a05a1a004443a7e605021b94",
+    "MODEL_COMPARISON_RESULTS.json": "ea4f8068d388a18c9bf4cbec7d10b5879ef9cda1c6920ba4361110c52577b7ea",
+    "MODEL_COMPARISON_ANALYSIS.md": "668b808556a74575807e3868877b3b56a877c759adc43621a458a6bfafe8af85"
+  },
+  "full_attempt_enumeration": 1428,
+  "proposed_reduced_attempt_enumeration": 780,
+  "ready_for_real_fitting": false,
+  "new_fit_attempts": 0,
+  "remote_access_this_resume": false,
+  "input_gate_evidence": "Inherited prior in-place check; not reverified remotely in this resume.",
+  "disposition": "Existing pre-fit infeasibility disposition retained under assigned stop rule. Full crossing was a prior design choice, not mathematically required by core models. Supervisor can adopt the documented 780-attempt reduction; optimizer, model tests and execution remain unfinished.",
+  "scientific_conclusion": "No new model evidence; no conclusion about adequacy of simple models or coordinate heterogeneity.",
+  "publication": "No commit or push."
+}

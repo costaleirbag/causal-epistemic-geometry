@@ -1,0 +1,28 @@
+{
+  "loader_repair_commit": "28acd6d",
+  "local_verified_sha256": {
+    "review/geometry_specificity/LOCAL_RESPONSE_AND_PILOT_DRAFT.md": "2719ff351a23dc6ffa5c6ed005c682e0fc788e7224c7a658ceedce1ff8121429",
+    "review/geometry_specificity/PILOT_CLOSEOUT.md": "16a7a6484f7d83b765a57551827b2258444e6a4e7105707ddc3bed7819e6b44a",
+    "review/geometry_specificity/PILOT_CLOSEOUT_AGGREGATES.json": "48c448de104a214fdcab1d207479bbbb326edcbcd0e791a2f81433147825a56a",
+    "review/geometry_specificity/PILOT_NUMERICAL_RECONCILIATION.md": "44b7bd022c9b2d82deaa8c83321cb0ccc4b22b13e6735cfbceb53820c9a82781",
+    "review/geometry_specificity/PILOT_PRECHECK.json": "2c7c4a25cacf61aca660274eca2e4562c276148bb54365db206aaa628d109511",
+    "review/geometry_specificity/PILOT_RESULTS.json": "5d3febf2d811e997d76d00cb7585ef441ef3d40f2227172517639f0b1c373b72",
+    "scripts/analyze_geometry_specificity_pilot.py": "0ebf5e488c27b3155ad69ecd8686e8c9fdfbd4514911bf0ba32e9900e8ed31c2",
+    "scripts/geometry_specificity_loader_amendment.py": "a1e4b825e8e55d0e385956dcc8cc4a0b8d2abfb48c70b5f0e0c119b00384c235",
+    "scripts/geometry_specificity_pilot.py": "52e6d608f44bb29c3f59afb1f3e2e2f6f37cf72c0084c823f045efd121bad827",
+    "scripts/run_geometry_specificity_pilot.py": "eb1401c323421246f66b4bebb4695121592c08bc939a34a25712ac8b20f0d558"
+  },
+  "private_manifest_hashes_inherited_not_reverified": {
+    "ATTEMPT_COUNTER_RECONCILIATION.json": "6884a8d80caa7b3d93b63d803170d9bdb9f901e57d9b16140631d6ab60ec7bea",
+    "CALIBRATION_SEAL.json": "934a5959e4a0a97c89dcb0a6644d4ebc1c135412b8f317f06b75aff012c41107",
+    "EVALUATION_RECOVERY_1.json": "17fb289bf31b030b608e8015b64b5b9eb05953153699575183f5d7339de54a59",
+    "EVALUATION_SEAL.json": "792bab26d8f95514203ca12295ff068acc8215ffd991eb73a31d45deec5ec97a",
+    "QUALIFICATION.json": "48cc836e4caab552708cbb2a1ba4ed79d63a667ad3e7954f1e4c9f262b83b5bc",
+    "RECOVERY_1.json": "b641e7041f01593168ddd6d2f23319f4703ef108ec828f7a42630c681ae10bd0",
+    "SELECTION_SEAL.json": "be756f95f241c53bf4f3a5d5a04b65b4357812540d44d1e15354e37522180d2b"
+  },
+  "private_scores_sha256": "Not inspected; must be pinned with provenance before future fitting",
+  "private_vectors_sha256_inherited_not_reverified": "1fb49786acbbb7772ab73ff22c23d2d1a58c60918ee82e6c6c976b78ad87c173",
+  "published_closeout_commit": "580bf4daba49708555abcf3cfa13d519a2fc7ea2",
+  "source_commit": "ed16ed6"
+}

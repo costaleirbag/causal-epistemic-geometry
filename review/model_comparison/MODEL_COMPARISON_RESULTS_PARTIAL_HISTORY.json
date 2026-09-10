@@ -1,0 +1,18 @@
+{
+  "status": "incomplete",
+  "scientific_conclusion": "No new model comparison; historical specificity remains inconclusive.",
+  "operational_status": "Stopped before fitting under pre-fit feasibility rule; full crossed plan exceeds attempt ceiling.",
+  "full_planned_attempts": 1428,
+  "proposed_reduced_attempts": 780,
+  "actual_fit_attempts": 0,
+  "real_fit_cpu_seconds": 0,
+  "real_fit_wall_seconds": 0,
+  "input_gate_passed": true,
+  "new_tests_passed": 4,
+  "model_validation_complete": false,
+  "losses": null,
+  "convergences": null,
+  "sensitivity_control_outcomes": null,
+  "precheck_sha256": "6311afdae7ad23b249b839a676cd0ee50a56fcf3a05a1a004443a7e605021b94",
+  "commit_or_push_performed": false
+}

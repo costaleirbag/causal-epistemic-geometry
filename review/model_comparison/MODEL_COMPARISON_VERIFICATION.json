@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "expected_attempts": 780,
+  "completed_attempts": 780,
+  "converged_attempts": 780,
+  "loss_rows": 114,
+  "paired_contrasts": 90,
+  "assignment_controls": 18,
+  "frozen_code_hashes_verified": true,
+  "remote_local_result_digest_matches": true,
+  "idempotent_result_verified": true,
+  "journal_records": 1560,
+  "independent_audit": false,
+  "publication": "not committed or pushed"
+}

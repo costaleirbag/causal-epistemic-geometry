@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "tests": {
+    "passed": 46,
+    "implementation": 33,
+    "independent": 9,
+    "historical_synthetic_design": 4,
+    "pytest_seconds": 0.84,
+    "command": "python -m pytest -q -p no:cacheprovider review/model_comparison/test_finite_models.py review/model_comparison/test_revised_feasibility.py review/model_comparison/test_synthetic_validation.py review/model_comparison/test_independent_audit.py"
+  },
+  "audit_artifact_hashes_verified": 25,
+  "precheck_code_hashes_verified": 11,
+  "preexisting_model_comparison_files_unchanged": true,
+  "new_real_fits": 0,
+  "remote_access": false,
+  "audit_passed": true,
+  "scientific_robust_benefit_passed": false
+}

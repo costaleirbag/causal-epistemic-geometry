@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "tests": 33,
+  "cpu_seconds": 0.8589549999999999,
+  "wall_seconds": 0.9691439580055885,
+  "remote_validation": "33 passed in 0.53s; designated CPU Python, BLAS1",
+  "prior_local_test_runs": 3,
+  "prior_local_test_reported_seconds": [
+    0.42,
+    0.89,
+    0.87
+  ],
+  "implementation_cpu_budget_seconds": 1800
+}

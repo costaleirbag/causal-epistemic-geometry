@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "audited_input_hashes_verified": {
+    "PRIVATE_SCORES.json": "cb55704029a9a577b4ab7dd95481ce86807f153d9bcb546a26fcef5babe63847",
+    "vectors.npz": "1fb49786acbbb7772ab73ff22c23d2d1a58c60918ee82e6c6c976b78ad87c173",
+    "PREPARED.json": "8b92de6c3866c717ce47940466752e293bd18341dbc162103a07478510d579b3",
+    "QUALIFICATION.json": "48cc836e4caab552708cbb2a1ba4ed79d63a667ad3e7954f1e4c9f262b83b5bc",
+    "SELECTION_SEAL.json": "be756f95f241c53bf4f3a5d5a04b65b4357812540d44d1e15354e37522180d2b",
+    "DEPLOYMENT.json": "00e262aab9da8c3d58294cf96702db9e1ed96bce4ee607c1373a1b84289eb1b6",
+    "EVALUATION_SCHEDULE.json": "cab3605223d65e70a15b8111805025c68214496a874b91da7ab2425d7e6ae0c4",
+    "EVALUATION_SEAL.json": "792bab26d8f95514203ca12295ff068acc8215ffd991eb73a31d45deec5ec97a",
+    "evaluation.jsonl": "248c1bd198ef4c85b9964aed1f97f6469357d49d84b0dde8d572644ac3f0219d"
+  },
+  "schedule": {
+    "rows": 17760,
+    "unique_seeds": 17760,
+    "seed_overlap_any_disjoint_split": 0,
+    "half_split_compatible": true,
+    "held_controller_split_compatible": true
+  },
+  "coefficient_shape": [
+    12,
+    8
+  ],
+  "training_centered_ranks": [
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8
+  ],
+  "outcomes_parsed": false,
+  "historical_files_written": false
+}

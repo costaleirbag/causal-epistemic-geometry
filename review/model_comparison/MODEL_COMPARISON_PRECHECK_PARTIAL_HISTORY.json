@@ -1,0 +1,80 @@
+{
+  "status": "incomplete",
+  "ready_for_real_fitting": false,
+  "reason": "fully_crossed_attempt_budget_exceeds_ceiling",
+  "permutations": [
+    [
+      3,
+      1,
+      11,
+      9,
+      6,
+      7,
+      8,
+      5,
+      10,
+      0,
+      4,
+      2
+    ],
+    [
+      3,
+      1,
+      7,
+      2,
+      6,
+      8,
+      11,
+      4,
+      9,
+      0,
+      5,
+      10
+    ],
+    [
+      0,
+      9,
+      11,
+      3,
+      1,
+      7,
+      10,
+      2,
+      4,
+      6,
+      8,
+      5
+    ]
+  ],
+  "permutation_rule": "three sequential PCG64(20260911) draws; no redraw; assignment by retained controller position",
+  "penalties": [
+    1,
+    0.25,
+    4
+  ],
+  "primary_train_rollouts": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "primary_test_rollouts": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "reverse_is_sensitivity": true,
+  "stage_B": "leave one retained index out, all remaining rollouts",
+  "nonconvex_starts_total": 2,
+  "full_attempts": 1428,
+  "proposed_reduced_attempts": 780,
+  "attempt_ceiling": 1000,
+  "optimizer_frozen": false,
+  "code_hashes": {
+    "MODEL_COMPARISON_REVISION.md": "d5aa473c71820e9ee735561c5979f642a2408bed1092aa3eec62cc165f40eb8f",
+    "revised_feasibility.py": "6db57f488b0a952865c9c0c2174c324e43d9b232a28c2a339bea1d26bac512fd",
+    "test_revised_feasibility.py": "b6fcfb55878a48264c0240f03d9b973bf35d73a868465016df31a10269de3cb6",
+    "REVISED_INPUT_GATE.json": "d985d380dd5f2b89fd00d19c1f527b000f2fb7caf22894a593e2abc502e6a993"
+  }
+}

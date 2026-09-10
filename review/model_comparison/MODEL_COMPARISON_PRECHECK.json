@@ -1,0 +1,152 @@
+{
+  "status": "EXECUTABLE",
+  "ready_for_real_fitting": true,
+  "frozen_at_utc": "2026-09-10T12:35:13.681360+00:00",
+  "supersedes": "MODEL_COMPARISON_PRECHECK_PARTIAL_HISTORY.json",
+  "disposition": "MODEL_COMPARISON_DISPOSITION.md",
+  "permutations": [
+    [
+      3,
+      1,
+      11,
+      9,
+      6,
+      7,
+      8,
+      5,
+      10,
+      0,
+      4,
+      2
+    ],
+    [
+      3,
+      1,
+      7,
+      2,
+      6,
+      8,
+      11,
+      4,
+      9,
+      0,
+      5,
+      10
+    ],
+    [
+      0,
+      9,
+      11,
+      3,
+      1,
+      7,
+      10,
+      2,
+      4,
+      6,
+      8,
+      5
+    ]
+  ],
+  "permutation_rule": "three sequential PCG64(20260911) draws; no redraw; assignment by retained controller position",
+  "penalties": [
+    1,
+    0.25,
+    4
+  ],
+  "stage_A": {
+    "train_rollouts": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "test_rollouts": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "reverse_sensitivity": true,
+    "attempts": 132
+  },
+  "stage_B": {
+    "split": "leave one retained controller index out; all other controllers and all rollouts",
+    "actual_penalties": [
+      1,
+      0.25,
+      4
+    ],
+    "permutation_penalties": [
+      1
+    ],
+    "attempts": 648
+  },
+  "nonconvex_starts": 2,
+  "convex_starts": 1,
+  "planned_attempts": 780,
+  "attempt_ceiling": 1000,
+  "cpu_seconds_ceiling": 7200,
+  "wall_seconds_ceiling": 7200,
+  "memory_bytes_ceiling": 2147483648,
+  "workers": 1,
+  "blas_threads": 1,
+  "optimizer": {
+    "name": "analytic inverse BFGS",
+    "max_iterations": 3000,
+    "gradient_per_trial_tolerance": 1e-09,
+    "intrinsic_tangent_gradient_required": true,
+    "armijo": 0.0001,
+    "line_search_steps": 40,
+    "initial_seeds": [
+      20260910,
+      20260911
+    ],
+    "selection": "minimum converged training objective; both starts required converged",
+    "failure": "stop first failed attempt; incomplete result; no altered optimizer or retry"
+  },
+  "generic_dimensions": {
+    "F": 60,
+    "R": 71,
+    "D": 130,
+    "I": 140,
+    "C": 137,
+    "G": 68,
+    "H": 134
+  },
+  "clip": [
+    1e-06,
+    0.999999
+  ],
+  "primary": "log_loss",
+  "secondary": "brier",
+  "aggregation": "paired family first; controllers descriptive; no bootstrap/p values",
+  "exploratory_threshold_nats": 0.005,
+  "reversal_diagnostic": "deferred",
+  "code_hashes": {
+    "finite_models.py": "3c4acdec415ed2c7cb5795a8b7137fc59969766964df83c75abe471f5b16d320",
+    "run_finite_comparison.py": "3f02d3c4f73f2c4272372e9cd370b0cdd7906740831d9cea7d1e174012252abb",
+    "revised_feasibility.py": "6db57f488b0a952865c9c0c2174c324e43d9b232a28c2a339bea1d26bac512fd",
+    "test_finite_models.py": "faff789ad2c1d3a62e32327113dee3426e795bb12af4210a20799389b997ca4f",
+    "test_revised_feasibility.py": "b6fcfb55878a48264c0240f03d9b973bf35d73a868465016df31a10269de3cb6",
+    "MODEL_COMPARISON_DISPOSITION.md": "52284c1af42b4af9fb46dbbd6fd72fcfbad027ddcb050e9caa839d754f75abfd",
+    "MODEL_COMPARISON_REVISION.md": "d5aa473c71820e9ee735561c5979f642a2408bed1092aa3eec62cc165f40eb8f",
+    "MODEL_COMPARISON_DESIGN.md": "031a2f686e5cf535f40396ed33be3f550b5d440f9d33ea91e74504eacc0a1ccf",
+    "EXECUTABLE_VALIDATION.json": "834b31e8b20546d378dae23d44d47105b1c0025c03f5f952fc99e0e4ff622e46",
+    "REVISED_INPUT_GATE.json": "d985d380dd5f2b89fd00d19c1f527b000f2fb7caf22894a593e2abc502e6a993",
+    "MODEL_COMPARISON_PRECHECK_PARTIAL_HISTORY.json": "6311afdae7ad23b249b839a676cd0ee50a56fcf3a05a1a004443a7e605021b94"
+  },
+  "input_hashes": {
+    "PRIVATE_SCORES.json": "cb55704029a9a577b4ab7dd95481ce86807f153d9bcb546a26fcef5babe63847",
+    "vectors.npz": "1fb49786acbbb7772ab73ff22c23d2d1a58c60918ee82e6c6c976b78ad87c173",
+    "PREPARED.json": "8b92de6c3866c717ce47940466752e293bd18341dbc162103a07478510d579b3",
+    "QUALIFICATION.json": "48cc836e4caab552708cbb2a1ba4ed79d63a667ad3e7954f1e4c9f262b83b5bc",
+    "SELECTION_SEAL.json": "be756f95f241c53bf4f3a5d5a04b65b4357812540d44d1e15354e37522180d2b",
+    "DEPLOYMENT.json": "00e262aab9da8c3d58294cf96702db9e1ed96bce4ee607c1373a1b84289eb1b6",
+    "EVALUATION_SCHEDULE.json": "cab3605223d65e70a15b8111805025c68214496a874b91da7ab2425d7e6ae0c4",
+    "EVALUATION_SEAL.json": "792bab26d8f95514203ca12295ff068acc8215ffd991eb73a31d45deec5ec97a",
+    "evaluation.jsonl": "248c1bd198ef4c85b9964aed1f97f6469357d49d84b0dde8d572644ac3f0219d"
+  },
+  "original_precheck_sha256": "2c7c4a25cacf61aca660274eca2e4562c276148bb54365db206aaa628d109511",
+  "score_digest_provenance": "Original audit digest, verified by outcome-blind REVISED_INPUT_GATE; rechecked in place before parsing. No semantic rescoring."
+}

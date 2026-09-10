@@ -1,0 +1,38 @@
+{
+  "convergence": {
+    "family": {
+      "iterations": 3,
+      "normalized_gradient": 2.960083108019993e-11
+    },
+    "local": {
+      "iterations": 5,
+      "normalized_gradient": 2.395231290387056e-13
+    },
+    "rasch": {
+      "iterations": 3,
+      "normalized_gradient": 3.2943074412066234e-11
+    }
+  },
+  "measurement": {
+    "4": {
+      "expected_observed_energy": 0.035719179409305905,
+      "mean_observed_energy": 0.03577468792597453,
+      "signal_over_expected_energy": 0.08785993844044618
+    },
+    "8": {
+      "expected_observed_energy": 0.019428732156675385,
+      "mean_observed_energy": 0.019478269749217562,
+      "signal_over_expected_energy": 0.16152803377685188
+    }
+  },
+  "rasch_centered_probability_energy": 0.0031382849040448696,
+  "rasch_crossed_rankings": false,
+  "scope": "Strong two-dimensional existence example; not pilot power or real-data evidence.",
+  "seed": 20260910,
+  "slope_heldout_controller_log_loss": {
+    "family": 0.6859445036525221,
+    "local": 0.4591986881923518,
+    "rasch": 0.6859471553794049
+  },
+  "synthetic_only": true
+}
