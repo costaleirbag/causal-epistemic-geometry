@@ -1,0 +1,45 @@
+{
+  "source_hashes": {
+    "QUALIFICATION.json": "48cc836e4caab552708cbb2a1ba4ed79d63a667ad3e7954f1e4c9f262b83b5bc",
+    "CALIBRATION_SEAL.json": "934a5959e4a0a97c89dcb0a6644d4ebc1c135412b8f317f06b75aff012c41107",
+    "EVALUATION_SEAL.json": "792bab26d8f95514203ca12295ff068acc8215ffd991eb73a31d45deec5ec97a",
+    "RECOVERY_1.json": "b641e7041f01593168ddd6d2f23319f4703ef108ec828f7a42630c681ae10bd0",
+    "EVALUATION_RECOVERY_1.json": "17fb289bf31b030b608e8015b64b5b9eb05953153699575183f5d7339de54a59",
+    "ATTEMPT_COUNTER_RECONCILIATION.json": "6884a8d80caa7b3d93b63d803170d9bdb9f901e57d9b16140631d6ab60ec7bea",
+    "SELECTION_SEAL.json": "be756f95f241c53bf4f3a5d5a04b65b4357812540d44d1e15354e37522180d2b"
+  },
+  "qualification": {
+    "passed_by_space": {
+      "ORIGINAL": 20,
+      "RANDOM_1": 23,
+      "RANDOM_2": 23
+    },
+    "candidates_per_space": 24,
+    "common_qualified": 19,
+    "retained": 12,
+    "baseline_validity": 1.0,
+    "baseline_evaluability": 1.0,
+    "all_condition_validity_one": true,
+    "all_terminal_failure_zero": true
+  },
+  "sealed_costs": {
+    "CALIBRATION": {
+      "rows": 1752,
+      "elapsed_seconds": 2102.8701811619103,
+      "generated_tokens": 24009
+    },
+    "EVALUATION": {
+      "rows": 17760,
+      "elapsed_seconds": 20383.728703581844,
+      "generated_tokens": 234063
+    }
+  },
+  "recovery": {
+    "calibration_missing_keys": 2,
+    "evaluation_missing_keys": 29,
+    "calibration_unknown_markers": 2,
+    "evaluation_unknown_markers": 28,
+    "conservative_attempts": 19543
+  },
+  "cost_scope": "Seals sum elapsed time and generated tokens of persisted scientific rows; unknown attempts and overhead are not fully measured. These are not total accelerator hours."
+}

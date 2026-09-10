@@ -1,0 +1,80 @@
+{
+  "associations": [
+    0.4181400688863377,
+    0.017889573113453714,
+    0.2478864419162927
+  ],
+  "accuracy": [
+    0.4171875,
+    0.4019097222222222,
+    0.40243055555555557
+  ],
+  "mean_pair_displacement": [
+    0.042282497594997595,
+    0.021801497113997103,
+    0.025095298220298216
+  ],
+  "contrast": 0.2852520613714645,
+  "paired_family_bootstrap_q025_q975": [
+    0.09180535874110858,
+    0.3573332637511742
+  ],
+  "bootstrap_valid_draws": 2000,
+  "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+  "margin": 0.15,
+  "interpretation": "Conditional on these controller coefficients and two random orientations; no subspace-population or new-task claim. No absence-of-significance equivalence claim.",
+  "response_reproducibility": [
+    {
+      "stable_product": 0.019379478064373897,
+      "observed_energy": 0.035132860725308634,
+      "ratio": 0.5516054674822854
+    },
+    {
+      "stable_product": 0.009992352843915345,
+      "observed_energy": 0.023294511959876543,
+      "ratio": 0.4289573810830035
+    },
+    {
+      "stable_product": 0.011502011684303351,
+      "observed_energy": 0.02573688271604938,
+      "ratio": 0.44690772426494213
+    }
+  ],
+  "specificity_warning": "Observed rho differences can reflect unequal noise attenuation. Higher original alignment alone does not isolate latent geometric specificity; interpret with response scale and repeatability, especially for weak random controls.",
+  "rollout_half_associations": [
+    [
+      0.3538461538461539,
+      0.4269909195282331
+    ],
+    [
+      0.017806260373168764,
+      0.007389702429193133
+    ],
+    [
+      0.165915163696805,
+      0.2767352050934141
+    ]
+  ],
+  "baseline_accuracy": 0.3958333333333333,
+  "dimensions": [
+    3,
+    60,
+    12,
+    8
+  ],
+  "raw_sha256": "248c1bd198ef4c85b9964aed1f97f6469357d49d84b0dde8d572644ac3f0219d",
+  "precheck_sha256": "2c7c4a25cacf61aca660274eca2e4562c276148bb54365db206aaa628d109511",
+  "eval_rows": 17760,
+  "new_semantic_trajectories": 19512,
+  "validity": {
+    "ORIGINAL": 0.9875,
+    "RANDOM_1": 0.9939236111111112,
+    "RANDOM_2": 0.9953125
+  },
+  "evaluability": {
+    "ORIGINAL": 0.9875,
+    "RANDOM_1": 0.9939236111111112,
+    "RANDOM_2": 0.9953125
+  },
+  "evaluation_channel_qualified": true
+}

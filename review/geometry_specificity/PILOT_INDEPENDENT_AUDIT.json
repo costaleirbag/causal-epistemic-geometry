@@ -1,0 +1,219 @@
+{
+  "passed": false,
+  "checks": {
+    "precheck": true,
+    "frozen_sources": true,
+    "official": true,
+    "prepared": true,
+    "selection": true,
+    "calibration_seal": true,
+    "calibration_coverage": true,
+    "calibration_seeds": true,
+    "evaluation_seal": true,
+    "evaluation_coverage": true,
+    "evaluation_seeds": true,
+    "selection_schedule": true,
+    "prepared_schedule": true,
+    "RECOVERY_1.json_calibration.jsonl_prefix": true,
+    "RECOVERY_1.json_missing_only": true,
+    "EVALUATION_RECOVERY_1.json_evaluation.jsonl_prefix": true,
+    "EVALUATION_RECOVERY_1.json_missing_only": true,
+    "EVALUATION_RECOVERY_1.json_attempts.jsonl_prefix": true,
+    "ATTEMPT_COUNTER_RECONCILIATION.json_attempts.jsonl_prefix": true,
+    "attempt_count": true,
+    "attempt_indices_unique_contiguous": true,
+    "unknown_markers_not_observations": true,
+    "qualification": true,
+    "disjoint_panels": true,
+    "score_coverage": true,
+    "reference_coverage": true,
+    "loader_adapter": true,
+    "shared_parser_score_verification": true,
+    "tensor_complete": true,
+    "results.classification": true,
+    "results.evaluation_channel_qualified": true,
+    "numerical_agreement_1e-10": false
+  },
+  "numeric_differences": {
+    "results.associations.0": -1.6653345369377348e-16,
+    "results.associations.1": -3.469446951953614e-18,
+    "results.associations.2": -2.7755575615628914e-17,
+    "results.accuracy.0": 0.0,
+    "results.accuracy.1": 0.0,
+    "results.accuracy.2": 0.0,
+    "results.mean_pair_displacement.0": 1.3183898417423734e-16,
+    "results.mean_pair_displacement.1": 3.469446951953614e-17,
+    "results.mean_pair_displacement.2": 6.938893903907228e-17,
+    "results.contrast": -1.6653345369377348e-16,
+    "results.paired_family_bootstrap_q025_q975.0": -0.0008999208953722193,
+    "results.paired_family_bootstrap_q025_q975.1": 4.1471776354884415e-05,
+    "results.bootstrap_valid_draws": 0.0,
+    "results.margin": 0.0,
+    "results.response_reproducibility.0.stable_product": 3.469446951953614e-18,
+    "results.response_reproducibility.0.observed_energy": 0.0,
+    "results.response_reproducibility.0.ratio": 1.1102230246251565e-16,
+    "results.response_reproducibility.1.stable_product": 0.0,
+    "results.response_reproducibility.1.observed_energy": 0.0,
+    "results.response_reproducibility.1.ratio": 0.0,
+    "results.response_reproducibility.2.stable_product": 0.0,
+    "results.response_reproducibility.2.observed_energy": 0.0,
+    "results.response_reproducibility.2.ratio": 0.0,
+    "results.rollout_half_associations.0.0": -5.551115123125783e-17,
+    "results.rollout_half_associations.0.1": 6.708130914850896e-05,
+    "results.rollout_half_associations.1.0": 0.0017532845595104977,
+    "results.rollout_half_associations.1.1": -0.0009393016261844836,
+    "results.rollout_half_associations.2.0": 0.00430026720200577,
+    "results.rollout_half_associations.2.1": -0.0006262394322096299,
+    "results.baseline_accuracy": 0.0,
+    "results.dimensions.0": 0.0,
+    "results.dimensions.1": 0.0,
+    "results.dimensions.2": 0.0,
+    "results.dimensions.3": 0.0,
+    "results.eval_rows": 0.0,
+    "results.new_semantic_trajectories": 0.0,
+    "results.validity.ORIGINAL": 0.0,
+    "results.validity.RANDOM_1": 0.0,
+    "results.validity.RANDOM_2": 0.0,
+    "results.evaluability.ORIGINAL": 0.0,
+    "results.evaluability.RANDOM_1": 0.0,
+    "results.evaluability.RANDOM_2": 0.0
+  },
+  "counts": {
+    "frozen_source_mismatches": 0,
+    "calibration": 1752,
+    "evaluation": 17760,
+    "attempt_ledger_entries": 19543,
+    "unknown_attempt_markers": 30,
+    "retained": 12,
+    "scorer_mismatches": 0
+  },
+  "input_hashes": {
+    "precheck": "2c7c4a25cacf61aca660274eca2e4562c276148bb54365db206aaa628d109511",
+    "official": "05152a06080440556874dac931303f7de94a9a9e5a9dc3d56ec31926bfee4961",
+    "vectors.npz": "1fb49786acbbb7772ab73ff22c23d2d1a58c60918ee82e6c6c976b78ad87c173",
+    "PRIVATE_SCORES.json": "cb55704029a9a577b4ab7dd95481ce86807f153d9bcb546a26fcef5babe63847",
+    "RESULTS.json": "5d3febf2d811e997d76d00cb7585ef441ef3d40f2227172517639f0b1c373b72",
+    "PREPARED.json": "8b92de6c3866c717ce47940466752e293bd18341dbc162103a07478510d579b3",
+    "QUALIFICATION.json": "48cc836e4caab552708cbb2a1ba4ed79d63a667ad3e7954f1e4c9f262b83b5bc",
+    "SELECTION_SEAL.json": "be756f95f241c53bf4f3a5d5a04b65b4357812540d44d1e15354e37522180d2b",
+    "DEPLOYMENT.json": "00e262aab9da8c3d58294cf96702db9e1ed96bce4ee607c1373a1b84289eb1b6",
+    "attempts.jsonl": "1868aaefa0f04be4b82cbfd051852c3632b87dac2da38c0b00305df90598d797",
+    "calibration.jsonl": "83ceb58f8e926d402cf4eef0439743e947d2a030aee5873b2c1a7aef3a20fd93",
+    "CALIBRATION_SEAL.json": "934a5959e4a0a97c89dcb0a6644d4ebc1c135412b8f317f06b75aff012c41107",
+    "CALIBRATION_SCHEDULE.json": "b1eae7dacf2e08671d1fbbab8af83cb5c255fd164749335e9e482c1c3acadf6e",
+    "evaluation.jsonl": "248c1bd198ef4c85b9964aed1f97f6469357d49d84b0dde8d572644ac3f0219d",
+    "EVALUATION_SEAL.json": "792bab26d8f95514203ca12295ff068acc8215ffd991eb73a31d45deec5ec97a",
+    "EVALUATION_SCHEDULE.json": "cab3605223d65e70a15b8111805025c68214496a874b91da7ab2425d7e6ae0c4",
+    "RECOVERY_1.json": "b641e7041f01593168ddd6d2f23319f4703ef108ec828f7a42630c681ae10bd0",
+    "EVALUATION_RECOVERY_1.json": "17fb289bf31b030b608e8015b64b5b9eb05953153699575183f5d7339de54a59",
+    "ATTEMPT_COUNTER_RECONCILIATION.json": "6884a8d80caa7b3d93b63d803170d9bdb9f901e57d9b16140631d6ab60ec7bea",
+    "loader_adapter": "a1e4b825e8e55d0e385956dcc8cc4a0b8d2abfb48c70b5f0e0c119b00384c235",
+    "frozen_panel": "c127cf3594e8ea849dbd038492606b3afaaac406feb4146188769c04d6691187"
+  },
+  "independently_computed": {
+    "associations": [
+      0.41814006888633753,
+      0.01788957311345371,
+      0.24788644191629267
+    ],
+    "accuracy": [
+      0.4171875,
+      0.4019097222222222,
+      0.40243055555555557
+    ],
+    "mean_pair_displacement": [
+      0.04228249759499773,
+      0.021801497113997138,
+      0.025095298220298285
+    ],
+    "contrast": 0.28525206137146436,
+    "paired_family_bootstrap_q025_q975": [
+      0.09090543784573636,
+      0.3573747355275291
+    ],
+    "bootstrap_valid_draws": 2000,
+    "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+    "margin": 0.15,
+    "response_reproducibility": [
+      {
+        "stable_product": 0.0193794780643739,
+        "observed_energy": 0.035132860725308634,
+        "ratio": 0.5516054674822856
+      },
+      {
+        "stable_product": 0.009992352843915345,
+        "observed_energy": 0.023294511959876543,
+        "ratio": 0.4289573810830035
+      },
+      {
+        "stable_product": 0.011502011684303351,
+        "observed_energy": 0.02573688271604938,
+        "ratio": 0.44690772426494213
+      }
+    ],
+    "rollout_half_associations": [
+      [
+        0.35384615384615387,
+        0.4270580008373816
+      ],
+      [
+        0.019559544932679262,
+        0.006450400803008649
+      ],
+      [
+        0.17021543089881078,
+        0.27610896566120446
+      ]
+    ],
+    "baseline_accuracy": 0.3958333333333333,
+    "dimensions": [
+      3,
+      60,
+      12,
+      8
+    ],
+    "eval_rows": 17760,
+    "new_semantic_trajectories": 19512,
+    "validity": {
+      "ORIGINAL": 0.9875,
+      "RANDOM_1": 0.9939236111111112,
+      "RANDOM_2": 0.9953125
+    },
+    "evaluability": {
+      "ORIGINAL": 0.9875,
+      "RANDOM_1": 0.9939236111111112,
+      "RANDOM_2": 0.9953125
+    },
+    "evaluation_channel_qualified": true
+  },
+  "exact_integer_tie_diagnostic": {
+    "associations": [
+      0.41814006888633753,
+      0.01788957311345371,
+      0.24788644191629267
+    ],
+    "rollout_half_associations": [
+      [
+        0.35339428865415345,
+        0.4274053820813857
+      ],
+      [
+        0.020210245325716556,
+        0.00826765498939811
+      ],
+      [
+        0.16698506416847214,
+        0.2756849855014827
+      ]
+    ],
+    "explanation": "Integer cross-product numerators preserve mathematical ties. Floating implementations can split them differently; primary sources remain unchanged."
+  },
+  "release_blocked": true,
+  "independence_limits": [
+    "Shared frozen semantic parser for score verification only; no independent semantic ground truth.",
+    "Shared NumPy RNG and quantile; seed 2026090937 and 2000 paired family draws.",
+    "Independent centered cross-rollout Gram identity and sorting-based tied ranks; no primary numerical or qualification calls.",
+    "Recovery prefix preservation cannot establish cause of lost records or outcomes of unknown attempts.",
+    "Exploratory frozen bootstrap classification; coverage not validated."
+  ]
+}

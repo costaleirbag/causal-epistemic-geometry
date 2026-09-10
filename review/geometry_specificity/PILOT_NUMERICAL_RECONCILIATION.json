@@ -1,0 +1,522 @@
+{
+  "status": "BLOCKED",
+  "summary": "Numerical reconciliation complete; supervisor disposition required",
+  "additive_sensitivity_only": true,
+  "release_gate_unchanged": true,
+  "fully_explained_by_exact_tie_splitting": true,
+  "classification_robust_full": true,
+  "original_inputs_unchanged": true,
+  "input_hashes": {
+    "PRIVATE_SCORES.json": "cb55704029a9a577b4ab7dd95481ce86807f153d9bcb546a26fcef5babe63847",
+    "vectors.npz": "1fb49786acbbb7772ab73ff22c23d2d1a58c60918ee82e6c6c976b78ad87c173",
+    "PREPARED.json": "8b92de6c3866c717ce47940466752e293bd18341dbc162103a07478510d579b3",
+    "QUALIFICATION.json": "48cc836e4caab552708cbb2a1ba4ed79d63a667ad3e7954f1e4c9f262b83b5bc",
+    "RESULTS.json": "5d3febf2d811e997d76d00cb7585ef441ef3d40f2227172517639f0b1c373b72"
+  },
+  "source_hashes": {
+    "primary": "52e6d608f44bb29c3f59afb1f3e2e2f6f37cf72c0084c823f045efd121bad827",
+    "first_audit": "83e86430b7f10e47640d236e14ca163f4fdcda0460cecb29d6073e07a4598f86",
+    "first_audit_result": "11c52ff657476180f89887ff1c73bcd28cee8a333473dee935ff9d56d961095f",
+    "diagnostic": "cf6e7b04bf31ad5ca812261c85c0a3d6fc0b54086f2c90dc7592fa4234915d08"
+  },
+  "numpy_version": "2.5.2",
+  "seed": 2026090937,
+  "paired_draws": 2000,
+  "draws_sha256": "d043dfab5675167970b4f1b5c064a5faa605207fdb0e00254b220d513f7a273e",
+  "dimensions": [
+    3,
+    60,
+    12,
+    8
+  ],
+  "saved_result_reproduction_max_errors": {
+    "primary": {
+      "associations": 0.0,
+      "contrast": 0.0,
+      "paired_family_bootstrap_q025_q975": 0.0,
+      "rollout_half_associations": 0.0
+    },
+    "independent": {
+      "associations": 0.0,
+      "contrast": 0.0,
+      "paired_family_bootstrap_q025_q975": 0.0,
+      "rollout_half_associations": 0.0
+    }
+  },
+  "scopes": {
+    "full": {
+      "matrices_per_implementation": 6003,
+      "integer_implementation_mismatches": 0,
+      "floating_diagnostics": {
+        "primary": {
+          "max_distance_error": 4.996003610813204e-16,
+          "rank_entries_different_from_exact": 6827,
+          "matrices_with_rank_difference": 2265,
+          "distinct_distance_order_reversals": 0,
+          "distinct_distance_false_ties": 0,
+          "exact_tie_pairs_split": 3901,
+          "max_rank_difference": 5.0
+        },
+        "independent": {
+          "max_distance_error": 1.6237011735142914e-15,
+          "rank_entries_different_from_exact": 8267,
+          "matrices_with_rank_difference": 2440,
+          "distinct_distance_order_reversals": 0,
+          "distinct_distance_false_ties": 0,
+          "exact_tie_pairs_split": 5283,
+          "max_rank_difference": 8.0
+        }
+      },
+      "max_native_vs_diagnostic_correlation_error": 1.6653345369377348e-16,
+      "results": {
+        "exact": {
+          "associations": [
+            0.41814006888633753,
+            0.01788957311345371,
+            0.24788644191629267
+          ],
+          "contrast": 0.28525206137146436,
+          "individual_contrasts": [
+            0.40025049577288385,
+            0.17025362697004487
+          ],
+          "paired_family_bootstrap_q025_q975": [
+            0.0909104686361686,
+            0.3573760383437659
+          ],
+          "individual_correlation_intervals": [
+            [
+              0.19870606806947444,
+              0.4665317990558934
+            ],
+            [
+              -0.05521358736585165,
+              0.1556868352744782
+            ],
+            [
+              0.03254543788570113,
+              0.31311345371046856
+            ]
+          ],
+          "individual_contrast_intervals": [
+            [
+              0.11769453393230984,
+              0.472523425582958
+            ],
+            [
+              0.021166615179330002,
+              0.28659039506699313
+            ]
+          ],
+          "valid_draws": 2000,
+          "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+          "max_correlation_difference_from_exact": 0.0
+        },
+        "primary": {
+          "associations": [
+            0.4181400688863377,
+            0.017889573113453714,
+            0.2478864419162927
+          ],
+          "contrast": 0.2852520613714645,
+          "individual_contrasts": [
+            0.40025049577288396,
+            0.170253626970045
+          ],
+          "paired_family_bootstrap_q025_q975": [
+            0.09180535874110858,
+            0.3573332637511742
+          ],
+          "individual_correlation_intervals": [
+            [
+              0.1987060680694745,
+              0.466536895939881
+            ],
+            [
+              -0.05521358736585166,
+              0.1546362669351845
+            ],
+            [
+              0.03357687089030373,
+              0.31311345371046856
+            ]
+          ],
+          "individual_contrast_intervals": [
+            [
+              0.11800703796357442,
+              0.47273562258636864
+            ],
+            [
+              0.02200490658912707,
+              0.28736144452562373
+            ]
+          ],
+          "valid_draws": 2000,
+          "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+          "max_correlation_difference_from_exact": 0.012349683348483246
+        },
+        "independent": {
+          "associations": [
+            0.41814006888633753,
+            0.01788957311345371,
+            0.24788644191629267
+          ],
+          "contrast": 0.28525206137146436,
+          "individual_contrasts": [
+            0.40025049577288385,
+            0.17025362697004487
+          ],
+          "paired_family_bootstrap_q025_q975": [
+            0.09090543784573636,
+            0.3573747355275291
+          ],
+          "individual_correlation_intervals": [
+            [
+              0.19874131053651317,
+              0.46653689593988096
+            ],
+            [
+              -0.05521358736585165,
+              0.15528863254682068
+            ],
+            [
+              0.03357480932669143,
+              0.31311345371046856
+            ]
+          ],
+          "individual_contrast_intervals": [
+            [
+              0.117124517273771,
+              0.47233796054691535
+            ],
+            [
+              0.02165535956580736,
+              0.2873614445256236
+            ]
+          ],
+          "valid_draws": 2000,
+          "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+          "max_correlation_difference_from_exact": 0.016959311643963262
+        }
+      }
+    },
+    "first_half": {
+      "matrices_per_implementation": 6003,
+      "integer_implementation_mismatches": 0,
+      "floating_diagnostics": {
+        "primary": {
+          "max_distance_error": 3.608224830031759e-16,
+          "rank_entries_different_from_exact": 46633,
+          "matrices_with_rank_difference": 5453,
+          "distinct_distance_order_reversals": 0,
+          "distinct_distance_false_ties": 0,
+          "exact_tie_pairs_split": 33954,
+          "max_rank_difference": 14.5
+        },
+        "independent": {
+          "max_distance_error": 1.0269562977782698e-15,
+          "rank_entries_different_from_exact": 52721,
+          "matrices_with_rank_difference": 5544,
+          "distinct_distance_order_reversals": 0,
+          "distinct_distance_false_ties": 0,
+          "exact_tie_pairs_split": 49003,
+          "max_rank_difference": 18.0
+        }
+      },
+      "max_native_vs_diagnostic_correlation_error": 1.6653345369377348e-16,
+      "results": {
+        "exact": {
+          "associations": [
+            0.35339428865415345,
+            0.020210245325716556,
+            0.16698506416847214
+          ],
+          "contrast": 0.2597966339070591,
+          "individual_contrasts": [
+            0.3331840433284369,
+            0.1864092244856813
+          ],
+          "paired_family_bootstrap_q025_q975": [
+            0.0707868131598818,
+            0.3484150869832536
+          ],
+          "individual_correlation_intervals": [
+            [
+              0.141110099457381,
+              0.41496362402450254
+            ],
+            [
+              -0.08051419674625493,
+              0.1353151300814359
+            ],
+            [
+              -0.037274516386144874,
+              0.26645743429303803
+            ]
+          ],
+          "individual_contrast_intervals": [
+            [
+              0.07635411582990304,
+              0.44280710108868
+            ],
+            [
+              0.003745414196376522,
+              0.3132708937898417
+            ]
+          ],
+          "valid_draws": 2000,
+          "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+          "max_correlation_difference_from_exact": 0.0
+        },
+        "primary": {
+          "associations": [
+            0.3538461538461539,
+            0.017806260373168764,
+            0.165915163696805
+          ],
+          "contrast": 0.261985441811167,
+          "individual_contrasts": [
+            0.33603989347298513,
+            0.18793099014934891
+          ],
+          "paired_family_bootstrap_q025_q975": [
+            0.07012137510864648,
+            0.3484205840029942
+          ],
+          "individual_correlation_intervals": [
+            [
+              0.14096862003547522,
+              0.4142657342657343
+            ],
+            [
+              -0.08184328887614276,
+              0.13541818559758934
+            ],
+            [
+              -0.03817185118430441,
+              0.2668292109419157
+            ]
+          ],
+          "individual_contrast_intervals": [
+            [
+              0.07410429672229785,
+              0.44246478256189603
+            ],
+            [
+              0.0038954597846021367,
+              0.31312292903921
+            ]
+          ],
+          "valid_draws": 2000,
+          "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+          "max_correlation_difference_from_exact": 0.022379523589597383
+        },
+        "independent": {
+          "associations": [
+            0.35384615384615387,
+            0.019559544932679262,
+            0.17021543089881078
+          ],
+          "contrast": 0.25895866593040884,
+          "individual_contrasts": [
+            0.3342866089134746,
+            0.1836307229473431
+          ],
+          "paired_family_bootstrap_q025_q975": [
+            0.07059984928401,
+            0.3491702885366877
+          ],
+          "individual_correlation_intervals": [
+            [
+              0.13979818195296415,
+              0.41419243193936733
+            ],
+            [
+              -0.08002972680495538,
+              0.13495891361033005
+            ],
+            [
+              -0.035973700867919615,
+              0.2680112573125073
+            ]
+          ],
+          "individual_contrast_intervals": [
+            [
+              0.07875691472706398,
+              0.44100708348790785
+            ],
+            [
+              0.0033175040294259627,
+              0.3137485377416238
+            ]
+          ],
+          "valid_draws": 2000,
+          "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+          "max_correlation_difference_from_exact": 0.09502562928146721
+        }
+      }
+    },
+    "second_half": {
+      "matrices_per_implementation": 6003,
+      "integer_implementation_mismatches": 0,
+      "floating_diagnostics": {
+        "primary": {
+          "max_distance_error": 4.440892098500626e-16,
+          "rank_entries_different_from_exact": 39680,
+          "matrices_with_rank_difference": 5348,
+          "distinct_distance_order_reversals": 0,
+          "distinct_distance_false_ties": 0,
+          "exact_tie_pairs_split": 27768,
+          "max_rank_difference": 16.5
+        },
+        "independent": {
+          "max_distance_error": 9.367506770274758e-16,
+          "rank_entries_different_from_exact": 46063,
+          "matrices_with_rank_difference": 5461,
+          "distinct_distance_order_reversals": 0,
+          "distinct_distance_false_ties": 0,
+          "exact_tie_pairs_split": 41260,
+          "max_rank_difference": 22.0
+        }
+      },
+      "max_native_vs_diagnostic_correlation_error": 1.6653345369377348e-16,
+      "results": {
+        "exact": {
+          "associations": [
+            0.4274053820813857,
+            0.00826765498939811,
+            0.2756849855014827
+          ],
+          "contrast": 0.2854290618359453,
+          "individual_contrasts": [
+            0.41913772709198754,
+            0.151720396579903
+          ],
+          "paired_family_bootstrap_q025_q975": [
+            0.09376071577949786,
+            0.3634136200081065
+          ],
+          "individual_correlation_intervals": [
+            [
+              0.20525738708985844,
+              0.46909793789859655
+            ],
+            [
+              -0.07378823446404496,
+              0.14247460682973692
+            ],
+            [
+              0.04912887757482739,
+              0.3214991080634546
+            ]
+          ],
+          "individual_contrast_intervals": [
+            [
+              0.14178278502404518,
+              0.4970787204367082
+            ],
+            [
+              0.002145346306728225,
+              0.28592068913634466
+            ]
+          ],
+          "valid_draws": 2000,
+          "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+          "max_correlation_difference_from_exact": 0.0
+        },
+        "primary": {
+          "associations": [
+            0.4269909195282331,
+            0.007389702429193133,
+            0.2767352050934141
+          ],
+          "contrast": 0.2849284657669295,
+          "individual_contrasts": [
+            0.41960121709903997,
+            0.150255714434819
+          ],
+          "paired_family_bootstrap_q025_q975": [
+            0.0928036205459332,
+            0.36385093382260125
+          ],
+          "individual_correlation_intervals": [
+            [
+              0.2060035486901159,
+              0.46939367143107197
+            ],
+            [
+              -0.07373161023754736,
+              0.14181529939024357
+            ],
+            [
+              0.04944243567809407,
+              0.3215020713714237
+            ]
+          ],
+          "individual_contrast_intervals": [
+            [
+              0.1417808691819656,
+              0.49632694845839836
+            ],
+            [
+              0.002803280634009116,
+              0.2858829302530568
+            ]
+          ],
+          "valid_draws": 2000,
+          "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+          "max_correlation_difference_from_exact": 0.02569747018266227
+        },
+        "independent": {
+          "associations": [
+            0.4270580008373816,
+            0.006450400803008649,
+            0.27610896566120446
+          ],
+          "contrast": 0.28577831760527506,
+          "individual_contrasts": [
+            0.420607600034373,
+            0.15094903517617714
+          ],
+          "paired_family_bootstrap_q025_q975": [
+            0.0938028569768291,
+            0.3634353455364534
+          ],
+          "individual_correlation_intervals": [
+            [
+              0.20570817242459033,
+              0.4695365828201649
+            ],
+            [
+              -0.07333504514734267,
+              0.14283056494207025
+            ],
+            [
+              0.04831013710812334,
+              0.32142156351111567
+            ]
+          ],
+          "individual_contrast_intervals": [
+            [
+              0.14200065809305365,
+              0.4970807066899281
+            ],
+            [
+              0.0028003339943638607,
+              0.28749921720070964
+            ]
+          ],
+          "valid_draws": 2000,
+          "classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+          "max_correlation_difference_from_exact": 0.0513467756015601
+        }
+      }
+    }
+  },
+  "uncertainties": [
+    "Exploratory bootstrap coverage remains unvalidated.",
+    "Finite coefficients and two random orientations; no population specificity or utility claim.",
+    "No diagnosis of lost-record root cause or unknown attempt outcomes.",
+    "Exact-tie sensitivity is additive and cannot waive the original failed audit."
+  ]
+}

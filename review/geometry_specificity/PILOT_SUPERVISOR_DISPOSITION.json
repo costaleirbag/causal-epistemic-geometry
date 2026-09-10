@@ -1,0 +1,18 @@
+{
+  "decision": "PUBLISH_INCONCLUSIVE_CLOSEOUT_WITH_DISCLOSED_AUDIT_FAILURE",
+  "original_audit_passed": false,
+  "scientific_classification": "INCONCLUSIVE_SPECIFICITY_CONTRAST",
+  "evidence_hashes": {
+    "PILOT_INDEPENDENT_AUDIT.json": "11c52ff657476180f89887ff1c73bcd28cee8a333473dee935ff9d56d961095f",
+    "PILOT_NUMERICAL_RECONCILIATION.json": "9eba709c81c729213213ca9c110cdd65e353d676cb58e4dbb03be66258a6f5ce",
+    "PILOT_RESULTS.json": "5d3febf2d811e997d76d00cb7585ef441ef3d40f2227172517639f0b1c373b72"
+  },
+  "reviewed_at": "2026-09-10T03:30:49.582933+00:00",
+  "basis": "Supervisor inspected independent integer formulas, exact order diagnostics across 18009 matrices and original-result reproduction; reran all 14 audit/reconciliation tests successfully. All nonnumerical original checks pass. Observed discrepancies explained by exact ties split in floating arithmetic. Original audit failure is not waived or relabeled. Publication is a transparent inconclusive closeout, not a successful-audit or specificity claim.",
+  "constraints": [
+    "Preserve original audit passed=false and all frozen sources/results.",
+    "Disclose primary and additive exact-tie sensitivity side by side, including larger per-resample sensitivity.",
+    "No new inference, estimator substitution, decision threshold change, or campaign.",
+    "Intervals exploratory with unvalidated coverage; no population specificity or routing utility claim."
+  ]
+}
