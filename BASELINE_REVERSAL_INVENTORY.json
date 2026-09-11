@@ -1,0 +1,897 @@
+{
+  "base_commit": "0b9c5558bd50abdcc9ff0109a7622e7bab86b8ca",
+  "reviewed_files": [
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_DESIGN.md",
+      "sha256": "47f33f94a9aa89f0955904ac69654fbae76dfeba9539017d53b24f612be05f31"
+    },
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_CLOSEOUT.md",
+      "sha256": "b6053714874744aa044bd4d88c1f8c00d3f21943c8e3db53d915f3f558b21896"
+    },
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_AUDIT.json",
+      "sha256": "57c4d96591c6eaf672075b5cb87a2a05b109c6d7ea3dbc668f9b5cc9647d94d9"
+    },
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_RESULTS.json",
+      "sha256": "30a276203e5d6f1f3b9d50523e293ea11193898cd18ccab609ae5ddc8c4e0212"
+    },
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_RESULTS_INITIAL_INCOMPLETE.json",
+      "sha256": "044b37a9a1842b85e55046164b558f10c4c0d3f212ac6380039c15b6c6729990"
+    },
+    {
+      "path": "review/family_baseline_extension/family_baseline.py",
+      "sha256": "00139c6d83c484b1ab9040cd5ba71bc4f86414b1a18590c0a4e6af3bdc7acee2"
+    },
+    {
+      "path": "review/family_baseline_extension/test_family_baseline.py",
+      "sha256": "7ce82561c144a73b4f1941596d27de257cb4b2f209c7aa4c03d0ae379d4c3996"
+    },
+    {
+      "path": "review/reversal_diagnostic/REVERSAL_DESIGN.md",
+      "sha256": "efb56dcf048de6b1c9e7c43339e2a0f96aacf1ed54e8e4e21cee04f6d72774b0"
+    },
+    {
+      "path": "review/reversal_diagnostic/REVERSAL_CLOSEOUT.md",
+      "sha256": "b9ffb26fdc0675aaec80717986e32a5b3112e6480903639df6b3792b37e308ec"
+    },
+    {
+      "path": "review/reversal_diagnostic/REVERSAL_INTEGRITY.json",
+      "sha256": "6594822d4f98cce152b457ba3949fded27ad721bf66ec184d912032aedbf879c"
+    },
+    {
+      "path": "review/reversal_diagnostic/REVERSAL_RESULTS.json",
+      "sha256": "b3671505a0b4feee90f26781834afc5415b51c0a2058cefe85d44096490862f8"
+    },
+    {
+      "path": "review/reversal_diagnostic/reversal.py",
+      "sha256": "cd8f6f866e95259075ae882b473242bb9248807f6d7cd613f1389528ec615f0c"
+    },
+    {
+      "path": "review/reversal_diagnostic/test_reversal.py",
+      "sha256": "4b1f428833e77d5f609f0ff1067d98b90f26f4a0a9838e2ea8ac25661aaf38fa"
+    },
+    {
+      "path": "review/family_baseline_extension/RESEARCH_DECISION_RELEASE.md",
+      "sha256": "f5f39b85cf67b563f47305ba800d7ffe79ceac93ce10e501bcb77f3ce6e99706"
+    }
+  ],
+  "exclusions": [
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_EXECUTION_REPORT.md",
+      "sha256": "db711414dc963daa294ebfbcad08f5eb6a35f0766add2e654f4eacca7305a555",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_EXECUTION_REPORT_INITIAL_INCOMPLETE.md",
+      "sha256": "88fc0fa500936d2062fc4a3d8491b24c961a1dc215019ddb92147e95d839f8d2",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_EXECUTION_VALIDATION.json",
+      "sha256": "793bf3a0109bd36bbd565a8507b6a60a8dad38be0900953e4f45ff47ec5bfafb",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "sha256": "2bec6f862279736ae02603fe8b899dd51e0de10dda2341fc1e0d6f1e3f9cc0bc",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "sha256": "3527dcfdbff80c647e9af63a3243a71360525b2b23568c895a039eb5c90ce1cf",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/PRESERVATION.json",
+      "sha256": "c6f672dbe6fb32fcb443cd91c8d455119516f6c21e96a67de8e225be443a94fe",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/READINESS_REPORT.md",
+      "sha256": "ac2ba1a5b6aed83510b448c8ac9f8e4cac4cad7c6eab9952863ba3fc0d1fd784",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/audit_extension_independent.py",
+      "sha256": "3086aca6f20a39885f7ad3edea06bf03b62df90215a19f49695098502e47e8f0",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/execute_extension.py",
+      "sha256": "4b3086624d7477a51bd00a766415ea51ea2c80ca27f90cd4faca3d84ccbf9a90",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/execute_extension_padded.py",
+      "sha256": "cfac140012bd22248caf72617ca44b6d776787d0028a09b867ab1cbf3068ff04",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/test_extension_adapter.py",
+      "sha256": "b436585c2ba95abe471a25efd8625c4e02fed80f64fab24f9acb2e9c5a21bcb0",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/family_baseline_extension/test_extension_adapter_padded.py",
+      "sha256": "afd176e7463b2a775692567bcdbd85354bbbdff12beeba55546b44e21072711c",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "sha256": "0612cf4a0a7f8583cf0f707d480517e9225c4e3a40da64219e68325a672f2aa6",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/reversal_diagnostic/VALIDATION.json",
+      "sha256": "e2e09b4a76c66a5d0e24aebd14e76b4ed4319f541b9ec51242571a2bdfac8e91",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/reversal_diagnostic/private_adapter.py",
+      "sha256": "ba193a6a6c34064981a7775a80c7c71c25421c2904b610c714af555c4af20163",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    },
+    {
+      "path": "review/reversal_diagnostic/test_private_adapter.py",
+      "sha256": "166748072fe541aedc608a70b84c8aa0573081f03759b66213152467ea7211ae",
+      "reason": "Operational/private adapter or supporting precheck/report; unnecessary for minimal release. Sealed original preserved."
+    }
+  ],
+  "local_receipt_hash_checks": [
+    {
+      "receipt": "review/family_baseline_extension/PRESERVATION.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/finite_models.py",
+      "sha256": "3c4acdec415ed2c7cb5795a8b7137fc59969766964df83c75abe471f5b16d320"
+    },
+    {
+      "receipt": "review/family_baseline_extension/PRESERVATION.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/run_finite_comparison.py",
+      "sha256": "3f02d3c4f73f2c4272372e9cd370b0cdd7906740831d9cea7d1e174012252abb"
+    },
+    {
+      "receipt": "review/family_baseline_extension/PRESERVATION.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/independent_audit.py",
+      "sha256": "f61e0ea449f5b7c79d59bf80e39df04a8e3fea2503d3f04c511297b3ef89e916"
+    },
+    {
+      "receipt": "review/family_baseline_extension/PRESERVATION.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_PRECHECK.json",
+      "sha256": "735e96358dba3248cfab1e70b0173d9d914b3ab3ecfb640ab1d086473cb8f28d"
+    },
+    {
+      "receipt": "review/family_baseline_extension/PRESERVATION.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_RESULTS.json",
+      "sha256": "d43080ed1d6ba17ded3e4153bf588c72d7410134f837fe4fc4c391e88c53f15a"
+    },
+    {
+      "receipt": "review/family_baseline_extension/PRESERVATION.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_DISPOSITION.md",
+      "sha256": "52284c1af42b4af9fb46dbbd6fd72fcfbad027ddcb050e9caa839d754f75abfd"
+    },
+    {
+      "receipt": "review/family_baseline_extension/PRESERVATION.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_CLOSEOUT.md",
+      "sha256": "06dac1ade364c56c07ac5fae9f6c2f439e241577d0d90668a1ab9921f7fc0ad1"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXECUTION_VALIDATION.json",
+      "field": "artifacts",
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_RESULTS.json",
+      "sha256": "30a276203e5d6f1f3b9d50523e293ea11193898cd18ccab609ae5ddc8c4e0212"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXECUTION_VALIDATION.json",
+      "field": "artifacts",
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_EXECUTION_REPORT.md",
+      "sha256": "db711414dc963daa294ebfbcad08f5eb6a35f0766add2e654f4eacca7305a555"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXECUTION_VALIDATION.json",
+      "field": "artifacts",
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "sha256": "3527dcfdbff80c647e9af63a3243a71360525b2b23568c895a039eb5c90ce1cf"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXECUTION_VALIDATION.json",
+      "field": "artifacts",
+      "path": "review/family_baseline_extension/execute_extension_padded.py",
+      "sha256": "cfac140012bd22248caf72617ca44b6d776787d0028a09b867ab1cbf3068ff04"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXECUTION_VALIDATION.json",
+      "field": "artifacts",
+      "path": "review/family_baseline_extension/test_extension_adapter_padded.py",
+      "sha256": "afd176e7463b2a775692567bcdbd85354bbbdff12beeba55546b44e21072711c"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/execute_extension.py",
+      "sha256": "4b3086624d7477a51bd00a766415ea51ea2c80ca27f90cd4faca3d84ccbf9a90"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/test_extension_adapter.py",
+      "sha256": "b436585c2ba95abe471a25efd8625c4e02fed80f64fab24f9acb2e9c5a21bcb0"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/READINESS_REPORT.md",
+      "sha256": "ac2ba1a5b6aed83510b448c8ac9f8e4cac4cad7c6eab9952863ba3fc0d1fd784"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/test_family_baseline.py",
+      "sha256": "7ce82561c144a73b4f1941596d27de257cb4b2f209c7aa4c03d0ae379d4c3996"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/PRESERVATION.json",
+      "sha256": "c6f672dbe6fb32fcb443cd91c8d455119516f6c21e96a67de8e225be443a94fe"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_DESIGN.md",
+      "sha256": "47f33f94a9aa89f0955904ac69654fbae76dfeba9539017d53b24f612be05f31"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/family_baseline.py",
+      "sha256": "00139c6d83c484b1ab9040cd5ba71bc4f86414b1a18590c0a4e6af3bdc7acee2"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_AUDIT.json",
+      "sha256": "7ddffa12b1f81fe9d0f2690bc0fd5af2f509e6125039b914f3ba1108ce98d9e8"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/finite_models.py",
+      "sha256": "3c4acdec415ed2c7cb5795a8b7137fc59969766964df83c75abe471f5b16d320"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/run_finite_comparison.py",
+      "sha256": "3f02d3c4f73f2c4272372e9cd370b0cdd7906740831d9cea7d1e174012252abb"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/RELEASE_PAYLOAD_REVIEW.json",
+      "sha256": "d95f2e347609f56dcdb185ac804136a5894dceccee885bc90d323fd8e65a1b2e"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/CLOSEOUT_VALIDATION.json",
+      "sha256": "d3cb02a1eeda1319c58aedfb65ddf2d39a0fc397a2a19978d3459b5d0ea5d0fa"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_PRECHECK.json",
+      "sha256": "735e96358dba3248cfab1e70b0173d9d914b3ab3ecfb640ab1d086473cb8f28d"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/EXECUTABLE_VALIDATION.json",
+      "sha256": "834b31e8b20546d378dae23d44d47105b1c0025c03f5f952fc99e0e4ff622e46"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/test_finite_models.py",
+      "sha256": "faff789ad2c1d3a62e32327113dee3426e795bb12af4210a20799389b997ca4f"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_VERIFICATION.json",
+      "sha256": "d18f1db22dbd25d70e2e0348c2cdffa26ad76808076e1b31c6c9b89357eaf3dc"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_AUDIT.md",
+      "sha256": "bc26e134fbedc0fef711c1970f212f0abdae1736d4d3ac29d2ffa26ce61283e6"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_RESULTS.json",
+      "sha256": "d43080ed1d6ba17ded3e4153bf588c72d7410134f837fe4fc4c391e88c53f15a"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_DESIGN.md",
+      "sha256": "031a2f686e5cf535f40396ed33be3f550b5d440f9d33ea91e74504eacc0a1ccf"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/synthetic_validation.py",
+      "sha256": "e7b675ade2a3e30ee40c2aab70580cbb78d75b65bb7686d2a8c48a3eb5ab8d4f"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_REVISION.md",
+      "sha256": "d5aa473c71820e9ee735561c5979f642a2408bed1092aa3eec62cc165f40eb8f"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/SYNTHETIC_RESULTS.json",
+      "sha256": "b8f9b479b01ad458c0472094945b43c922ab44a7384da865457947abc0ea378f"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/summarize_finite_comparison.py",
+      "sha256": "0f0bf6a09162cd28033de58b7291c9b76dd19d2f1a456b0004bfb5a1707c2250"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_CLOSEOUT.md",
+      "sha256": "06dac1ade364c56c07ac5fae9f6c2f439e241577d0d90668a1ab9921f7fc0ad1"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/test_independent_audit.py",
+      "sha256": "c3f76435a8112bd424c4ea6139d3bac060982042361aea22aed141741878cacc"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_RESUME_INSPECTION.json",
+      "sha256": "cf5f253caf08bdc894ece8d719c2807beea45261a70f7e1b52007de754e27d4e"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_PRECHECK_PARTIAL_HISTORY.json",
+      "sha256": "6311afdae7ad23b249b839a676cd0ee50a56fcf3a05a1a004443a7e605021b94"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_DISPOSITION.md",
+      "sha256": "52284c1af42b4af9fb46dbbd6fd72fcfbad027ddcb050e9caa839d754f75abfd"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_ANALYSIS_PARTIAL_HISTORY.md",
+      "sha256": "668b808556a74575807e3868877b3b56a877c759adc43621a458a6bfafe8af85"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/test_revised_feasibility.py",
+      "sha256": "b6fcfb55878a48264c0240f03d9b973bf35d73a868465016df31a10269de3cb6"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/DESIGN_INPUT_HASHES.json",
+      "sha256": "97364e995b429139fd6beef388ec1c0beeed7b8bc4764ef487213e5a73d62e92"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/test_synthetic_validation.py",
+      "sha256": "f70584ecc47700d70a29fe14c0b6f7ef389eba9503958a27e7f87be458ba3a0e"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_RESULTS_PARTIAL_HISTORY.json",
+      "sha256": "ea4f8068d388a18c9bf4cbec7d10b5879ef9cda1c6920ba4361110c52577b7ea"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_ANALYSIS.md",
+      "sha256": "cd4f2074e72f1e8c7334c0eb05375c97f068d81b855db6e78832f1b748ebfad1"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/revised_feasibility.py",
+      "sha256": "6db57f488b0a952865c9c0c2174c324e43d9b232a28c2a339bea1d26bac512fd"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/REVISED_INPUT_GATE.json",
+      "sha256": "d985d380dd5f2b89fd00d19c1f527b000f2fb7caf22894a593e2abc502e6a993"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/independent_audit.py",
+      "sha256": "f61e0ea449f5b7c79d59bf80e39df04a8e3fea2503d3f04c511297b3ef89e916"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/execute_extension.py",
+      "sha256": "4b3086624d7477a51bd00a766415ea51ea2c80ca27f90cd4faca3d84ccbf9a90"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/test_extension_adapter.py",
+      "sha256": "b436585c2ba95abe471a25efd8625c4e02fed80f64fab24f9acb2e9c5a21bcb0"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/READINESS_REPORT.md",
+      "sha256": "ac2ba1a5b6aed83510b448c8ac9f8e4cac4cad7c6eab9952863ba3fc0d1fd784"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/test_family_baseline.py",
+      "sha256": "7ce82561c144a73b4f1941596d27de257cb4b2f209c7aa4c03d0ae379d4c3996"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/PRESERVATION.json",
+      "sha256": "c6f672dbe6fb32fcb443cd91c8d455119516f6c21e96a67de8e225be443a94fe"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_DESIGN.md",
+      "sha256": "47f33f94a9aa89f0955904ac69654fbae76dfeba9539017d53b24f612be05f31"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/family_baseline.py",
+      "sha256": "00139c6d83c484b1ab9040cd5ba71bc4f86414b1a18590c0a4e6af3bdc7acee2"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_AUDIT.json",
+      "sha256": "7ddffa12b1f81fe9d0f2690bc0fd5af2f509e6125039b914f3ba1108ce98d9e8"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/finite_models.py",
+      "sha256": "3c4acdec415ed2c7cb5795a8b7137fc59969766964df83c75abe471f5b16d320"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/run_finite_comparison.py",
+      "sha256": "3f02d3c4f73f2c4272372e9cd370b0cdd7906740831d9cea7d1e174012252abb"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/RELEASE_PAYLOAD_REVIEW.json",
+      "sha256": "d95f2e347609f56dcdb185ac804136a5894dceccee885bc90d323fd8e65a1b2e"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/CLOSEOUT_VALIDATION.json",
+      "sha256": "d3cb02a1eeda1319c58aedfb65ddf2d39a0fc397a2a19978d3459b5d0ea5d0fa"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_PRECHECK.json",
+      "sha256": "735e96358dba3248cfab1e70b0173d9d914b3ab3ecfb640ab1d086473cb8f28d"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/EXECUTABLE_VALIDATION.json",
+      "sha256": "834b31e8b20546d378dae23d44d47105b1c0025c03f5f952fc99e0e4ff622e46"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/test_finite_models.py",
+      "sha256": "faff789ad2c1d3a62e32327113dee3426e795bb12af4210a20799389b997ca4f"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_VERIFICATION.json",
+      "sha256": "d18f1db22dbd25d70e2e0348c2cdffa26ad76808076e1b31c6c9b89357eaf3dc"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_AUDIT.md",
+      "sha256": "bc26e134fbedc0fef711c1970f212f0abdae1736d4d3ac29d2ffa26ce61283e6"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_RESULTS.json",
+      "sha256": "d43080ed1d6ba17ded3e4153bf588c72d7410134f837fe4fc4c391e88c53f15a"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_DESIGN.md",
+      "sha256": "031a2f686e5cf535f40396ed33be3f550b5d440f9d33ea91e74504eacc0a1ccf"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/synthetic_validation.py",
+      "sha256": "e7b675ade2a3e30ee40c2aab70580cbb78d75b65bb7686d2a8c48a3eb5ab8d4f"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_REVISION.md",
+      "sha256": "d5aa473c71820e9ee735561c5979f642a2408bed1092aa3eec62cc165f40eb8f"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/SYNTHETIC_RESULTS.json",
+      "sha256": "b8f9b479b01ad458c0472094945b43c922ab44a7384da865457947abc0ea378f"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/summarize_finite_comparison.py",
+      "sha256": "0f0bf6a09162cd28033de58b7291c9b76dd19d2f1a456b0004bfb5a1707c2250"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_CLOSEOUT.md",
+      "sha256": "06dac1ade364c56c07ac5fae9f6c2f439e241577d0d90668a1ab9921f7fc0ad1"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/test_independent_audit.py",
+      "sha256": "c3f76435a8112bd424c4ea6139d3bac060982042361aea22aed141741878cacc"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_RESUME_INSPECTION.json",
+      "sha256": "cf5f253caf08bdc894ece8d719c2807beea45261a70f7e1b52007de754e27d4e"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_PRECHECK_PARTIAL_HISTORY.json",
+      "sha256": "6311afdae7ad23b249b839a676cd0ee50a56fcf3a05a1a004443a7e605021b94"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_DISPOSITION.md",
+      "sha256": "52284c1af42b4af9fb46dbbd6fd72fcfbad027ddcb050e9caa839d754f75abfd"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_ANALYSIS_PARTIAL_HISTORY.md",
+      "sha256": "668b808556a74575807e3868877b3b56a877c759adc43621a458a6bfafe8af85"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/test_revised_feasibility.py",
+      "sha256": "b6fcfb55878a48264c0240f03d9b973bf35d73a868465016df31a10269de3cb6"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/DESIGN_INPUT_HASHES.json",
+      "sha256": "97364e995b429139fd6beef388ec1c0beeed7b8bc4764ef487213e5a73d62e92"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/test_synthetic_validation.py",
+      "sha256": "f70584ecc47700d70a29fe14c0b6f7ef389eba9503958a27e7f87be458ba3a0e"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_RESULTS_PARTIAL_HISTORY.json",
+      "sha256": "ea4f8068d388a18c9bf4cbec7d10b5879ef9cda1c6920ba4361110c52577b7ea"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/MODEL_COMPARISON_ANALYSIS.md",
+      "sha256": "cd4f2074e72f1e8c7334c0eb05375c97f068d81b855db6e78832f1b748ebfad1"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/revised_feasibility.py",
+      "sha256": "6db57f488b0a952865c9c0c2174c324e43d9b232a28c2a339bea1d26bac512fd"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/REVISED_INPUT_GATE.json",
+      "sha256": "d985d380dd5f2b89fd00d19c1f527b000f2fb7caf22894a593e2abc502e6a993"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/model_comparison/independent_audit.py",
+      "sha256": "f61e0ea449f5b7c79d59bf80e39df04a8e3fea2503d3f04c511297b3ef89e916"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/execute_extension_padded.py",
+      "sha256": "cfac140012bd22248caf72617ca44b6d776787d0028a09b867ab1cbf3068ff04"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/test_extension_adapter_padded.py",
+      "sha256": "afd176e7463b2a775692567bcdbd85354bbbdff12beeba55546b44e21072711c"
+    },
+    {
+      "receipt": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK_PADDED.json",
+      "field": "source_hashes",
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_EXTENSION_PRECHECK.json",
+      "sha256": "2bec6f862279736ae02603fe8b899dd51e0de10dda2341fc1e0d6f1e3f9cc0bc"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/MODEL_COMPARISON_AUDIT.json",
+      "sha256": "7ddffa12b1f81fe9d0f2690bc0fd5af2f509e6125039b914f3ba1108ce98d9e8"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/finite_models.py",
+      "sha256": "3c4acdec415ed2c7cb5795a8b7137fc59969766964df83c75abe471f5b16d320"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/run_finite_comparison.py",
+      "sha256": "3f02d3c4f73f2c4272372e9cd370b0cdd7906740831d9cea7d1e174012252abb"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/MODEL_COMPARISON_PRECHECK.json",
+      "sha256": "735e96358dba3248cfab1e70b0173d9d914b3ab3ecfb640ab1d086473cb8f28d"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/EXECUTABLE_VALIDATION.json",
+      "sha256": "834b31e8b20546d378dae23d44d47105b1c0025c03f5f952fc99e0e4ff622e46"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/reversal_diagnostic/private_adapter.py",
+      "sha256": "ba193a6a6c34064981a7775a80c7c71c25421c2904b610c714af555c4af20163"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/test_finite_models.py",
+      "sha256": "faff789ad2c1d3a62e32327113dee3426e795bb12af4210a20799389b997ca4f"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/reversal_diagnostic/reversal.py",
+      "sha256": "cd8f6f866e95259075ae882b473242bb9248807f6d7cd613f1389528ec615f0c"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/MODEL_COMPARISON_DESIGN.md",
+      "sha256": "031a2f686e5cf535f40396ed33be3f550b5d440f9d33ea91e74504eacc0a1ccf"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/MODEL_COMPARISON_REVISION.md",
+      "sha256": "d5aa473c71820e9ee735561c5979f642a2408bed1092aa3eec62cc165f40eb8f"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/reversal_diagnostic/test_reversal.py",
+      "sha256": "4b1f428833e77d5f609f0ff1067d98b90f26f4a0a9838e2ea8ac25661aaf38fa"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/MODEL_COMPARISON_PRECHECK_PARTIAL_HISTORY.json",
+      "sha256": "6311afdae7ad23b249b839a676cd0ee50a56fcf3a05a1a004443a7e605021b94"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/MODEL_COMPARISON_DISPOSITION.md",
+      "sha256": "52284c1af42b4af9fb46dbbd6fd72fcfbad027ddcb050e9caa839d754f75abfd"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/reversal_diagnostic/test_private_adapter.py",
+      "sha256": "166748072fe541aedc608a70b84c8aa0573081f03759b66213152467ea7211ae"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/test_revised_feasibility.py",
+      "sha256": "b6fcfb55878a48264c0240f03d9b973bf35d73a868465016df31a10269de3cb6"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/reversal_diagnostic/VALIDATION.json",
+      "sha256": "e2e09b4a76c66a5d0e24aebd14e76b4ed4319f541b9ec51242571a2bdfac8e91"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/reversal_diagnostic/REVERSAL_DESIGN.md",
+      "sha256": "efb56dcf048de6b1c9e7c43339e2a0f96aacf1ed54e8e4e21cee04f6d72774b0"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/revised_feasibility.py",
+      "sha256": "6db57f488b0a952865c9c0c2174c324e43d9b232a28c2a339bea1d26bac512fd"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "field": "files",
+      "path": "review/model_comparison/REVISED_INPUT_GATE.json",
+      "sha256": "d985d380dd5f2b89fd00d19c1f527b000f2fb7caf22894a593e2abc502e6a993"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/REVERSAL_INTEGRITY.json",
+      "field": "artifacts",
+      "path": "review/reversal_diagnostic/REVERSAL_DESIGN.md",
+      "sha256": "efb56dcf048de6b1c9e7c43339e2a0f96aacf1ed54e8e4e21cee04f6d72774b0"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/REVERSAL_INTEGRITY.json",
+      "field": "artifacts",
+      "path": "review/reversal_diagnostic/reversal.py",
+      "sha256": "cd8f6f866e95259075ae882b473242bb9248807f6d7cd613f1389528ec615f0c"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/REVERSAL_INTEGRITY.json",
+      "field": "artifacts",
+      "path": "review/reversal_diagnostic/test_reversal.py",
+      "sha256": "4b1f428833e77d5f609f0ff1067d98b90f26f4a0a9838e2ea8ac25661aaf38fa"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/REVERSAL_INTEGRITY.json",
+      "field": "artifacts",
+      "path": "review/reversal_diagnostic/private_adapter.py",
+      "sha256": "ba193a6a6c34064981a7775a80c7c71c25421c2904b610c714af555c4af20163"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/REVERSAL_INTEGRITY.json",
+      "field": "artifacts",
+      "path": "review/reversal_diagnostic/test_private_adapter.py",
+      "sha256": "166748072fe541aedc608a70b84c8aa0573081f03759b66213152467ea7211ae"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/REVERSAL_INTEGRITY.json",
+      "field": "artifacts",
+      "path": "review/reversal_diagnostic/ADAPTER_PRECHECK.json",
+      "sha256": "0612cf4a0a7f8583cf0f707d480517e9225c4e3a40da64219e68325a672f2aa6"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/REVERSAL_INTEGRITY.json",
+      "field": "artifacts",
+      "path": "review/reversal_diagnostic/REVERSAL_RESULTS.json",
+      "sha256": "b3671505a0b4feee90f26781834afc5415b51c0a2058cefe85d44096490862f8"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/REVERSAL_INTEGRITY.json",
+      "field": "artifacts",
+      "path": "review/reversal_diagnostic/REVERSAL_CLOSEOUT.md",
+      "sha256": "b9ffb26fdc0675aaec80717986e32a5b3112e6480903639df6b3792b37e308ec"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/VALIDATION.json",
+      "field": "source_sha256",
+      "path": "review/model_comparison/run_finite_comparison.py",
+      "sha256": "3f02d3c4f73f2c4272372e9cd370b0cdd7906740831d9cea7d1e174012252abb"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/VALIDATION.json",
+      "field": "source_sha256",
+      "path": "review/model_comparison/finite_models.py",
+      "sha256": "3c4acdec415ed2c7cb5795a8b7137fc59969766964df83c75abe471f5b16d320"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/VALIDATION.json",
+      "field": "source_sha256",
+      "path": "review/model_comparison/revised_feasibility.py",
+      "sha256": "6db57f488b0a952865c9c0c2174c324e43d9b232a28c2a339bea1d26bac512fd"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/VALIDATION.json",
+      "field": "source_sha256",
+      "path": "review/model_comparison/MODEL_COMPARISON_CLOSEOUT.md",
+      "sha256": "06dac1ade364c56c07ac5fae9f6c2f439e241577d0d90668a1ab9921f7fc0ad1"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/VALIDATION.json",
+      "field": "source_sha256",
+      "path": "review/family_baseline_extension/FAMILY_BASELINE_CLOSEOUT.md",
+      "sha256": "b6053714874744aa044bd4d88c1f8c00d3f21943c8e3db53d915f3f558b21896"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/VALIDATION.json",
+      "field": "source_sha256",
+      "path": "review/geometry_specificity/PILOT_CLOSEOUT.md",
+      "sha256": "16a7a6484f7d83b765a57551827b2258444e6a4e7105707ddc3bed7819e6b44a"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/VALIDATION.json",
+      "field": "artifact_sha256",
+      "path": "review/reversal_diagnostic/REVERSAL_DESIGN.md",
+      "sha256": "efb56dcf048de6b1c9e7c43339e2a0f96aacf1ed54e8e4e21cee04f6d72774b0"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/VALIDATION.json",
+      "field": "artifact_sha256",
+      "path": "review/reversal_diagnostic/reversal.py",
+      "sha256": "cd8f6f866e95259075ae882b473242bb9248807f6d7cd613f1389528ec615f0c"
+    },
+    {
+      "receipt": "review/reversal_diagnostic/VALIDATION.json",
+      "field": "artifact_sha256",
+      "path": "review/reversal_diagnostic/test_reversal.py",
+      "sha256": "4b1f428833e77d5f609f0ff1067d98b90f26f4a0a9838e2ea8ac25661aaf38fa"
+    }
+  ],
+  "verification_scope": "Local scientific receipt/source hashes verified; remote private hashes attested by existing passed receipts, not re-read in this no-Spark stage.",
+  "privacy_review": "All selected text and recursive JSON content inspected; only aggregate controller summaries, no per-family arrays, raw outcomes, private identities, vectors, credentials or infrastructure paths."
+}

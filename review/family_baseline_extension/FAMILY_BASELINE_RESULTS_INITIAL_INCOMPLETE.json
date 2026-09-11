@@ -1,0 +1,25 @@
+{
+  "status": "incomplete",
+  "reason": "Adapter schedule condition formatting mismatch; stopped before private outcome parsing.",
+  "baseline_folds_completed": 0,
+  "scalar_roots_completed": 0,
+  "comparison_groups_completed": 0,
+  "private_outcomes_loaded": false,
+  "HG_parameters_loaded": false,
+  "refits": 0,
+  "inference": 0,
+  "publication": false,
+  "synthetic_tests_passed": 16,
+  "precheck_sha256": "2bec6f862279736ae02603fe8b899dd51e0de10dda2341fc1e0d6f1e3f9cc0bc",
+  "diagnostic": {
+    "schedule_rows": 17760,
+    "unique_schedule_keys": 17760,
+    "condition_numeric_suffix_width": 2,
+    "numeric_suffix_coverage_matches": true,
+    "private_output_directory_created": false
+  },
+  "source_hashes_unchanged": true,
+  "preexisting_tracked_changes": [],
+  "scientific_conclusion": "No new empirical result. Historical geometric conclusions unchanged.",
+  "next_disposition": "Supervisor must review an additive adapter correction and revised precheck before another execution; independent numerical audit remains pending."
+}

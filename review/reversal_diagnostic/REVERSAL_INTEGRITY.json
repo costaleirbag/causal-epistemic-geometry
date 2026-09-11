@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "preexisting_tracked_files_verified": 2720,
+  "changed_preexisting_files": [],
+  "synthetic_tests_passed": 19,
+  "safe_aggregate_transfer_sha256": "b3671505a0b4feee90f26781834afc5415b51c0a2058cefe85d44096490862f8",
+  "private_seal_sha256": "fc3f1db6b1487d45d2ef2e3e54e76db77283e2f5c01188d3b7bea3f3278561c8",
+  "private_seal_permissions": "0400",
+  "private_seal_reverified_after_execution": true,
+  "checks": {
+    "checkpoint_manifest": true,
+    "historical_inputs_checkpoints_unchanged": true,
+    "identity_schedule_coverage": true,
+    "input_hashes": true,
+    "max_separate_reconstruction_probability_error": 1.6653345369377348e-16,
+    "objective_only_start_selection": true,
+    "original_seals": true,
+    "same_executor_separate_selection_arithmetic": true,
+    "selection_seal_verified": true,
+    "source_hashes": true
+  },
+  "held_evaluation": "not applicable: design no-go branch",
+  "reviewer_independence": "same executor, separate arithmetic",
+  "artifacts": {
+    "REVERSAL_DESIGN.md": "efb56dcf048de6b1c9e7c43339e2a0f96aacf1ed54e8e4e21cee04f6d72774b0",
+    "reversal.py": "cd8f6f866e95259075ae882b473242bb9248807f6d7cd613f1389528ec615f0c",
+    "test_reversal.py": "4b1f428833e77d5f609f0ff1067d98b90f26f4a0a9838e2ea8ac25661aaf38fa",
+    "private_adapter.py": "ba193a6a6c34064981a7775a80c7c71c25421c2904b610c714af555c4af20163",
+    "test_private_adapter.py": "166748072fe541aedc608a70b84c8aa0573081f03759b66213152467ea7211ae",
+    "ADAPTER_PRECHECK.json": "0612cf4a0a7f8583cf0f707d480517e9225c4e3a40da64219e68325a672f2aa6",
+    "REVERSAL_RESULTS.json": "b3671505a0b4feee90f26781834afc5415b51c0a2058cefe85d44096490862f8",
+    "REVERSAL_CLOSEOUT.md": "b9ffb26fdc0675aaec80717986e32a5b3112e6480903639df6b3792b37e308ec"
+  }
+}

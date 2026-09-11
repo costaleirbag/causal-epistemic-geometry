@@ -1,0 +1,31 @@
+{
+  "adapter_precheck_sha256": "0612cf4a0a7f8583cf0f707d480517e9225c4e3a40da64219e68325a672f2aa6",
+  "candidate_pairs": 66,
+  "checks": {
+    "checkpoint_manifest": true,
+    "historical_inputs_checkpoints_unchanged": true,
+    "identity_schedule_coverage": true,
+    "input_hashes": true,
+    "max_separate_reconstruction_probability_error": 1.6653345369377348e-16,
+    "objective_only_start_selection": true,
+    "original_seals": true,
+    "same_executor_separate_selection_arithmetic": true,
+    "selection_seal_verified": true,
+    "source_hashes": true
+  },
+  "decision": "NO_GO_NO_TRAIN_REVERSAL",
+  "group_sizes": [
+    30,
+    30
+  ],
+  "held_evaluations": 0,
+  "held_outcomes_parsed": false,
+  "margin": 0.05,
+  "runtime_sha256": "88c3b2476c7553efcf04bca0225bef738f68d3ab95d4d77e785cb0340f99a3b7",
+  "scientific_scope": "Broad reversal in balanced halves only; no-go does not rule out localized crossing. Retrospective, no confirmation or specificity claim.",
+  "selected_pairs": 0,
+  "selected_start": 1,
+  "selection_seal_sha256": "fc3f1db6b1487d45d2ef2e3e54e76db77283e2f5c01188d3b7bea3f3278561c8",
+  "status": "complete",
+  "verification_scope": "Same executor with separate arithmetic, not independent reviewer. Opaque file hashing does not parse outcomes."
+}
